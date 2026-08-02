@@ -1828,79 +1828,6 @@
   },
   {
    "verse_numbers": [
-    "45"
-   ],
-   "english": "But the man went out and openly began to proclaim and spread the news. Consequently, Jesus could no longer enter a town in plain view, but He stayed out in solitary places. Yet people came to Him from every quarter.",
-   "lines": [
-    {
-     "text": "But the man went out and began to proclaim it openly — Jesus had told him to tell no one.",
-     "indices": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-     ]
-    },
-    {
-     "text": "The man spread the news about Jesus.",
-     "indices": [
-      10,
-      11,
-      12,
-      13
-     ]
-    },
-    {
-     "text": "So Jesus could no longer enter a town openly.",
-     "indices": [
-      14,
-      15,
-      16,
-      17,
-      18,
-      19,
-      20,
-      21,
-      22,
-      23,
-      24
-     ]
-    },
-    {
-     "text": "Jesus stayed outside in lonely places.",
-     "indices": [
-      25,
-      26,
-      27,
-      28,
-      29,
-      30,
-      31
-     ]
-    },
-    {
-     "text": "Yet people still came to Jesus from everywhere.",
-     "indices": [
-      32,
-      33,
-      34,
-      35,
-      36,
-      37,
-      38,
-      39
-     ]
-    }
-   ]
-  },
-  {
-   "verse_numbers": [
     "43",
     "44"
    ],
@@ -1970,6 +1897,79 @@
       6,
       7,
       8
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "45"
+   ],
+   "english": "But the man went out and openly began to proclaim and spread the news. Consequently, Jesus could no longer enter a town in plain view, but He stayed out in solitary places. Yet people came to Him from every quarter.",
+   "lines": [
+    {
+     "text": "The man went out and began to proclaim openly that Jesus healed him — even though Jesus had told him to tell no one.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "The man spread the news about Jesus — making Jesus more famous.",
+     "indices": [
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "So Jesus could no longer enter a town openly — for people would recognize Him and crowd around Him.",
+     "indices": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+     ]
+    },
+    {
+     "text": "So instead Jesus stayed outside in lonely places.",
+     "indices": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+     ]
+    },
+    {
+     "text": "Yet people still came to Jesus from everywhere.",
+     "indices": [
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
      ]
     }
    ]

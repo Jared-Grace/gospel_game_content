@@ -223,6 +223,116 @@
      ]
     }
    ]
+  },
+  {
+   "verse_numbers": [
+    "5"
+   ],
+   "english": "For John baptized with water, but in a few days you will be baptized with the Holy Spirit.”",
+   "lines": [
+    {
+     "text": "Jesus told His apostles, “John the Baptist baptized people with water.”",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "Jesus said to them, “But you will be baptized with the Holy Spirit.”",
+     "indices": [
+      5,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "text": "Jesus said this would happen in a few days.",
+     "indices": [
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "John the Baptist himself had said that Jesus would baptize people with the Holy Spirit.",
+     "indices": [
+      1,
+      2,
+      13,
+      16,
+      17
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "6"
+   ],
+   "english": "So when they came together, they asked Him, “Lord, will You at this time restore the kingdom to Israel?”",
+   "lines": [
+    {
+     "text": "So the apostles came together with Jesus.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "The apostles asked Jesus a question.",
+     "indices": [
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "The apostles said, “Lord, will You at this time restore the kingdom to Israel?”",
+     "indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "The apostles were asking if Jesus would now free Israel and make it a kingdom again.",
+     "indices": [
+      11,
+      12,
+      13,
+      14,
+      16,
+      18
+     ]
+    },
+    {
+     "text": "Israel had been ruled by the Romans for many years.",
+     "indices": [
+      18
+     ]
+    }
+   ]
   }
  ]
 }

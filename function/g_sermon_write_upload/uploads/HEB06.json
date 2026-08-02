@@ -468,6 +468,64 @@
      ]
     }
    ]
+  },
+  {
+   "verse_numbers": [
+    "11"
+   ],
+   "english": "We want each of you to show this same diligence to the very end, in order to make your hope sure.",
+   "lines": [
+    {
+     "text": "We want each of you to show this same diligence — the same eager work you showed in serving God's people.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "Diligence means working hard for God and never giving up.",
+     "indices": [
+      9
+     ]
+    },
+    {
+     "text": "Keep showing this diligence to the very end.",
+     "indices": [
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "Do this in order to make your hope sure.",
+     "indices": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+     ]
+    },
+    {
+     "text": "A sure hope means being fully certain of what God has promised you.",
+     "indices": [
+      18,
+      19,
+      20
+     ]
+    }
+   ]
   }
  ]
 }
