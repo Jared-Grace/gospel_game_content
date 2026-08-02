@@ -19,6 +19,23 @@ version of every sentence, which is the difference between a copy and a backup.
 - `generations.json` — the version each file was at when it was last copied
   down. It is how a pass knows which files moved.
 
+### `original/`
+
+The same content as first written, before anyone edited it.
+
+Editing happens in a browser, which can reach the store but not the machine that
+generated the text. So for a chapter someone has rewritten, the generating
+machine still holds the wording it was changed from, and nothing else does.
+`original/` is that copy.
+
+For most chapters the two agree exactly. Where they differ, `function/` has the
+newer wording and `original/` has the older. Neither is simply the right one —
+which you want depends on what you are asking.
+
+`original/app_g_bible/` is the editing screen's own working copy: for each
+passage, the English text, the preaching lines, and the Greek or Hebrew it was
+translated from.
+
 Chapter codes are three letters and two digits: `ROM01` is Romans 1, `1JN03` is
 1 John 3.
 
