@@ -416,7 +416,7 @@
      ]
     },
     {
-     "text": "Paul does not want women to dress with braided hair, gold, pearls, or expensive clothes.",
+     "text": "Paul does not want women to dress with braided hair, gold, pearls, or expensive clothes — in Paul's day these were how a rich woman showed her wealth.",
      "indices": [
       17,
       18,
@@ -427,17 +427,6 @@
       23,
       24,
       25,
-      26,
-      27
-     ]
-    },
-    {
-     "text": "In Paul's day these were how a rich woman showed her wealth.",
-     "indices": [
-      19,
-      20,
-      22,
-      24,
       26,
       27
      ]
