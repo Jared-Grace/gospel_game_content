@@ -316,6 +316,68 @@
      ]
     }
    ]
+  },
+  {
+   "verse_numbers": [
+    "7"
+   ],
+   "english": "Jesus replied, “It is not for you to know times or seasons that the Father has fixed by His own authority.",
+   "lines": [
+    {
+     "text": "Jesus replied to the apostles' question.",
+     "indices": [
+      0,
+      1
+     ]
+    },
+    {
+     "text": "Jesus said to the apostles, “It is not for you to know times or seasons.”",
+     "indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "Jesus said to the apostles, “It is not for you to know times” — a time is how long it will be until something happens.",
+     "indices": [
+      9
+     ]
+    },
+    {
+     "text": "Jesus said to the apostles, “It is not for you to know seasons” — a season is the right moment for something to happen.",
+     "indices": [
+      10,
+      11
+     ]
+    },
+    {
+     "text": "The Father has fixed these times and seasons — to fix a time is to decide when it will happen.",
+     "indices": [
+      12,
+      13,
+      14,
+      15,
+      16
+     ]
+    },
+    {
+     "text": "The Father fixed these times and seasons by His own authority — authority is the right to decide.",
+     "indices": [
+      17,
+      18,
+      19,
+      20
+     ]
+    }
+   ]
   }
  ]
 }

@@ -520,6 +520,74 @@
      ]
     }
    ]
+  },
+  {
+   "verse_numbers": [
+    "12"
+   ],
+   "english": "Then you will not be sluggish, but will imitate those who through faith and patience inherit what has been promised.",
+   "lines": [
+    {
+     "text": "Then you will not be sluggish — sluggish means slow to move, dragging your feet.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "But you will imitate those who inherit what has been promised — to imitate someone is to copy the way they live.",
+     "indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      15,
+      16,
+      17,
+      18,
+      19
+     ]
+    },
+    {
+     "text": "The people you should imitate inherit what has been promised — God is the One who promised it.",
+     "indices": [
+      15,
+      16,
+      17,
+      18,
+      19
+     ]
+    },
+    {
+     "text": "The people you should imitate inherit what has been promised through faith.",
+     "indices": [
+      11,
+      12,
+      15,
+      16,
+      17,
+      18,
+      19
+     ]
+    },
+    {
+     "text": "The people you should imitate inherit what has been promised through patience — patience means waiting a long time for God without giving up.",
+     "indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+     ]
+    }
+   ]
   }
  ]
 }
