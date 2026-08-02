@@ -1,0 +1,953 @@
+{
+ "chapter_code": "1TI01",
+ "passages": [
+  {
+   "verse_numbers": [
+    "1",
+    "2"
+   ],
+   "english": "Paul, an apostle of Christ Jesus by the command of God our Savior and of Christ Jesus our hope, To Timothy, my true child in the faith: Grace, mercy, and peace from God the Father and Christ Jesus our Lord.",
+   "lines": [
+    {
+     "text": "God the Father is our Savior.",
+     "indices": [
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "And His Son, Christ Jesus, is our hope.",
+     "indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "This letter is from Paul.",
+     "indices": [
+      0
+     ]
+    },
+    {
+     "text": "Paul is an apostle of Christ Jesus — someone Christ sent out to the nations.",
+     "indices": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "God and Christ commanded Paul to be an apostle.",
+     "indices": [
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "Timothy is Paul's true spiritual son in the faith.",
+     "indices": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+     ]
+    },
+    {
+     "text": "Paul blesses Timothy with grace, mercy, and peace.",
+     "indices": [
+      27,
+      28,
+      29,
+      30
+     ]
+    },
+    {
+     "text": "This grace, mercy, and peace come from God the Father.",
+     "indices": [
+      31,
+      32,
+      33,
+      34
+     ]
+    },
+    {
+     "text": "This grace, mercy, and peace also come from Christ Jesus.",
+     "indices": [
+      35,
+      36,
+      37
+     ]
+    },
+    {
+     "text": "Christ Jesus is our Lord — Lord of Paul, Timothy, and all of us.",
+     "indices": [
+      38,
+      39
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "3",
+    "4"
+   ],
+   "english": "As I urged you on my departure to Macedonia, you should stay on at Ephesus to instruct certain men not to teach false doctrines or devote themselves to myths and endless genealogies, which promote speculation rather than the stewardship of God’s work, which is by faith.",
+   "lines": [
+    {
+     "text": "When Paul left to travel to the region of Macedonia, he urged Timothy to stay behind in the city of Ephesus.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "Paul charged Timothy to command certain men in Ephesus not to spread false teachings.",
+     "indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+     ]
+    },
+    {
+     "text": "They must not give their attention to made-up stories and endless lists of ancestors.",
+     "indices": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+     ]
+    },
+    {
+     "text": "These things only stir up pointless arguments.",
+     "indices": [
+      32,
+      33,
+      34
+     ]
+    },
+    {
+     "text": "They do not advance God's work, which goes forward only by faith.",
+     "indices": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "5"
+   ],
+   "english": "The goal of our instruction is the love that comes from a pure heart, a clear conscience, and a sincere faith.",
+   "lines": [
+    {
+     "text": "Paul gave this charge for one great purpose.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "The goal of this charge is love.",
+     "indices": [
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "This love flows from a pure heart.",
+     "indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "This love flows from a clear conscience — an inner sense that you are living rightly before God.",
+     "indices": [
+      14,
+      15,
+      16
+     ]
+    },
+    {
+     "text": "And this love flows from a sincere faith — a faith that is real, not pretended.",
+     "indices": [
+      17,
+      18,
+      19,
+      20
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "6"
+   ],
+   "english": "Some have strayed from these ways and turned aside to empty talk.",
+   "lines": [
+    {
+     "text": "But some people have missed this goal of love completely.",
+     "indices": [
+      0,
+      1,
+      2
+     ]
+    },
+    {
+     "text": "They have wandered away from the way of love.",
+     "indices": [
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "Instead of love, they have turned aside to meaningless, empty talk.",
+     "indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "7"
+   ],
+   "english": "They want to be teachers of the law, but they do not understand what they are saying or that which they so confidently assert.",
+   "lines": [
+    {
+     "text": "These people who missed the goal of love want to be teachers of God's law.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "But when they speak about God's law, they do not even understand the words they are saying.",
+     "indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+     ]
+    },
+    {
+     "text": "And they do not understand the very things they so confidently claim to be true.",
+     "indices": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "8"
+   ],
+   "english": "Now we know that the law is good, if one uses it legitimately.",
+   "lines": [
+    {
+     "text": "Now we know that God's law is good.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "The law itself is never the problem.",
+     "indices": [
+      4,
+      5
+     ]
+    },
+    {
+     "text": "But a person must use the law the right way, as God intended it.",
+     "indices": [
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "9",
+    "10",
+    "11"
+   ],
+   "english": "We realize that law is not enacted for the righteous, but for the lawless and rebellious, for the ungodly and sinful, for the unholy and profane, for killers of father or mother, for murderers, for the sexually immoral, for homosexuals, for slave traders and liars and perjurers, and for anyone else who is averse to sound teaching that agrees with the glorious gospel of the blessed God, with which I have been entrusted.",
+   "lines": [
+    {
+     "text": "God's law is not made for those who already do what is right.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "The law is made for those who break it and refuse to obey.",
+     "indices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+     ]
+    },
+    {
+     "text": "The law is for the ungodly and sinful, for the unholy and profane.",
+     "indices": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+     ]
+    },
+    {
+     "text": "The law is for those who kill their own father or mother or anyone else.",
+     "indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+     ]
+    },
+    {
+     "text": "The law is for the sexually immoral, and for men who commit homosexual acts.",
+     "indices": [
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+     ]
+    },
+    {
+     "text": "The law is for those who force people to be slaves, and liars, and those who break their promises under oath.",
+     "indices": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+     ]
+    },
+    {
+     "text": "And the law is for anyone else who opposes sound teaching — the healthy, true message of God.",
+     "indices": [
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+     ]
+    },
+    {
+     "text": "This sound teaching agrees with the gospel — the good news of our glorious and blessed God.",
+     "indices": [
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+     ]
+    },
+    {
+     "text": "And God has entrusted this good news to Paul.",
+     "indices": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "12"
+   ],
+   "english": "I thank Christ Jesus our Lord, who has strengthened me, that He considered me faithful and appointed me to service.",
+   "lines": [
+    {
+     "text": "Paul thanks Christ Jesus our Lord.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "Christ Jesus has strengthened Paul.",
+     "indices": [
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "Christ considered Paul faithful.",
+     "indices": [
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "So Christ appointed Paul to serve him.",
+     "indices": [
+      15,
+      16,
+      17,
+      18,
+      19
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "13"
+   ],
+   "english": "I was formerly a blasphemer, a persecutor, and a violent man; yet because I had acted in ignorance and unbelief, I was shown mercy.",
+   "lines": [
+    {
+     "text": "Paul was once a blasphemer — he spoke against God.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "Paul was a persecutor — he attacked the followers of Jesus.",
+     "indices": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "Paul was a violent man.",
+     "indices": [
+      7,
+      8,
+      9,
+      10
+     ]
+    },
+    {
+     "text": "But Paul did all this in ignorance — he thought he was serving God.",
+     "indices": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "text": "And Paul did all this as an unbeliever.",
+     "indices": [
+      18,
+      19
+     ]
+    },
+    {
+     "text": "So God had mercy on Paul.",
+     "indices": [
+      20,
+      21,
+      22,
+      23
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "14"
+   ],
+   "english": "And the grace of our Lord overflowed to me, along with the faith and love that are in Christ Jesus.",
+   "lines": [
+    {
+     "text": "The grace of our Lord overflowed to Paul — far greater than his sin.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "This grace brought faith and love with it.",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "This faith and love are found in Christ Jesus.",
+     "indices": [
+      15,
+      16,
+      17,
+      18,
+      19
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "15"
+   ],
+   "english": "This is a trustworthy saying, worthy of full acceptance: Christ Jesus came into the world to save sinners, of whom I am the worst.",
+   "lines": [
+    {
+     "text": "Christ Jesus came into the world.",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "Christ Jesus came to save sinners.",
+     "indices": [
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "text": "And Paul said, \"Of all sinners, I am the worst.\"",
+     "indices": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+     ]
+    },
+    {
+     "text": "This is a saying you can trust.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "You should fully accept this saying.",
+     "indices": [
+      5,
+      6,
+      7,
+      8
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "16"
+   ],
+   "english": "But for this very reason I was shown mercy, so that in me, the worst of sinners, Christ Jesus might display His perfect patience as an example to those who would believe in Him for eternal life.",
+   "lines": [
+    {
+     "text": "Paul was the worst of sinners.",
+     "indices": [
+      13,
+      14,
+      15,
+      16
+     ]
+    },
+    {
+     "text": "But Christ Jesus chose to show His perfect patience in Paul.",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+     ]
+    },
+    {
+     "text": "Christ did this to make Paul an example — that is why God showed Paul mercy.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      24,
+      25,
+      26
+     ]
+    },
+    {
+     "text": "Paul is an example of God's mercy for those who would later believe in Christ.",
+     "indices": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+     ]
+    },
+    {
+     "text": "And everyone who believes in Christ will have eternal life.",
+     "indices": [
+      34,
+      35,
+      36
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "17"
+   ],
+   "english": "Now to the King eternal, immortal, and invisible, the only God, be honor and glory forever and ever. Amen.",
+   "lines": [
+    {
+     "text": "God is the King who reigns forever.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "God can never die.",
+     "indices": [
+      5
+     ]
+    },
+    {
+     "text": "No one can see God.",
+     "indices": [
+      6,
+      7
+     ]
+    },
+    {
+     "text": "God is the one and only God.",
+     "indices": [
+      8,
+      9,
+      10
+     ]
+    },
+    {
+     "text": "Honor belongs to God forever.",
+     "indices": [
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Glory belongs to God forever and ever.",
+     "indices": [
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "text": "Amen.",
+     "indices": [
+      18
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "18",
+    "19"
+   ],
+   "english": "Timothy, my child, I entrust you with this command in keeping with the previous prophecies about you, so that by them you may fight the good fight, holding on to faith and a good conscience, which some have rejected and thereby shipwrecked their faith.",
+   "lines": [
+    {
+     "text": "Paul entrusted this charge to Timothy, his child in the faith.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "This charge agrees with the prophecies once spoken about Timothy.",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+     ]
+    },
+    {
+     "text": "Encouraged by these prophecies, Timothy could fight the good fight.",
+     "indices": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+     ]
+    },
+    {
+     "text": "Timothy was to hold on to faith and a good conscience.",
+     "indices": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+     ]
+    },
+    {
+     "text": "But some people have rejected a good conscience.",
+     "indices": [
+      35,
+      36,
+      37,
+      38
+     ]
+    },
+    {
+     "text": "And so they have shipwrecked their faith.",
+     "indices": [
+      39,
+      40,
+      41,
+      42,
+      43
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "20"
+   ],
+   "english": "Among them are Hymenaeus and Alexander, whom I have handed over to Satan to be taught not to blaspheme.",
+   "lines": [
+    {
+     "text": "Hymenaeus and Alexander were among those people who had rejected the faith.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "Paul handed Hymenaeus and Alexander over to Satan.",
+     "indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Paul did this so that Hymenaeus and Alexander would be taught to stop speaking evil against God.",
+     "indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    }
+   ]
+  }
+ ]
+}

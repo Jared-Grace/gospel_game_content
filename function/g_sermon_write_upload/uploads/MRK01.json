@@ -1,0 +1,1978 @@
+{
+ "chapter_code": "MRK01",
+ "passages": [
+  {
+   "verse_numbers": [
+    "1"
+   ],
+   "english": "This is the beginning of the gospel of Jesus Christ, the Son of God.",
+   "lines": [
+    {
+     "text": "This is the beginning of the gospel, the good news.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "text": "This good news is about Jesus Christ, God's promised King.",
+     "indices": [
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "Jesus Christ is the Son of God.",
+     "indices": [
+      10,
+      11,
+      12,
+      13
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "2"
+   ],
+   "english": "As it is written in Isaiah the prophet: “Behold, I will send My messenger ahead of You, who will prepare Your way.”",
+   "lines": [
+    {
+     "text": "This is what Isaiah the prophet wrote:",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "“Look, I will send My messenger ahead of You.”",
+     "indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+     ]
+    },
+    {
+     "text": "“This messenger will prepare Your way.”",
+     "indices": [
+      17,
+      18,
+      19,
+      20,
+      21
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "3"
+   ],
+   "english": "“A voice of one calling in the wilderness, ‘Prepare the way for the Lord, make straight paths for Him.’ ”",
+   "lines": [
+    {
+     "text": "A voice cries out in the wilderness:",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "“Prepare the way for the Lord.”",
+     "indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "“Make straight paths for Him.”",
+     "indices": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "4"
+   ],
+   "english": "John the Baptist appeared in the wilderness, preaching a baptism of repentance for the forgiveness of sins.",
+   "lines": [
+    {
+     "text": "John the Baptist appeared in the wilderness.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "text": "John preached a baptism of repentance — turning from sin back to God.",
+     "indices": [
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "This baptism was for the forgiveness of sins.",
+     "indices": [
+      12,
+      13,
+      14,
+      15,
+      16
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "5"
+   ],
+   "english": "People went out to him from all of Jerusalem and the countryside of Judea. Confessing their sins, they were baptized by him in the Jordan River.",
+   "lines": [
+    {
+     "text": "People went out to John.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "They came from all of Jerusalem.",
+     "indices": [
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "They also came from the countryside of Judea.",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "They confessed their sins.",
+     "indices": [
+      14,
+      15,
+      16
+     ]
+    },
+    {
+     "text": "And John baptized them in the Jordan River.",
+     "indices": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "6"
+   ],
+   "english": "John was clothed in camel’s hair, with a leather belt around his waist. His food was locusts and wild honey.",
+   "lines": [
+    {
+     "text": "John wore clothing made of camel's hair.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "John had a leather belt around his waist.",
+     "indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "John's food was locusts — a kind of insect that jumps.",
+     "indices": [
+      13,
+      14,
+      15,
+      16
+     ]
+    },
+    {
+     "text": "John also ate wild honey.",
+     "indices": [
+      17,
+      18,
+      19
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "7"
+   ],
+   "english": "And he began to proclaim: “After me will come One more powerful than I, the straps of whose sandals I am not worthy to stoop down and untie.",
+   "lines": [
+    {
+     "text": "After John will come Jesus.",
+     "indices": [
+      5,
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "Jesus is more powerful than John.",
+     "indices": [
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "Jesus wore sandals with straps.",
+     "indices": [
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "Someone could stoop down and untie those sandal straps.",
+     "indices": [
+      23,
+      24,
+      25,
+      26,
+      27
+     ]
+    },
+    {
+     "text": "But John is not worthy even to untie Jesus' sandals.",
+     "indices": [
+      19,
+      20,
+      21,
+      22
+     ]
+    },
+    {
+     "text": "This is the message John began to proclaim.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "8"
+   ],
+   "english": "I baptize you with water, but He will baptize you with the Holy Spirit.”",
+   "lines": [
+    {
+     "text": "John said, \"I baptize you with water.\"",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "\"But he will baptize you with the Holy Spirit\" — John was speaking of Jesus.",
+     "indices": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "10"
+   ],
+   "english": "As soon as Jesus came up out of the water, He saw the heavens breaking open and the Spirit descending on Him like a dove.",
+   "lines": [
+    {
+     "text": "As soon as Jesus came up out of the water, He saw the heavens torn open.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+     ]
+    },
+    {
+     "text": "And the Holy Spirit came down on Jesus like a dove.",
+     "indices": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "11"
+   ],
+   "english": "And a voice came from heaven: “You are My beloved Son; in You I am well pleased.”",
+   "lines": [
+    {
+     "text": "And a voice came from heaven, speaking to Jesus:",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "\"You are My beloved Son.\"",
+     "indices": [
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    },
+    {
+     "text": "\"In You I am well pleased.\"",
+     "indices": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "12",
+    "13"
+   ],
+   "english": "At once the Spirit drove Jesus into the wilderness, and He was there for forty days, being tempted by Satan. He was with the wild animals, and the angels ministered to Him.",
+   "lines": [
+    {
+     "text": "After being baptized, at once, the Spirit drove Jesus out into the wilderness — a wild, empty land.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "Jesus was there for forty days, tempted by Satan, God's enemy.",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+     ]
+    },
+    {
+     "text": "Jesus was among the wild animals.",
+     "indices": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+     ]
+    },
+    {
+     "text": "And the angels served Him.",
+     "indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "9"
+   ],
+   "english": "In those days Jesus came from Nazareth in Galilee and was baptized by John in the Jordan.",
+   "lines": [
+    {
+     "text": "In those days, Jesus came from Nazareth, a town in Galilee — the northern region of Israel.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "And Jesus was baptized by John in the Jordan River.",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "14"
+   ],
+   "english": "After the arrest of John, Jesus went into Galilee and proclaimed the gospel of God.",
+   "lines": [
+    {
+     "text": "John was arrested.",
+     "indices": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "After the arrest, Jesus went into Galilee.",
+     "indices": [
+      0,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "In Galilee Jesus preached the gospel of God — the good news from God.",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "15"
+   ],
+   "english": "“The time is fulfilled,” He said, “and the kingdom of God is near. Repent and believe in the gospel!”",
+   "lines": [
+    {
+     "text": "Jesus said, \"The time has come.\"",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "\"The kingdom of God — God's rule as King — is near.\"",
+     "indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "\"Repent — turn away from your sins to God.\"",
+     "indices": [
+      13
+     ]
+    },
+    {
+     "text": "\"And believe the good news!\"",
+     "indices": [
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "16"
+   ],
+   "english": "As Jesus was walking beside the Sea of Galilee, He saw Simon and his brother Andrew. They were casting a net into the sea, for they were fishermen.",
+   "lines": [
+    {
+     "text": "Simon and Andrew are brothers.",
+     "indices": [
+      11,
+      12,
+      13,
+      14,
+      15
+     ]
+    },
+    {
+     "text": "They were both fishermen.",
+     "indices": [
+      24,
+      25,
+      26,
+      27
+     ]
+    },
+    {
+     "text": "Andrew and Simon were at the Sea of Galilee to catch fish.",
+     "indices": [
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "So they were casting a net into the sea.",
+     "indices": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+     ]
+    },
+    {
+     "text": "Jesus was at the Sea of Galilee.",
+     "indices": [
+      1,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "Jesus was walking beside the sea.",
+     "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "text": "As Jesus was walking beside the sea, He saw Simon and Andrew.",
+     "indices": [
+      0,
+      9,
+      10,
+      11,
+      15
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "17"
+   ],
+   "english": "“Come, follow Me,” Jesus said, “and I will make you fishers of men.”",
+   "lines": [
+    {
+     "text": "Jesus said to Simon and Andrew, \"Come, follow Me.\"",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "Jesus promised, \"And I will make you fishers of men.\"",
+     "indices": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Andrew and Simon once caught fish; now Jesus would make them fishers of people, gathering them for God.",
+     "indices": [
+      8,
+      10,
+      12
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "18"
+   ],
+   "english": "And at once they left their nets and followed Him.",
+   "lines": [
+    {
+     "text": "At once, Simon and Andrew left their nets.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "text": "And they followed Jesus.",
+     "indices": [
+      7,
+      8,
+      9
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "19"
+   ],
+   "english": "Going on a little farther, He saw James son of Zebedee and his brother John. They were in a boat, mending their nets.",
+   "lines": [
+    {
+     "text": "James and John are brothers.",
+     "indices": [
+      7,
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "James and John were the sons of Zebedee.",
+     "indices": [
+      8,
+      9,
+      10
+     ]
+    },
+    {
+     "text": "James and John were in a boat.",
+     "indices": [
+      15,
+      16,
+      17,
+      18,
+      19
+     ]
+    },
+    {
+     "text": "They were mending their nets.",
+     "indices": [
+      20,
+      21,
+      22
+     ]
+    },
+    {
+     "text": "Jesus walked a little farther, still near the Sea of Galilee.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "Jesus saw James and John.",
+     "indices": [
+      5,
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "20"
+   ],
+   "english": "Immediately Jesus called them, and they left their father Zebedee in the boat with the hired men and followed Him.",
+   "lines": [
+    {
+     "text": "At once, Jesus called James and John.",
+     "indices": [
+      0,
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "text": "They left their father Zebedee in the boat, with the hired men.",
+     "indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+     ]
+    },
+    {
+     "text": "And John and James followed Jesus.",
+     "indices": [
+      17,
+      18,
+      19
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "21"
+   ],
+   "english": "Then Jesus and His companions went to Capernaum, and right away Jesus entered the synagogue on the Sabbath and began to teach.",
+   "lines": [
+    {
+     "text": "Then Jesus and His companions went to the town of Capernaum — on the northwest shore of the Sea of Galilee.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "It was the Sabbath — the Jewish day of rest and worship.",
+     "indices": [
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "text": "Right away, Jesus went into the synagogue, where the Jews gathered to worship God.",
+     "indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "And there He began to teach.",
+     "indices": [
+      18,
+      19,
+      20,
+      21
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "22"
+   ],
+   "english": "The people were astonished at His teaching, because He taught as one who had authority, and not as the scribes.",
+   "lines": [
+    {
+     "text": "The scribes were the teachers of the law of Moses.",
+     "indices": [
+      19
+     ]
+    },
+    {
+     "text": "They taught by repeating what earlier teachers had said, appealing to those teachers' authority.",
+     "indices": [
+      18
+     ]
+    },
+    {
+     "text": "The scribes did not teach on their own authority.",
+     "indices": [
+      17
+     ]
+    },
+    {
+     "text": "But Jesus did not teach like the scribes.",
+     "indices": [
+      15,
+      16
+     ]
+    },
+    {
+     "text": "Jesus taught with His own authority — His teaching came from Himself, not from anyone before Him.",
+     "indices": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "So the people were amazed at His teaching.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "23",
+    "24"
+   ],
+   "english": "Suddenly a man with an unclean spirit cried out in the synagogue: “What do You want with us, Jesus of Nazareth? Have You come to destroy us? I know who You are—the Holy One of God!”",
+   "lines": [
+    {
+     "text": "In the synagogue, there was a man.",
+     "indices": [
+      1,
+      2,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "This man was controlled by an unclean spirit — an evil spirit, a demon.",
+     "indices": [
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "text": "Suddenly, this man cried out loudly.",
+     "indices": [
+      0,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "Jesus was from Nazareth, a small town in Galilee.",
+     "indices": [
+      18,
+      20
+     ]
+    },
+    {
+     "text": "The spirit cried out, \"What do You want with us, Jesus of Nazareth?\"",
+     "indices": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+     ]
+    },
+    {
+     "text": "\"Have You come to destroy us?\"",
+     "indices": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+     ]
+    },
+    {
+     "text": "\"I know who You are — You are the Holy One of God!\"",
+     "indices": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "25"
+   ],
+   "english": "But Jesus rebuked the spirit. “Be silent!” He said. “Come out of him!”",
+   "lines": [
+    {
+     "text": "But Jesus rebuked the unclean spirit.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "He said to the spirit, \"Be silent!\"",
+     "indices": [
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "Jesus commanded, \"Come out of him!\"",
+     "indices": [
+      9,
+      10,
+      11,
+      12
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "26"
+   ],
+   "english": "At this, the unclean spirit threw the man into convulsions and came out with a loud shriek.",
+   "lines": [
+    {
+     "text": "At Jesus' command, the unclean spirit obeyed.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "The spirit shook the man violently, throwing his body into convulsions.",
+     "indices": [
+      5,
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "Then the spirit gave a loud shriek.",
+     "indices": [
+      13,
+      14,
+      15,
+      16
+     ]
+    },
+    {
+     "text": "And the spirit came out of the man.",
+     "indices": [
+      10,
+      11,
+      12
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "27"
+   ],
+   "english": "All the people were amazed and began to ask one another, “What is this? A new teaching with authority! He commands even the unclean spirits, and they obey Him!”",
+   "lines": [
+    {
+     "text": "All the people there were amazed.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "They began to ask one another what had happened.",
+     "indices": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    },
+    {
+     "text": "\"What is this?\" they said.",
+     "indices": [
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "\"This is a new teaching, and it carries real authority!\"",
+     "indices": [
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "\"He even gives orders to the unclean spirits.\"",
+     "indices": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+     ]
+    },
+    {
+     "text": "\"And the spirits obey Him!\"",
+     "indices": [
+      25,
+      26,
+      27,
+      28
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "28"
+   ],
+   "english": "And the news about Jesus spread quickly through the whole region of Galilee.",
+   "lines": [
+    {
+     "text": "News about Jesus spread quickly.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "text": "Soon the whole region of Galilee had heard about Him.",
+     "indices": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "29"
+   ],
+   "english": "As soon as Jesus and His companions had left the synagogue, they went with James and John to the home of Simon and Andrew.",
+   "lines": [
+    {
+     "text": "Jesus and His companions left the synagogue right away.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    },
+    {
+     "text": "Then they went to the home of Simon and Andrew.",
+     "indices": [
+      11,
+      12,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+     ]
+    },
+    {
+     "text": "James and John went along with Jesus.",
+     "indices": [
+      13,
+      14,
+      15,
+      16
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "30"
+   ],
+   "english": "Simon’s mother-in-law was sick in bed with a fever, and they promptly told Jesus about her.",
+   "lines": [
+    {
+     "text": "Simon had a mother-in-law.",
+     "indices": [
+      0,
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "text": "She was sick with a fever.",
+     "indices": [
+      4,
+      5,
+      8,
+      9,
+      10
+     ]
+    },
+    {
+     "text": "So she was lying in bed.",
+     "indices": [
+      6,
+      7
+     ]
+    },
+    {
+     "text": "And they told Jesus about her right away.",
+     "indices": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "31"
+   ],
+   "english": "So He went to her, took her by the hand, and helped her up. The fever left her, and she began to serve them.",
+   "lines": [
+    {
+     "text": "So Jesus went to Simon's mother-in-law and took her by the hand.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "He lifted her up.",
+     "indices": [
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "At once the fever left her.",
+     "indices": [
+      14,
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "text": "Then she began to serve them all.",
+     "indices": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "32",
+    "33"
+   ],
+   "english": "That evening, after sunset, people brought to Jesus all who were sick and demon-possessed, and the whole town gathered at the door.",
+   "lines": [
+    {
+     "text": "That evening, the sun set.",
+     "indices": [
+      0,
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "text": "Then people brought everyone who was sick to Jesus.",
+     "indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "They also brought those who were controlled by demons.",
+     "indices": [
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "And the whole town of Capernaum gathered at the door of Simon and Andrew's house.",
+     "indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "34"
+   ],
+   "english": "And He healed many who were ill with various diseases and drove out many demons. But He would not allow the demons to speak, because they knew who He was.",
+   "lines": [
+    {
+     "text": "Jesus healed many people who were sick with all kinds of diseases.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "He also drove out many demons.",
+     "indices": [
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "Now the demons knew who Jesus was.",
+     "indices": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+     ]
+    },
+    {
+     "text": "So Jesus would not let them speak — it was not yet time for people to know who He was.",
+     "indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "35"
+   ],
+   "english": "Early in the morning, while it was still dark, Jesus got up and slipped out to a solitary place to pray.",
+   "lines": [
+    {
+     "text": "It was early in the morning.",
+     "indices": [
+      0,
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "text": "It was so early that it was still dark.",
+     "indices": [
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "Jesus got up and slipped out of the house.",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "He went off to a place where He could be alone.",
+     "indices": [
+      15,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "And there He prayed to God.",
+     "indices": [
+      19,
+      20
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "36",
+    "37"
+   ],
+   "english": "Simon and his companions went to look for Him, and when they found Him, they said, “Everyone is looking for You!”",
+   "lines": [
+    {
+     "text": "Simon and his companions went to look for Jesus.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "And they found Jesus.",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "They said to Jesus, “Everyone is looking for You!”",
+     "indices": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "38"
+   ],
+   "english": "But Jesus answered, “Let us go on to the neighboring towns so I can preach there as well, for that is why I have come.”",
+   "lines": [
+    {
+     "text": "But Jesus answered, “Let us go on to the nearby towns.”",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    },
+    {
+     "text": "“That way I can preach there as well,” Jesus said.",
+     "indices": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "text": "“For that is why I have come,” Jesus explained; Jesus came to preach in many places, not just one.",
+     "indices": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "39"
+   ],
+   "english": "So He went throughout Galilee, preaching in their synagogues and driving out demons.",
+   "lines": [
+    {
+     "text": "So Jesus went throughout all of Galilee.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "He preached in their synagogues.",
+     "indices": [
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "And He drove out demons.",
+     "indices": [
+      9,
+      10,
+      11,
+      12
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "40"
+   ],
+   "english": "Then a leper came to Jesus, begging on his knees: “If You are willing, You can make me clean.”",
+   "lines": [
+    {
+     "text": "There was a man with leprosy, a serious skin disease that forced him to live apart from other people.",
+     "indices": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "He came to Jesus.",
+     "indices": [
+      0,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "He knelt down before Jesus.",
+     "indices": [
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "He begged Jesus for help.",
+     "indices": [
+      6
+     ]
+    },
+    {
+     "text": "The man said to Jesus, “If You are willing, You can make me clean.” The Jewish law of Moses said leprosy made someone unclean.",
+     "indices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "41"
+   ],
+   "english": "Moved with compassion, Jesus reached out His hand and touched the man. “I am willing,” He said. “Be clean!”",
+   "lines": [
+    {
+     "text": "Jesus was moved with compassion for the man with leprosy who begged Him for healing.",
+     "indices": [
+      0,
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "text": "Jesus reached out His hand toward the man.",
+     "indices": [
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "And Jesus touched the man.",
+     "indices": [
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "Jesus said, “I am willing.”",
+     "indices": [
+      12,
+      13,
+      14,
+      15,
+      16
+     ]
+    },
+    {
+     "text": "Then Jesus said, “Be clean!”",
+     "indices": [
+      17,
+      18
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "42"
+   ],
+   "english": "And immediately the leprosy left him, and the man was cleansed.",
+   "lines": [
+    {
+     "text": "And when Jesus commanded healing, immediately the leprosy left the man.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "And he was made clean.",
+     "indices": [
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "45"
+   ],
+   "english": "But the man went out and openly began to proclaim and spread the news. Consequently, Jesus could no longer enter a town in plain view, but He stayed out in solitary places. Yet people came to Him from every quarter.",
+   "lines": [
+    {
+     "text": "But the man went out and began to proclaim it openly — Jesus had told him to tell no one.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "The man spread the news about Jesus.",
+     "indices": [
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "So Jesus could no longer enter a town openly.",
+     "indices": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+     ]
+    },
+    {
+     "text": "Jesus stayed outside in lonely places.",
+     "indices": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+     ]
+    },
+    {
+     "text": "Yet people still came to Jesus from everywhere.",
+     "indices": [
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "43",
+    "44"
+   ],
+   "english": "Jesus promptly sent him away with a stern warning: “See that you don’t tell anyone. But go, show yourself to the priest and present the offering Moses prescribed for your cleansing, as a testimony to them.”",
+   "lines": [
+    {
+     "text": "After Jesus healed the man, Jesus sent the man away at once:",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "Jesus said, “Do not tell anyone.”",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "Jesus said, “Instead, go and show yourself to the priest” — under the law of Moses only a priest could declare a healed man clean.",
+     "indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+     ]
+    },
+    {
+     "text": "Jesus said, “Offer what Moses commanded for your cleansing.”",
+     "indices": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+     ]
+    },
+    {
+     "text": "Jesus said this would be a testimony to them — the priests would see the proof that Jesus healed the man.",
+     "indices": [
+      31,
+      32,
+      33,
+      34,
+      35
+     ]
+    },
+    {
+     "text": "Jesus said all of this as a stern warning.",
+     "indices": [
+      5,
+      6,
+      7,
+      8
+     ]
+    }
+   ]
+  }
+ ]
+}

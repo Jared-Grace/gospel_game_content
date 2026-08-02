@@ -1,0 +1,938 @@
+{
+ "chapter_code": "1JN05",
+ "passages": [
+  {
+   "verse_numbers": [
+    "1"
+   ],
+   "english": "Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves the Father also loves those born of Him.",
+   "lines": [
+    {
+     "text": "Jesus is the Christ.",
+     "indices": [
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "Everyone who believes this has been born of God.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "And everyone who loves God the Father also loves God's children.",
+     "indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "2"
+   ],
+   "english": "By this we know that we love the children of God: when we love God and keep His commandments.",
+   "lines": [
+    {
+     "text": "We love God.",
+     "indices": [
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "And we keep God's commandments.",
+     "indices": [
+      15,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "By this we know that we love God's children.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "3",
+    "4"
+   ],
+   "english": "For this is the love of God, that we keep His commandments. And His commandments are not burdensome, because everyone born of God overcomes the world. And this is the victory that has overcome the world: our faith.",
+   "lines": [
+    {
+     "text": "Loving God means keeping His commandments.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "And God's commandments are not a heavy burden.",
+     "indices": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "text": "For everyone born of God overcomes the world.",
+     "indices": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+     ]
+    },
+    {
+     "text": "Our faith is the victory that has overcome the world.",
+     "indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "5"
+   ],
+   "english": "Who then overcomes the world? Only he who believes that Jesus is the Son of God.",
+   "lines": [
+    {
+     "text": "Jesus is the Son of God.",
+     "indices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+     ]
+    },
+    {
+     "text": "We believe this.",
+     "indices": [
+      5,
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "And so we overcome the world.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "6"
+   ],
+   "english": "This is the One who came by water and blood, Jesus Christ—not by water alone, but by water and blood. And it is the Spirit who testifies to this, because the Spirit is the truth.",
+   "lines": [
+    {
+     "text": "Jesus Christ is the One who came by water and blood — He truly came in the flesh and died for us.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "He did not come by water alone.",
+     "indices": [
+      12,
+      13,
+      14,
+      15
+     ]
+    },
+    {
+     "text": "He came by water and by blood.",
+     "indices": [
+      16,
+      17,
+      18,
+      19,
+      20
+     ]
+    },
+    {
+     "text": "And the Holy Spirit testifies to this.",
+     "indices": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+     ]
+    },
+    {
+     "text": "For the Holy Spirit is the truth.",
+     "indices": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "7",
+    "8"
+   ],
+   "english": "For there are three that testify: the Spirit, the water, and the blood—and these three are in agreement.",
+   "lines": [
+    {
+     "text": "There are three that testify about Jesus.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "They are the Holy Spirit, the water, and the blood.",
+     "indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "And these three all agree.",
+     "indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "9"
+   ],
+   "english": "Even if we accept human testimony, the testimony of God is greater. For this is the testimony that God has given about His Son.",
+   "lines": [
+    {
+     "text": "We accept testimony from other people.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "But God's testimony is far greater.",
+     "indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "For God Himself has testified about His Son.",
+     "indices": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "10"
+   ],
+   "english": "Whoever believes in the Son of God has this testimony within him; whoever does not believe God has made Him out to be a liar, because he has not believed in the testimony that God has given about His Son.",
+   "lines": [
+    {
+     "text": "Whoever believes in the Son of God has God's testimony within them.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "But whoever does not believe God calls Him a liar.",
+     "indices": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+     ]
+    },
+    {
+     "text": "For they have not believed God's testimony about His Son.",
+     "indices": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "11"
+   ],
+   "english": "And this is that testimony: God has given us eternal life, and this life is in His Son.",
+   "lines": [
+    {
+     "text": "God has given us eternal life.",
+     "indices": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    },
+    {
+     "text": "And this life is in His Son, Jesus.",
+     "indices": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "text": "This is God's testimony.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "12"
+   ],
+   "english": "Whoever has the Son has life; whoever does not have the Son of God does not have life.",
+   "lines": [
+    {
+     "text": "Whoever has the Son has life.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "Whoever does not have the Son of God does not have life.",
+     "indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "13"
+   ],
+   "english": "I have written these things to you who believe in the name of the Son of God, so that you may know that you have eternal life.",
+   "lines": [
+    {
+     "text": "John has written these things to you.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "text": "You believe in the name of the Son of God.",
+     "indices": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+     ]
+    },
+    {
+     "text": "Now you can know for sure that you have eternal life.",
+     "indices": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "14"
+   ],
+   "english": "And this is the confidence that we have before Him: If we ask anything according to His will, He hears us.",
+   "lines": [
+    {
+     "text": "Suppose we ask God for anything according to His will.",
+     "indices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "text": "Then God hears us.",
+     "indices": [
+      18,
+      19,
+      20
+     ]
+    },
+    {
+     "text": "This is the confidence we have before God.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "15"
+   ],
+   "english": "And if we know that He hears us in whatever we ask, we know that we already possess what we have asked of Him.",
+   "lines": [
+    {
+     "text": "Suppose we know that God hears us in whatever we ask.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "Then we know that we already have what we asked God for.",
+     "indices": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "16"
+   ],
+   "english": "If anyone sees his brother committing a sin not leading to death, he should ask God, who will give life to those who commit this kind of sin. There is a sin that leads to death; I am not saying he should ask regarding that sin.",
+   "lines": [
+    {
+     "text": "Suppose you see a fellow believer commit a sin that does not lead to death.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "Then ask God for that person sinning not unto death.",
+     "indices": [
+      12,
+      13,
+      14,
+      15
+     ]
+    },
+    {
+     "text": "And God will give life to those who commit this kind of sin.",
+     "indices": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+     ]
+    },
+    {
+     "text": "But there is a sin that leads to death.",
+     "indices": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+     ]
+    },
+    {
+     "text": "John is not saying that you should pray about sin leading to death.",
+     "indices": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "17"
+   ],
+   "english": "All unrighteousness is sin, yet there is sin that does not lead to death.",
+   "lines": [
+    {
+     "text": "All unrighteousness is sin.",
+     "indices": [
+      0,
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "text": "Yet there is sin that does not lead to death.",
+     "indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "18"
+   ],
+   "english": "We know that anyone born of God does not keep on sinning; the One who was born of God protects him, and the evil one cannot touch him.",
+   "lines": [
+    {
+     "text": "We know that everyone born of God does not keep on sinning.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "But Jesus, the One born of God, protects that believer.",
+     "indices": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+     ]
+    },
+    {
+     "text": "And the evil one cannot touch that believer.",
+     "indices": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "19"
+   ],
+   "english": "We know that we are of God, and that the whole world is under the power of the evil one.",
+   "lines": [
+    {
+     "text": "We know that we belong to God.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "text": "And we know the whole world lies under the power of the evil one.",
+     "indices": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "20"
+   ],
+   "english": "And we know that the Son of God has come and has given us understanding, so that we may know Him who is true; and we are in Him who is true—in His Son Jesus Christ. He is the true God and eternal life.",
+   "lines": [
+    {
+     "text": "And we know that the Son of God has come.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "And the Son has given us understanding.",
+     "indices": [
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "So that we may know the true God.",
+     "indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+     ]
+    },
+    {
+     "text": "And we are in the true God, in His Son Jesus Christ.",
+     "indices": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+     ]
+    },
+    {
+     "text": "Jesus is the true God and eternal life.",
+     "indices": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "21"
+   ],
+   "english": "Little children, keep yourselves from idols.",
+   "lines": [
+    {
+     "text": "We are God's little children.",
+     "indices": [
+      0,
+      1
+     ]
+    },
+    {
+     "text": "Let us keep ourselves from idols.",
+     "indices": [
+      2,
+      3,
+      4,
+      5
+     ]
+    }
+   ]
+  }
+ ]
+}

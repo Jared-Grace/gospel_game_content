@@ -1,0 +1,1215 @@
+{
+ "chapter_code": "1PE01",
+ "passages": [
+  {
+   "verse_numbers": [
+    "1",
+    "2"
+   ],
+   "english": "Peter, an apostle of Jesus Christ, To the elect who are exiles of the Dispersion throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, chosen according to the foreknowledge of God the Father and sanctified by the Spirit for obedience to Jesus Christ and sprinkling by His blood: Grace and peace be yours in abundance.",
+   "lines": [
+    {
+     "text": "Peter is an apostle of Jesus Christ.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "Peter writes to God's chosen people.",
+     "indices": [
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "These believers are exiles, scattered far from their true home.",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "These exiles lived throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia.",
+     "indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+     ]
+    },
+    {
+     "text": "God the Father knew and chose these believers beforehand.",
+     "indices": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+     ]
+    },
+    {
+     "text": "The Holy Spirit has made these believers holy.",
+     "indices": [
+      31,
+      32,
+      33,
+      34,
+      35
+     ]
+    },
+    {
+     "text": "God chose these believers to obey Jesus Christ.",
+     "indices": [
+      36,
+      37,
+      38,
+      39,
+      40
+     ]
+    },
+    {
+     "text": "God chose these believers to be cleansed by the blood of Jesus.",
+     "indices": [
+      41,
+      42,
+      43,
+      44,
+      45
+     ]
+    },
+    {
+     "text": "May grace and peace be yours in abundance.",
+     "indices": [
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "3",
+    "4",
+    "5"
+   ],
+   "english": "Blessed be the God and Father of our Lord Jesus Christ! By His great mercy He has given us new birth into a living hope through the resurrection of Jesus Christ from the dead, and into an inheritance that is imperishable, undefiled, and unfading, reserved in heaven for you, who through faith are shielded by God’s power for the salvation that is ready to be revealed in the last time.",
+   "lines": [
+    {
+     "text": "Blessed be God the Father!",
+     "indices": [
+      0,
+      1
+     ]
+    },
+    {
+     "text": "God is the Father of our Lord Jesus.",
+     "indices": [
+      4,
+      5
+     ]
+    },
+    {
+     "text": "God is also the God of our Lord Jesus.",
+     "indices": [
+      2,
+      3
+     ]
+    },
+    {
+     "text": "Jesus is our Lord.",
+     "indices": [
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "Jesus is the Christ, the Messiah God promised.",
+     "indices": [
+      10
+     ]
+    },
+    {
+     "text": "God has great mercy.",
+     "indices": [
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "God has given us new birth.",
+     "indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+     ]
+    },
+    {
+     "text": "This new birth brings us a hope.",
+     "indices": [
+      21,
+      22,
+      24
+     ]
+    },
+    {
+     "text": "This hope is alive.",
+     "indices": [
+      23
+     ]
+    },
+    {
+     "text": "This hope comes through the resurrection of Jesus Christ from the dead.",
+     "indices": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+     ]
+    },
+    {
+     "text": "God has also given us an inheritance.",
+     "indices": [
+      34,
+      35,
+      36,
+      37
+     ]
+    },
+    {
+     "text": "God keeps this inheritance in heaven for you.",
+     "indices": [
+      44,
+      45,
+      46,
+      47,
+      48
+     ]
+    },
+    {
+     "text": "Your inheritance can never perish.",
+     "indices": [
+      38,
+      39,
+      40
+     ]
+    },
+    {
+     "text": "Your inheritance can never be stained.",
+     "indices": [
+      41
+     ]
+    },
+    {
+     "text": "Your inheritance can never fade.",
+     "indices": [
+      42,
+      43
+     ]
+    },
+    {
+     "text": "God's power guards you through your faith.",
+     "indices": [
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+     ]
+    },
+    {
+     "text": "God guards you for the salvation to come.",
+     "indices": [
+      57,
+      58,
+      59
+     ]
+    },
+    {
+     "text": "Your salvation is ready to be revealed.",
+     "indices": [
+      60,
+      61,
+      62,
+      63,
+      64,
+      65
+     ]
+    },
+    {
+     "text": "God will reveal your salvation on the last day.",
+     "indices": [
+      66,
+      67,
+      68,
+      69
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "6",
+    "7"
+   ],
+   "english": "In this you greatly rejoice, though now for a little while you may have had to suffer grief in various trials so that the proven character of your faith—more precious than gold, which perishes even though refined by fire—may result in praise, glory, and honor at the revelation of Jesus Christ.",
+   "lines": [
+    {
+     "text": "You greatly rejoice in your salvation.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "Right now, you may have to suffer grief.",
+     "indices": [
+      5,
+      6,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "text": "This grief lasts only a little while.",
+     "indices": [
+      7,
+      8,
+      9,
+      10
+     ]
+    },
+    {
+     "text": "You face many kinds of trials.",
+     "indices": [
+      18,
+      19,
+      20
+     ]
+    },
+    {
+     "text": "Gold perishes, even after being refined by fire.",
+     "indices": [
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+     ]
+    },
+    {
+     "text": "Like a fire, these trials test your faith.",
+     "indices": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+     ]
+    },
+    {
+     "text": "But your faith is more precious than gold, and will never perish.",
+     "indices": [
+      29,
+      30,
+      31,
+      32
+     ]
+    },
+    {
+     "text": "Your proven faith will bring praise, glory, and honor.",
+     "indices": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+     ]
+    },
+    {
+     "text": "You will receive this honor when Jesus Christ appears.",
+     "indices": [
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "8",
+    "9"
+   ],
+   "english": "Though you have not seen Him, you love Him; and though you do not see Him now, you believe in Him and rejoice with an inexpressible and glorious joy, now that you are receiving the goal of your faith, the salvation of your souls.",
+   "lines": [
+    {
+     "text": "You have not seen Jesus.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "But you love Jesus.",
+     "indices": [
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "You do not see Jesus now.",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+     ]
+    },
+    {
+     "text": "But you believe in Jesus.",
+     "indices": [
+      17,
+      18,
+      19,
+      20
+     ]
+    },
+    {
+     "text": "You rejoice.",
+     "indices": [
+      21,
+      22
+     ]
+    },
+    {
+     "text": "Your joy is too great for words.",
+     "indices": [
+      23,
+      24,
+      25,
+      28
+     ]
+    },
+    {
+     "text": "Your joy is full of glory.",
+     "indices": [
+      26,
+      27
+     ]
+    },
+    {
+     "text": "You are now receiving the goal of your faith.",
+     "indices": [
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+     ]
+    },
+    {
+     "text": "The goal of your faith is the salvation of your souls.",
+     "indices": [
+      39,
+      40,
+      41,
+      42,
+      43
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "10",
+    "11"
+   ],
+   "english": "Concerning this salvation, the prophets who foretold the grace to come to you searched and investigated carefully, trying to determine the time and setting to which the Spirit of Christ in them was pointing when He predicted the sufferings of Christ and the glories to follow.",
+   "lines": [
+    {
+     "text": "The prophets searched our salvation carefully.",
+     "indices": [
+      0,
+      1,
+      2,
+      13,
+      14,
+      15,
+      16
+     ]
+    },
+    {
+     "text": "These prophets foretold the grace coming to you.",
+     "indices": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "The Spirit of Christ was in these prophets.",
+     "indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+     ]
+    },
+    {
+     "text": "The Spirit predicted the sufferings of Christ.",
+     "indices": [
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+     ]
+    },
+    {
+     "text": "The Spirit also predicted the glories to follow.",
+     "indices": [
+      41,
+      42,
+      43,
+      44,
+      45
+     ]
+    },
+    {
+     "text": "The Spirit was pointing to the time of these predictions.",
+     "indices": [
+      24,
+      25,
+      32,
+      33
+     ]
+    },
+    {
+     "text": "These prophets tried to find the time and setting of these predictions.",
+     "indices": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "12"
+   ],
+   "english": "It was revealed to them that they were not serving themselves, but you, when they foretold the things now announced by those who preached the gospel to you by the Holy Spirit sent from heaven. Even angels long to look into these things.",
+   "lines": [
+    {
+     "text": "God revealed to the prophets that they were not serving themselves.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    },
+    {
+     "text": "God revealed that instead, the prophets were serving you.",
+     "indices": [
+      11,
+      12
+     ]
+    },
+    {
+     "text": "You have heard others announce and preach the truths of the gospel to you.",
+     "indices": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+     ]
+    },
+    {
+     "text": "The prophets foretold the grace of God, revealed by the gospel.",
+     "indices": [
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "text": "These preachers spoke these gospel truths by the Holy Spirit, sent from heaven.",
+     "indices": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+     ]
+    },
+    {
+     "text": "Even angels long to look into these gospel truths.",
+     "indices": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "13"
+   ],
+   "english": "Therefore prepare your minds for action. Be sober-minded. Set your hope fully on the grace to be given you at the revelation of Jesus Christ.",
+   "lines": [
+    {
+     "text": "Therefore prepare your minds for action.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "Be sober-minded.",
+     "indices": [
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "Set your hope fully on God's grace.",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+     ]
+    },
+    {
+     "text": "God will bring you this grace when Jesus Christ appears.",
+     "indices": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "14"
+   ],
+   "english": "As obedient children, do not conform to the passions of your former ignorance.",
+   "lines": [
+    {
+     "text": "You are God's obedient children.",
+     "indices": [
+      0,
+      1,
+      2
+     ]
+    },
+    {
+     "text": "Do not be shaped by your old evil desires.",
+     "indices": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "You followed these desires before, when you did not know God.",
+     "indices": [
+      9,
+      10,
+      11,
+      12
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "15",
+    "16"
+   ],
+   "english": "But just as He who called you is holy, so be holy in all you do, for it is written: “Be holy, because I am holy.”",
+   "lines": [
+    {
+     "text": "God called you.",
+     "indices": [
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "text": "God is holy.",
+     "indices": [
+      0,
+      1,
+      2,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "So you must be holy in everything you do.",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+     ]
+    },
+    {
+     "text": "God says in the Scriptures, 'Be holy, because I am holy.'",
+     "indices": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "17"
+   ],
+   "english": "Since you call on a Father who judges each one’s work impartially, conduct yourselves in reverent fear during your stay as foreigners.",
+   "lines": [
+    {
+     "text": "You call on God as your Father.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "Your Father judges each person's work impartially — He shows no favoritism.",
+     "indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "So live in reverent fear.",
+     "indices": [
+      12,
+      13,
+      14,
+      15,
+      16
+     ]
+    },
+    {
+     "text": "You are foreigners during your stay in this world.",
+     "indices": [
+      17,
+      18,
+      19,
+      20,
+      21
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "18",
+    "19"
+   ],
+   "english": "For you know that it was not with perishable things such as silver or gold that you were redeemed from the empty way of life you inherited from your forefathers, but with the precious blood of Christ, a lamb without blemish or spot.",
+   "lines": [
+    {
+     "text": "You know that God redeemed you — He bought you back.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      15,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "God redeemed you from your empty way of life.",
+     "indices": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+     ]
+    },
+    {
+     "text": "You inherited this empty way of life from your forefathers.",
+     "indices": [
+      25,
+      26,
+      27,
+      28,
+      29
+     ]
+    },
+    {
+     "text": "God did not redeem you with perishable silver or gold.",
+     "indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "Instead, God redeemed you with the precious blood of Christ.",
+     "indices": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+     ]
+    },
+    {
+     "text": "Christ is like a lamb without blemish or spot.",
+     "indices": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "20"
+   ],
+   "english": "He was known before the foundation of the world, but was revealed in the last times for your sake.",
+   "lines": [
+    {
+     "text": "God knew and chose Christ before the world was made.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "But God revealed Christ in these last times.",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+     ]
+    },
+    {
+     "text": "God revealed Christ for your sake.",
+     "indices": [
+      16,
+      17,
+      18
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "21"
+   ],
+   "english": "Through Him you believe in God, who raised Him from the dead and glorified Him; and so your faith and hope are in God.",
+   "lines": [
+    {
+     "text": "Through Christ you believe in God.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "God raised Christ from the dead.",
+     "indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "God gave Christ glory.",
+     "indices": [
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "So your faith and hope are in God.",
+     "indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "22"
+   ],
+   "english": "Since you have purified your souls by obedience to the truth so that you have a genuine love for your brothers, love one another deeply, from a pure heart.",
+   "lines": [
+    {
+     "text": "You have purified your souls by obeying the truth.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    },
+    {
+     "text": "The result is a genuine love for your brothers and sisters.",
+     "indices": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+     ]
+    },
+    {
+     "text": "So love one another deeply.",
+     "indices": [
+      21,
+      22,
+      23,
+      24
+     ]
+    },
+    {
+     "text": "Love one another from a pure heart.",
+     "indices": [
+      25,
+      26,
+      27,
+      28
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "23"
+   ],
+   "english": "For you have been born again, not of perishable seed, but of imperishable, through the living and enduring word of God.",
+   "lines": [
+    {
+     "text": "You have been born again.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "You were not born from perishable seed.",
+     "indices": [
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "But you were born from imperishable seed.",
+     "indices": [
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "This new birth came through the living, enduring word of God.",
+     "indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "24",
+    "25"
+   ],
+   "english": "For, “All flesh is like grass, and all its glory like the flowers of the field; the grass withers and the flowers fall, but the word of the Lord stands forever.” And this is the word that was proclaimed to you.",
+   "lines": [
+    {
+     "text": "The Scriptures say that grass withers and flowers fall.",
+     "indices": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+     ]
+    },
+    {
+     "text": "The Scriptures also say that all people are like grass — they fade and pass away.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "The Scriptures say that all human glory is like the flowers of the field — beautiful for a moment, then gone.",
+     "indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+     ]
+    },
+    {
+     "text": "But the Scriptures say that, unlike people and their glory, the word of the Lord stands forever.",
+     "indices": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+     ]
+    },
+    {
+     "text": "And this enduring word is the good news that was proclaimed to you.",
+     "indices": [
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+     ]
+    }
+   ]
+  }
+ ]
+}
