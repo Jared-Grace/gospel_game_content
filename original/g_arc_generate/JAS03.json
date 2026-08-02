@@ -1,0 +1,29 @@
+{
+ "book": "JAS",
+ "chapters": [
+  "JAS03",
+  "JAS04"
+ ],
+ "days": 17,
+ "matches": 680,
+ "question_turns": 170,
+ "arc_turns": 510,
+ "npcs": 12,
+ "leader_turns": 153,
+ "leader_short": false,
+ "convert_lengths": [
+  35,
+  31,
+  31,
+  36,
+  29,
+  34,
+  32,
+  34,
+  31,
+  33,
+  31
+ ],
+ "spent": 510,
+ "balanced": true
+}

@@ -1,0 +1,831 @@
+{
+ "chapter_code": "HEB04",
+ "passages": [
+  {
+   "verse_numbers": [
+    "1"
+   ],
+   "english": "Therefore, while the promise of entering His rest still stands, let us be careful that none of you be deemed to have fallen short of it.",
+   "lines": [
+    {
+     "text": "The promise of entering God's rest still stands.",
+     "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "So we must be careful.",
+     "indices": [
+      0,
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "None of you should be found to have fallen short of God's rest.",
+     "indices": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "2"
+   ],
+   "english": "For we also received the good news just as they did; but the message they heard was of no value to them, since they did not share the faith of those who comprehended it.",
+   "lines": [
+    {
+     "text": "For we have received the good news, just as the Israelites did.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    },
+    {
+     "text": "But the message the Israelites heard did not benefit them.",
+     "indices": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+     ]
+    },
+    {
+     "text": "The Israelites did not share the faith of those who truly believed the good news.",
+     "indices": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "3"
+   ],
+   "english": "Now we who have believed enter that rest. As for the others, it is just as God has said: “So I swore on oath in My anger, ‘They shall never enter My rest.’ ” And yet His works have been finished since the foundation of the world.",
+   "lines": [
+    {
+     "text": "Now we who have believed enter God's rest.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "As for the others, God has said:",
+     "indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "\"So in My anger I swore that they would never enter My rest.\"",
+     "indices": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+     ]
+    },
+    {
+     "text": "And yet God's works have been finished since the foundation of the world.",
+     "indices": [
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "4"
+   ],
+   "english": "For somewhere He has spoken about the seventh day in this manner: “And on the seventh day God rested from all His works.”",
+   "lines": [
+    {
+     "text": "For God has spoken this somewhere about the seventh day:",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "\"And on the seventh day God rested from all His works.\"",
+     "indices": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "5"
+   ],
+   "english": "And again, as He says in the passage above: “They shall never enter My rest.”",
+   "lines": [
+    {
+     "text": "And again God says in the passage above:",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "\"They shall never enter My rest.\"",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "6",
+    "7"
+   ],
+   "english": "Since, then, it remains for some to enter His rest, and since those who formerly heard the good news did not enter because of their disobedience, God again designated a certain day as “Today,” when a long time later He spoke through David as was just stated: “Today, if you hear His voice, do not harden your hearts.”",
+   "lines": [
+    {
+     "text": "So God's rest still remains for some to enter.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "And the Israelites long ago also heard the good news.",
+     "indices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "But the Israelites did not enter, because they disobeyed.",
+     "indices": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+     ]
+    },
+    {
+     "text": "So God again set a certain day, and called it “Today.”",
+     "indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+     ]
+    },
+    {
+     "text": "Long afterward, God spoke through David, as already quoted:",
+     "indices": [
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+     ]
+    },
+    {
+     "text": "“Today, if you hear His voice, do not harden your hearts.”",
+     "indices": [
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "8"
+   ],
+   "english": "For if Joshua had given them rest, God would not have spoken later about another day.",
+   "lines": [
+    {
+     "text": "Suppose Joshua had given the Israelites rest in the land.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "text": "Then God would not have spoken later about entering another day of rest.",
+     "indices": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "9"
+   ],
+   "english": "There remains, then, a Sabbath rest for the people of God.",
+   "lines": [
+    {
+     "text": "So then, a Sabbath rest still remains — a rest like God's own rest after creation, which we enter fully when Jesus returns.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "This rest is for the people of God.",
+     "indices": [
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "10"
+   ],
+   "english": "For whoever enters God’s rest also rests from his own work, just as God did from His.",
+   "lines": [
+    {
+     "text": "Whoever enters God's rest also rests from their own work — eventually, we will rest from our good works done through faith in this life.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    },
+    {
+     "text": "God did the same, resting from His own work.",
+     "indices": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "11"
+   ],
+   "english": "Let us, therefore, make every effort to enter that rest, so that no one will fall by following the same pattern of disobedience.",
+   "lines": [
+    {
+     "text": "In the wilderness, the Israelites disobeyed God, leaving a pattern of disobedience.",
+     "indices": [
+      18,
+      19,
+      20,
+      21,
+      22
+     ]
+    },
+    {
+     "text": "So let us make every effort to enter God's rest.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "Then none of us will fall by following that same pattern.",
+     "indices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "12"
+   ],
+   "english": "For the word of God is living and active. Sharper than any double-edged sword, it pierces even to dividing soul and spirit, joints and marrow. It judges the thoughts and intentions of the heart.",
+   "lines": [
+    {
+     "text": "For God's word is living.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "text": "And God's word is active.",
+     "indices": [
+      7,
+      8
+     ]
+    },
+    {
+     "text": "God's word is sharper than any double-edged sword.",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "God's word pierces so deep it divides soul and spirit.",
+     "indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+     ]
+    },
+    {
+     "text": "God's word even divides joints and marrow.",
+     "indices": [
+      23,
+      24,
+      25
+     ]
+    },
+    {
+     "text": "God's word judges the thoughts of the heart.",
+     "indices": [
+      26,
+      27,
+      28,
+      29
+     ]
+    },
+    {
+     "text": "God's word judges the intentions of the heart.",
+     "indices": [
+      30,
+      31,
+      32,
+      33,
+      34
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "13"
+   ],
+   "english": "Nothing in all creation is hidden from God’s sight; everything is uncovered and exposed before the eyes of Him to whom we must give account.",
+   "lines": [
+    {
+     "text": "Nothing in all creation is hidden from God's sight.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "Everything is uncovered and exposed before God's eyes.",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "And we must give an account to God.",
+     "indices": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "14"
+   ],
+   "english": "Therefore, since we have a great high priest who has passed through the heavens, Jesus the Son of God, let us hold firmly to what we profess.",
+   "lines": [
+    {
+     "text": "We have a great high priest — our representative before God.",
+     "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "This great high priest has passed through the heavens to God.",
+     "indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "This great high priest is Jesus, the Son of God.",
+     "indices": [
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "So let us hold firmly to the faith we confess.",
+     "indices": [
+      0,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "15"
+   ],
+   "english": "For we do not have a high priest who is unable to sympathize with our weaknesses, but we have one who was tempted in every way that we are, yet was without sin.",
+   "lines": [
+    {
+     "text": "Our high priest is able to sympathize with our weaknesses.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+     ]
+    },
+    {
+     "text": "For Jesus was tempted in every way, just as we are.",
+     "indices": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+     ]
+    },
+    {
+     "text": "Yet Jesus never sinned.",
+     "indices": [
+      29,
+      30,
+      31,
+      32
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "16"
+   ],
+   "english": "Let us then approach the throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need.",
+   "lines": [
+    {
+     "text": "God has a throne of grace.",
+     "indices": [
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "We approach God's throne of grace through prayer.",
+     "indices": [
+      2,
+      3,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "Jesus, our great High Priest, intercedes as we approach the throne of grace.",
+     "indices": [
+      3,
+      5,
+      7
+     ]
+    },
+    {
+     "text": "The Holy Spirit also intercedes for us as we approach God's throne — with groanings too deep for words.",
+     "indices": [
+      5,
+      21
+     ]
+    },
+    {
+     "text": "Even if we approach the throne of grace in weakness or sin, Jesus and the Spirit make our imperfect prayers perfectly acceptable to God.",
+     "indices": [
+      3,
+      7,
+      23
+     ]
+    },
+    {
+     "text": "So let us approach God's throne of grace with confidence.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "At the throne of grace we receive mercy when we have sinned.",
+     "indices": [
+      5,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+     ]
+    },
+    {
+     "text": "And we find grace to help us in our time of need — to resist sin and obey God.",
+     "indices": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+     ]
+    }
+   ]
+  }
+ ]
+}

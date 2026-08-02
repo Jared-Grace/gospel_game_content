@@ -1,0 +1,321 @@
+{
+ "chapter_code": "ACT01",
+ "passages": [
+  {
+   "verse_numbers": [
+    "1",
+    "2"
+   ],
+   "english": "In my first book, O Theophilus, I wrote about all that Jesus began to do and to teach, until the day He was taken up to heaven, after giving instructions through the Holy Spirit to the apostles He had chosen.",
+   "lines": [
+    {
+     "text": "Luke wrote his first book to a man named Theophilus.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "That book told about everything Jesus began to do.",
+     "indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "That book also told everything Jesus began to teach.",
+     "indices": [
+      11,
+      12,
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "text": "That book told about Jesus, until the day He was taken up to heaven.",
+     "indices": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+     ]
+    },
+    {
+     "text": "Before Jesus was taken up to heaven, He gave instructions to His apostles, the men He sent out.",
+     "indices": [
+      27,
+      28,
+      29,
+      34,
+      35,
+      36
+     ]
+    },
+    {
+     "text": "Jesus gave these instructions through the Holy Spirit.",
+     "indices": [
+      29,
+      30,
+      31,
+      32,
+      33
+     ]
+    },
+    {
+     "text": "Jesus had chosen these apostles Himself.",
+     "indices": [
+      36,
+      37,
+      38,
+      39
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "3"
+   ],
+   "english": "After His suffering, He presented Himself to them with many convincing proofs that He was alive. He appeared to them over a span of forty days and spoke about the kingdom of God.",
+   "lines": [
+    {
+     "text": "After Jesus suffered and died, Jesus showed Himself alive to the apostles.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      13,
+      14,
+      15
+     ]
+    },
+    {
+     "text": "Jesus gave them many convincing proofs that He was alive.",
+     "indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+     ]
+    },
+    {
+     "text": "Jesus appeared to the apostles over forty days.",
+     "indices": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+     ]
+    },
+    {
+     "text": "And Jesus spoke to them about the kingdom of God — the kingdom of God is where God reigns as King.",
+     "indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "4"
+   ],
+   "english": "And while they were gathered together, He commanded them: “Do not leave Jerusalem, but wait for the gift the Father promised, which you have heard Me discuss.",
+   "lines": [
+    {
+     "text": "Jesus was gathered together with the apostles.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "Jesus commanded them:",
+     "indices": [
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "Jesus said, “Do not leave Jerusalem” — Jerusalem was the chief city of the Jews, where the temple of God stood.",
+     "indices": [
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Jesus said, “Instead, wait for the gift the Father promised” — the gift is the Holy Spirit.",
+     "indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+     ]
+    },
+    {
+     "text": "Jesus said, “You have heard Me talk about this promise.”",
+     "indices": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+     ]
+    },
+    {
+     "text": "Earlier Jesus promised the apostles that He would send them the gift of the Holy Spirit from the Father.",
+     "indices": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "5"
+   ],
+   "english": "For John baptized with water, but in a few days you will be baptized with the Holy Spirit.”",
+   "lines": [
+    {
+     "text": "Jesus told His apostles, “John the Baptist baptized people with water.”",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "Jesus said to them, “But you will be baptized with the Holy Spirit.”",
+     "indices": [
+      5,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "text": "Jesus said this would happen in a few days.",
+     "indices": [
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "John the Baptist himself had said that Jesus would baptize people with the Holy Spirit.",
+     "indices": [
+      1,
+      2,
+      13,
+      16,
+      17
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "6"
+   ],
+   "english": "So when they came together, they asked Him, “Lord, will You at this time restore the kingdom to Israel?”",
+   "lines": [
+    {
+     "text": "So the apostles came together with Jesus.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "The apostles asked Jesus a question.",
+     "indices": [
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "The apostles said, “Lord, will You at this time restore the kingdom to Israel?” — would Israel now be freed from Rome and be its own kingdom again?",
+     "indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    }
+   ]
+  }
+ ]
+}

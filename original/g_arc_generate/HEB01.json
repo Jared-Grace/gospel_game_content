@@ -1,0 +1,33 @@
+{
+ "book": "HEB",
+ "chapters": [
+  "HEB01",
+  "HEB02",
+  "HEB03",
+  "HEB04"
+ ],
+ "days": 20,
+ "matches": 800,
+ "question_turns": 200,
+ "arc_turns": 600,
+ "npcs": 14,
+ "leader_turns": 180,
+ "leader_short": false,
+ "convert_lengths": [
+  32,
+  36,
+  32,
+  33,
+  30,
+  33,
+  35,
+  31,
+  32,
+  30,
+  34,
+  29,
+  33
+ ],
+ "spent": 600,
+ "balanced": true
+}

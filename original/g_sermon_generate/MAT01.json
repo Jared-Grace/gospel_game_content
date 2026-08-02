@@ -1,0 +1,156 @@
+{
+ "chapter_code": "MAT01",
+ "passages": [
+  {
+   "verse_numbers": [
+    "1",
+    "2"
+   ],
+   "text": "This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham: Abraham was the father of Isaac, Isaac the father of Jacob, and Jacob the father of Judah and his brothers.",
+   "sermon": "Jesus Christ is the son of David.\\r\\nJesus Christ is the son of Abraham.\\r\\nThis is the record of his genealogy.\\r\\nAbraham was the father of Isaac.\\r\\nIsaac was the father of Jacob.\\r\\nJacob was the father of Judah.\\r\\nJacob was also the father of Judah’s brothers.",
+   "original": "Βίβλος γενέσεως Ἰησοῦ Χριστοῦ υἱοῦ Δαυὶδ υἱοῦ Ἀβραάμ Ἀβραὰμ ἐγέννησεν τὸν Ἰσαάκ Ἰσαὰκ δὲ ἐγέννησεν τὸν Ἰακώβ Ἰακὼβ δὲ ἐγέννησεν τὸν Ἰούδαν καὶ τοὺς ἀδελφοὺς αὐτοῦ"
+  },
+  {
+   "verse_numbers": [
+    "3"
+   ],
+   "text": "Judah was the father of Perez and Zerah by Tamar, Perez the father of Hezron, and Hezron the father of Ram.",
+   "sermon": "Judah was the father of Perez and Zerah.\\r\\nTamar was the mother of Perez and Zerah.\\r\\nPerez was the father of Hezron.\\r\\nHezron was the father of Ram.",
+   "original": "Ἰούδας δὲ ἐγέννησεν τὸν Φαρὲς καὶ τὸν Ζαρὰ ἐκ τῆς Θάμαρ Φαρὲς δὲ ἐγέννησεν τὸν Ἑσρώμ Ἑσρὼμ δὲ ἐγέννησεν τὸν Ἀράμ"
+  },
+  {
+   "verse_numbers": [
+    "4"
+   ],
+   "text": "Ram was the father of Amminadab, Amminadab the father of Nahshon, and Nahshon the father of Salmon.",
+   "sermon": "Ram was the father of Amminadab.\\r\\nAmminadab was the father of Nahshon.\\r\\nNahshon was the father of Salmon.",
+   "original": "Ἀρὰμ δὲ ἐγέννησεν τὸν Ἀμιναδάβ Ἀμιναδὰβ δὲ ἐγέννησεν τὸν Ναασσών Ναασσὼν δὲ ἐγέννησεν τὸν Σαλμών"
+  },
+  {
+   "verse_numbers": [
+    "5",
+    "6",
+    "7"
+   ],
+   "text": "Salmon was the father of Boaz by Rahab, Boaz the father of Obed by Ruth, Obed the father of Jesse, and Jesse the father of David the king. Next: David was the father of Solomon by Uriah’s wife, Solomon the father of Rehoboam, Rehoboam the father of Abijah, and Abijah the father of Asa.",
+   "sermon": "Salmon was the father of Boaz.\\r\\nRahab was the mother of Boaz.\\r\\nBoaz was the father of Obed.\\r\\nRuth was the mother of Obed.\\r\\nObed was the father of Jesse.\\r\\nJesse was the father of David.\\r\\nDavid was a king.\\r\\nDavid was the father of Solomon.\\r\\nUriah’s wife was the mother of Solomon.\\r\\nSolomon was the father of Rehoboam.\\r\\nRehoboam was the father of Abijah.\\r\\nAbijah was the father of Asa.",
+   "original": "Σαλμὼν δὲ ἐγέννησεν τὸν Βόες ἐκ τῆς Ῥαχάβ Βόες δὲ ἐγέννησεν τὸν Ἰωβὴδ ἐκ τῆς Ῥούθ Ἰωβὴδ δὲ ἐγέννησεν τὸν Ἰεσσαί Ἰεσσαὶ δὲ ἐγέννησεν τὸν Δαυὶδ τὸν βασιλέα Δαυὶδ δὲ ἐγέννησεν τὸν Σολομῶνα ἐκ τῆς τοῦ Οὐρίου Σολομὼν δὲ ἐγέννησεν τὸν Ῥοβοάμ Ῥοβοὰμ δὲ ἐγέννησεν τὸν Ἀβιά Ἀβιὰ δὲ ἐγέννησεν τὸν Ἀσάφ"
+  },
+  {
+   "verse_numbers": [
+    "8"
+   ],
+   "text": "Asa was the father of Jehoshaphat, Jehoshaphat the father of Joram, and Joram the father of Uzziah.",
+   "sermon": "Asa was the father of Jehoshaphat.\\r\\nJehoshaphat was the father of Joram.\\r\\nJoram was the father of Uzziah.",
+   "original": "Ἀσὰφ δὲ ἐγέννησεν τὸν Ἰωσαφάτ Ἰωσαφὰτ δὲ ἐγέννησεν τὸν Ἰωράμ Ἰωρὰμ δὲ ἐγέννησεν τὸν Ὀζίαν"
+  },
+  {
+   "verse_numbers": [
+    "9"
+   ],
+   "text": "Uzziah was the father of Jotham, Jotham the father of Ahaz, and Ahaz the father of Hezekiah.",
+   "sermon": "Uzziah was the father of Jotham.\\r\\nJotham was the father of Ahaz.\\r\\nAhaz was the father of Hezekiah.",
+   "original": "Ὀζίας δὲ ἐγέννησεν τὸν Ἰωαθάμ Ἰωαθὰμ δὲ ἐγέννησεν τὸν Ἄχαζ Ἄχαζ δὲ ἐγέννησεν τὸν Ἑζεκίαν"
+  },
+  {
+   "verse_numbers": [
+    "10",
+    "11"
+   ],
+   "text": "Hezekiah was the father of Manasseh, Manasseh the father of Amon, Amon the father of Josiah, and Josiah the father of Jeconiah and his brothers at the time of the exile to Babylon.",
+   "sermon": "Hezekiah was the father of Manasseh.\\r\\nManasseh was the father of Amon.\\r\\nAmon was the father of Josiah.\\r\\nJosiah was the father of Jeconiah and his brothers.\\r\\nJosiah lived at the time of the exile to Babylon.",
+   "original": "Ἑζεκίας δὲ ἐγέννησεν τὸν Μανασσῆ Μανασσῆς δὲ ἐγέννησεν τὸν Ἀμώς Ἀμὼς δὲ ἐγέννησεν τὸν Ἰωσίαν Ἰωσίας δὲ ἐγέννησεν τὸν Ἰεχονίαν καὶ τοὺς ἀδελφοὺς αὐτοῦ ἐπὶ τῆς μετοικεσίας Βαβυλῶνος"
+  },
+  {
+   "verse_numbers": [
+    "12",
+    "13"
+   ],
+   "text": "After the exile to Babylon: Jeconiah was the father of Shealtiel, Shealtiel the father of Zerubbabel, Zerubbabel the father of Abiud, Abiud the father of Eliakim, and Eliakim the father of Azor.",
+   "sermon": "After the exile to Babylon, these men lived.\\r\\nJeconiah was the father of Shealtiel.\\r\\nShealtiel was the father of Zerubbabel.\\r\\nZerubbabel was the father of Abiud.\\r\\nAbiud was the father of Eliakim.\\r\\nEliakim was the father of Azor.",
+   "original": "Μετὰ δὲ τὴν μετοικεσίαν Βαβυλῶνος Ἰεχονίας ἐγέννησεν τὸν Σαλαθιήλ Σαλαθιὴλ δὲ ἐγέννησεν τὸν Ζοροβαβέλ Ζοροβαβὲλ δὲ ἐγέννησεν τὸν Ἀβιούδ Ἀβιοὺδ δὲ ἐγέννησεν τὸν Ἐλιακίμ Ἐλιακὶμ δὲ ἐγέννησεν τὸν Ἀζώρ"
+  },
+  {
+   "verse_numbers": [
+    "14"
+   ],
+   "text": "Azor was the father of Zadok, Zadok the father of Achim, and Achim the father of Eliud.",
+   "sermon": "Azor was the father of Zadok.\\r\\nZadok was the father of Achim.\\r\\nAchim was the father of Eliud.",
+   "original": "Ἀζὼρ δὲ ἐγέννησεν τὸν Σαδώκ Σαδὼκ δὲ ἐγέννησεν τὸν Ἀχίμ Ἀχὶμ δὲ ἐγέννησεν τὸν Ἐλιούδ"
+  },
+  {
+   "verse_numbers": [
+    "15",
+    "16"
+   ],
+   "text": "Eliud was the father of Eleazar, Eleazar the father of Matthan, Matthan the father of Jacob, and Jacob the father of Joseph, the husband of Mary, of whom was born Jesus, who is called Christ.",
+   "sermon": "Eliud was the father of Eleazar.\\r\\nEleazar was the father of Matthan.\\r\\nMatthan was the father of Jacob.\\r\\nJacob was the father of Joseph.\\r\\nJoseph was the husband of Mary.\\r\\nMary gave birth to Jesus.\\r\\nPeople call Jesus the Christ.",
+   "original": "Ἐλιοὺδ δὲ ἐγέννησεν τὸν Ἐλεάζαρ Ἐλεάζαρ δὲ ἐγέννησεν τὸν Ματθάν Ματθὰν δὲ ἐγέννησεν τὸν Ἰακώβ Ἰακὼβ δὲ ἐγέννησεν τὸν Ἰωσὴφ τὸν ἄνδρα Μαρίας ἐξ ἧς ἐγεννήθη Ἰησοῦς ὁ λεγόμενος Χριστός"
+  },
+  {
+   "verse_numbers": [
+    "17"
+   ],
+   "text": "In all, then, there were fourteen generations from Abraham to David, fourteen from David to the exile to Babylon, and fourteen from the exile to the Christ.",
+   "sermon": "Matthew wrote about the ancestors of Jesus Christ.\\r\\nHe listed the generations from Abraham to Jesus Christ.\\r\\nThere were fourteen generations from Abraham to David.\\r\\nThere were fourteen generations from David to the exile in Babylon.\\r\\nThere were fourteen generations from the exile in Babylon to Christ.",
+   "original": "Πᾶσαι οὖν αἱ γενεαὶ ἀπὸ Ἀβραὰμ ἕως Δαυὶδ γενεαὶ δεκατέσσαρες καὶ ἀπὸ Δαυὶδ ἕως τῆς μετοικεσίας Βαβυλῶνος γενεαὶ δεκατέσσαρες καὶ ἀπὸ τῆς μετοικεσίας Βαβυλῶνος ἕως τοῦ Χριστοῦ γενεαὶ δεκατέσσαρες"
+  },
+  {
+   "verse_numbers": [
+    "18"
+   ],
+   "text": "This is how the birth of Jesus Christ came about: His mother Mary was pledged in marriage to Joseph, but before they came together, she was found to be with child through the Holy Spirit.",
+   "sermon": "Jesus Christ was born in a special way.\\r\\nHis mother was Mary.\\r\\nMary was engaged to Joseph.\\r\\nBefore Mary and Joseph lived together, something happened.\\r\\nMary became pregnant.\\r\\nThe Holy Spirit caused this pregnancy.\\r\\nMary was found to be with child through the Holy Spirit.",
+   "original": "Τοῦ δὲ Ἰησοῦ Χριστοῦ ἡ γένεσις οὕτως ἦν μνηστευθείσης τῆς μητρὸς αὐτοῦ Μαρίας τῷ Ἰωσήφ πρὶν ἢ συνελθεῖν αὐτοὺς εὑρέθη ἐν γαστρὶ ἔχουσα ἐκ πνεύματος ἁγίου"
+  },
+  {
+   "verse_numbers": [
+    "19"
+   ],
+   "text": "Because Joseph her husband was a righteous man and was unwilling to disgrace her publicly, he resolved to divorce her quietly.",
+   "sermon": "Joseph was Mary's husband.\\r\\nJoseph was a righteous man.\\r\\nJoseph did not want to disgrace Mary publicly.\\r\\nJoseph decided to divorce Mary quietly.",
+   "original": "Ἰωσὴφ δὲ ὁ ἀνὴρ αὐτῆς δίκαιος ὢν καὶ μὴ θέλων αὐτὴν δειγματίσαι ἐβουλήθη λάθρᾳ ἀπολῦσαι αὐτήν"
+  },
+  {
+   "verse_numbers": [
+    "20"
+   ],
+   "text": "But after he had pondered these things, an angel of the Lord appeared to him in a dream and said, “Joseph, son of David, do not be afraid to embrace Mary as your wife, for the One conceived in her is from the Holy Spirit.",
+   "sermon": "Joseph was a righteous man.\\r\\nJoseph thought about what to do with Mary.\\r\\nMary was pledged to Joseph in marriage.\\r\\nMary was found to be pregnant by the Holy Spirit.\\r\\nJoseph considered divorcing Mary quietly.\\r\\nWhile Joseph was thinking about this, an angel of the Lord appeared to him in a dream.\\r\\nThe angel spoke to Joseph.\\r\\nThe angel said, “Joseph, son of David, do not be afraid to take Mary as your wife.\\r\\nThe child in Mary is from the Holy Spirit.”",
+   "original": "Ταῦτα δὲ αὐτοῦ ἐνθυμηθέντος ἰδοὺ ἄγγελος Κυρίου κατ’ ὄναρ ἐφάνη αὐτῷ λέγων Ἰωσὴφ υἱὸς Δαυίδ μὴ φοβηθῇς παραλαβεῖν Μαρίαν τὴν γυναῖκά σου τὸ γὰρ ἐν αὐτῇ γεννηθὲν ἐκ Πνεύματός ἐστιν Ἁγίου"
+  },
+  {
+   "verse_numbers": [
+    "21"
+   ],
+   "text": "She will give birth to a Son, and you are to give Him the name Jesus, because He will save His people from their sins.”",
+   "sermon": "Mary will give birth to a Son.\\r\\nYou must name Him Jesus.\\r\\nJesus will save His people from their sins.",
+   "original": "τέξεται δὲ υἱὸν καὶ καλέσεις τὸ ὄνομα αὐτοῦ Ἰησοῦν αὐτὸς γὰρ σώσει τὸν λαὸν αὐτοῦ ἀπὸ τῶν ἁμαρτιῶν αὐτῶν"
+  },
+  {
+   "verse_numbers": [
+    "22",
+    "23"
+   ],
+   "text": "All this took place to fulfill what the Lord had said through the prophet: “Behold, the virgin will be with child and will give birth to a son, and they will call Him Immanuel” (which means, “God with us”).",
+   "sermon": "God spoke through His prophet.\\r\\nGod made a promise long ago.\\r\\nGod said, “A virgin will become pregnant.”\\r\\nShe will give birth to a son.\\r\\nThey will call the son Immanuel.\\r\\nImmanuel means “God with us.”\\r\\nAll these things happened to fulfill God’s promise.",
+   "original": "Τοῦτο δὲ ὅλον γέγονεν ἵνα πληρωθῇ τὸ ῥηθὲν ὑπὸ Κυρίου διὰ τοῦ προφήτου λέγοντος Ἰδοὺ ἡ παρθένος ἐν γαστρὶ ἕξει καὶ τέξεται υἱόν καὶ καλέσουσιν τὸ ὄνομα αὐτοῦ Ἐμμανουήλ ὅ ἐστιν μεθερμηνευόμενον Μεθ’ ἡμῶν ὁ Θεός"
+  },
+  {
+   "verse_numbers": [
+    "24"
+   ],
+   "text": "When Joseph woke up, he did as the angel of the Lord had commanded him, and embraced Mary as his wife.",
+   "sermon": "Joseph was a righteous man.\\r\\nJoseph had been visited by an angel of the Lord in a dream.\\r\\nThe angel gave Joseph a command.\\r\\nJoseph woke up from his sleep.\\r\\nJoseph obeyed the angel’s command.\\r\\nJoseph took Mary to be his wife.",
+   "original": "Ἐγερθεὶς δὲ ὁ Ἰωσὴφ ἀπὸ τοῦ ὕπνου ἐποίησεν ὡς προσέταξεν αὐτῷ ὁ ἄγγελος Κυρίου καὶ παρέλαβεν τὴν γυναῖκα αὐτοῦ"
+  },
+  {
+   "verse_numbers": [
+    "25"
+   ],
+   "text": "But he had no union with her until she gave birth to a Son. And he gave Him the name Jesus.",
+   "sermon": "Joseph did not have marital relations with Mary until she gave birth to a son.\\r\\nJoseph named the son Jesus.",
+   "original": "καὶ οὐκ ἐγίνωσκεν αὐτὴν ἕως οὗ ἔτεκεν υἱόν καὶ ἐκάλεσεν τὸ ὄνομα αὐτοῦ Ἰησοῦν"
+  }
+ ]
+}

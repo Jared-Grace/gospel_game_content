@@ -1,0 +1,31 @@
+{
+ "book": "1JN",
+ "chapters": [
+  "1JN03",
+  "1JN04",
+  "1JN05"
+ ],
+ "days": 18,
+ "matches": 720,
+ "question_turns": 180,
+ "arc_turns": 540,
+ "npcs": 13,
+ "leader_turns": 162,
+ "leader_short": false,
+ "convert_lengths": [
+  30,
+  34,
+  31,
+  32,
+  35,
+  33,
+  33,
+  32,
+  28,
+  28,
+  29,
+  33
+ ],
+ "spent": 540,
+ "balanced": true
+}

@@ -1,0 +1,29 @@
+{
+ "book": "ROM",
+ "chapters": [
+  "ROM01"
+ ],
+ "days": 15,
+ "matches": 600,
+ "question_turns": 150,
+ "arc_turns": 450,
+ "npcs": 13,
+ "leader_turns": 135,
+ "leader_short": false,
+ "convert_lengths": [
+  25,
+  32,
+  24,
+  26,
+  25,
+  30,
+  25,
+  25,
+  23,
+  25,
+  29,
+  26
+ ],
+ "spent": 450,
+ "balanced": true
+}
