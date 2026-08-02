@@ -456,6 +456,112 @@
      ]
     }
    ]
+  },
+  {
+   "verse_numbers": [
+    "12"
+   ],
+   "english": "I do not permit a woman to teach or to exercise authority over a man; she is to remain quiet.",
+   "lines": [
+    {
+     "text": "Paul does not permit a woman to teach — in verse 11 Paul said what a woman must do while learning, and here Paul says what she must not do.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "Paul does not permit a woman to exercise authority over a man — to exercise authority over someone is to be in charge of him, so that he must do what you say.",
+     "indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "A woman must not teach a man in a way that puts her in charge of him — Paul puts teaching and authority together in one sentence, so teaching that takes charge is not permitted.",
+     "indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "Instead, a woman is to remain quiet — this is the same quietness as in verse 11, which is being settled and ready to receive, not having no words at all.",
+     "indices": [
+      15,
+      16,
+      17,
+      18,
+      19
+     ]
+    },
+    {
+     "text": "Instead, a woman is to remain quiet — Paul began verse 11 with quietness and ends verse 12 with quietness, so quietness is what both verses are about.",
+     "indices": [
+      15,
+      16,
+      17,
+      18,
+      19
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "11"
+   ],
+   "english": "A woman must learn in quietness and full submissiveness.",
+   "lines": [
+    {
+     "text": "A woman must learn — in Paul's day women were often not taught, so Paul commands that women be taught.",
+     "indices": [
+      0,
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "text": "A woman must learn in quietness — quietly listening to receive right teaching, not interrupting or taking over the teaching herself.",
+     "indices": [
+      4,
+      5
+     ]
+    },
+    {
+     "text": "A woman must learn in quietness — if she talks on and on, she is implying the man rightly teaching should listen in quietness, and then she would be the one teaching him.",
+     "indices": [
+      4,
+      5
+     ]
+    },
+    {
+     "text": "And a woman must learn in full submissiveness — to be submissive is to yield to the man rightly teaching her.",
+     "indices": [
+      6,
+      7,
+      8
+     ]
+    }
+   ]
   }
  ]
 }

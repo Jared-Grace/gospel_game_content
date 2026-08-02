@@ -54,7 +54,7 @@
      ]
     },
     {
-     "text": "There was no more room, not even outside the door — the crowd filled the house and spilled out into the street.",
+     "text": "There was no more room, not even outside the door — the crowd filled the house and spilled outside the house.",
      "indices": [
       30,
       31,
@@ -64,7 +64,7 @@
      ]
     },
     {
-     "text": "Jesus spoke the word to them — the word is God's message, the good news that His kingdom has come near.",
+     "text": "Jesus spoke the word to them — this word is God's message, the good news that His kingdom has come near.",
      "indices": [
       35,
       36,
@@ -74,17 +74,45 @@
       40,
       41
      ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "3"
+   ],
+   "english": "Then a paralytic was brought to Him, carried by four men.",
+   "lines": [
+    {
+     "text": "Then a paralyzed man was brought to Jesus — a paralyzed man cannot move his arms and legs.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
     },
     {
-     "text": "Jesus spoke the word to them — He kept on teaching them, not just for a moment.",
+     "text": "The paralyzed man could not come to Jesus by himself.",
      "indices": [
-      35,
-      36,
-      37,
-      38,
-      39,
-      40,
-      41
+      2,
+      5,
+      6
+     ]
+    },
+    {
+     "text": "Four men carried the paralyzed man to Jesus.",
+     "indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
      ]
     }
    ]

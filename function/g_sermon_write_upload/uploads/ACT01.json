@@ -324,14 +324,14 @@
    "english": "Jesus replied, “It is not for you to know times or seasons that the Father has fixed by His own authority.",
    "lines": [
     {
-     "text": "Jesus replied to the apostles' question.",
+     "text": "Jesus replied to the apostles' question about Israel being its own kingdom.",
      "indices": [
       0,
       1
      ]
     },
     {
-     "text": "Jesus said to the apostles, “It is not for you to know times or seasons.”",
+     "text": "Jesus said to the apostles, “It is not for you to know times or seasons.” — it was not for the apostles to know when Israel would become its own kingdom.",
      "indices": [
       2,
       3,
@@ -346,20 +346,7 @@
      ]
     },
     {
-     "text": "Jesus said to the apostles, “It is not for you to know times” — a time is how long it will be until something happens.",
-     "indices": [
-      9
-     ]
-    },
-    {
-     "text": "Jesus said to the apostles, “It is not for you to know seasons” — a season is the right moment for something to happen.",
-     "indices": [
-      10,
-      11
-     ]
-    },
-    {
-     "text": "The Father has fixed these times and seasons — to fix a time is to decide when it will happen.",
+     "text": "Jesus said the Father has fixed these times and seasons — to fix a time is to decide when it will happen.",
      "indices": [
       12,
       13,
@@ -369,12 +356,105 @@
      ]
     },
     {
-     "text": "The Father fixed these times and seasons by His own authority — authority is the right to decide.",
+     "text": "And Jesus said the Father fixed these times and seasons by His own authority — His authority is the power to decide.",
      "indices": [
       17,
       18,
       19,
       20
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "8"
+   ],
+   "english": "But you will receive power when the Holy Spirit comes upon you, and you will be My witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”",
+   "lines": [
+    {
+     "text": "Jesus told His apostles: “But you will receive power” — instead of promising power to the kingdom of Israel now, Jesus promised the apostles power in the kingdom of God.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "“You will receive power when the Holy Spirit comes upon you.”",
+     "indices": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "“And you will be My witnesses” — a witness tells others what they have seen for themselves.",
+     "indices": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "text": "“And you will be My witnesses” — the apostles had seen Jesus alive after He rose, so they could testify that Jesus rose to life.",
+     "indices": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "text": "“You will be My witnesses in Jerusalem” — Jerusalem is where the apostles already were, so the good news starts where they stand.",
+     "indices": [
+      18,
+      19
+     ]
+    },
+    {
+     "text": "“You will be My witnesses in all Judea and Samaria” — Judea and Samaria were the regions around Jerusalem.",
+     "indices": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+     ]
+    },
+    {
+     "text": "“You will be My witnesses in all Judea and Samaria” — the Jews avoided the Samaritans, yet Jesus sends His witnesses to them too.",
+     "indices": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+     ]
+    },
+    {
+     "text": "“And you will be My witnesses to the ends of the earth” — the ends of the earth means everywhere in the world, however far away.",
+     "indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
      ]
     }
    ]

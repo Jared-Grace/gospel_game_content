@@ -528,22 +528,17 @@
    "english": "Then you will not be sluggish, but will imitate those who through faith and patience inherit what has been promised.",
    "lines": [
     {
-     "text": "Then you will not be sluggish — sluggish means slow to move, dragging your feet.",
+     "text": "God has promised an inheritance.",
      "indices": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5
+      16,
+      17,
+      18,
+      19
      ]
     },
     {
-     "text": "But you will imitate those who inherit what has been promised — to imitate someone is to copy the way they live.",
+     "text": "There are those who inherit what God has promised.",
      "indices": [
-      6,
-      7,
-      8,
       9,
       10,
       15,
@@ -554,17 +549,7 @@
      ]
     },
     {
-     "text": "The people you should imitate inherit what has been promised — God is the One who promised it.",
-     "indices": [
-      15,
-      16,
-      17,
-      18,
-      19
-     ]
-    },
-    {
-     "text": "The people you should imitate inherit what has been promised through faith.",
+     "text": "Those who inherit what God has promised inherit it through faith.",
      "indices": [
       11,
       12,
@@ -576,7 +561,7 @@
      ]
     },
     {
-     "text": "The people you should imitate inherit what has been promised through patience — patience means waiting a long time for God without giving up.",
+     "text": "Those who inherit what God has promised inherit it through patience — patience means waiting a long time for God, never giving up.",
      "indices": [
       13,
       14,
@@ -585,6 +570,129 @@
       17,
       18,
       19
+     ]
+    },
+    {
+     "text": "If you are diligent until the end, then you will not be sluggish — sluggish means slow to move, dragging your feet.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "Instead of being sluggish, you will imitate those who inherit — to imitate them is to copy the way they live.",
+     "indices": [
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "13",
+    "14"
+   ],
+   "english": "When God made His promise to Abraham, since He had no one greater to swear by, He swore by Himself, saying, “I will surely bless you and multiply your descendants.”",
+   "lines": [
+    {
+     "text": "God made a promise to Abraham.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "text": "Abraham is the man God chose to make into a great nation.",
+     "indices": [
+      6
+     ]
+    },
+    {
+     "text": "To swear is to give your word that a promise is true.",
+     "indices": [
+      13,
+      14
+     ]
+    },
+    {
+     "text": "Someone who swears calls on a greater person to back up the promise.",
+     "indices": [
+      12,
+      13,
+      14,
+      15
+     ]
+    },
+    {
+     "text": "No one is greater than God.",
+     "indices": [
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "So God had no one greater to swear by.",
+     "indices": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+     ]
+    },
+    {
+     "text": "So God swore by Himself.",
+     "indices": [
+      16,
+      17,
+      18,
+      19
+     ]
+    },
+    {
+     "text": "God Himself backs up His promise to Abraham.",
+     "indices": [
+      3,
+      4,
+      19
+     ]
+    },
+    {
+     "text": "God said to Abraham, 'I will surely bless you' — to bless someone is to do good to them.",
+     "indices": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+     ]
+    },
+    {
+     "text": "God also said to Abraham, 'I will multiply your descendants' — descendants are a person's children, and all who come after them.",
+     "indices": [
+      26,
+      27,
+      28,
+      29
      ]
     }
    ]
