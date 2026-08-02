@@ -2,6 +2,10 @@
 
 Every sermon and conversation the game has written, kept in full history.
 
+All of it was written by a machine, some of it edited afterwards by one person.
+Nothing here came from anybody playing the game. Reviewer notes and reader
+suggestions are deliberately left out, and stay out.
+
 The game stores one copy of each file and forgets what it said before, so an
 edit that turns out wrong has nothing to be restored from. This repo keeps every
 version of every sentence, which is the difference between a copy and a backup.
@@ -14,8 +18,6 @@ version of every sentence, which is the difference between a copy and a backup.
   person has since edited by hand.
 - `function/g_objection_generate_upload/uploads/<CHAPTER>.json` — objections an
   unbeliever might raise, with the passages that answer them.
-- `function/g_verify_status/`, `function/g_verify_approval/` — which content has
-  been read over and approved.
 - `generations.json` — the version each file was at when it was last copied
   down. It is how a pass knows which files moved.
 
