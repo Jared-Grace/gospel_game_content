@@ -603,7 +603,7 @@
    "english": "When God made His promise to Abraham, since He had no one greater to swear by, He swore by Himself, saying, “I will surely bless you and multiply your descendants.”",
    "lines": [
     {
-     "text": "God made a promise to Abraham.",
+     "text": "God made a promise to Abraham — Abraham is the man God chose to make into a great nation.",
      "indices": [
       0,
       1,
@@ -611,12 +611,6 @@
       3,
       4,
       5,
-      6
-     ]
-    },
-    {
-     "text": "Abraham is the man God chose to make into a great nation.",
-     "indices": [
       6
      ]
     },
@@ -637,7 +631,7 @@
      ]
     },
     {
-     "text": "No one is greater than God.",
+     "text": "But no one is greater than God.",
      "indices": [
       10,
       11,
@@ -645,7 +639,7 @@
      ]
     },
     {
-     "text": "So God had no one greater to swear by.",
+     "text": "So God had no one greater than Himself to swear by.",
      "indices": [
       7,
       8,
@@ -676,7 +670,7 @@
      ]
     },
     {
-     "text": "God said to Abraham, 'I will surely bless you' — to bless someone is to do good to them.",
+     "text": "God said to Abraham, “I will surely bless you” — to bless someone is to speak or do good to them.",
      "indices": [
       20,
       21,
@@ -687,7 +681,7 @@
      ]
     },
     {
-     "text": "God also said to Abraham, 'I will multiply your descendants' — descendants are a person's children, and all who come after them.",
+     "text": "God also said to Abraham, “I will multiply your descendants” — descendants are a person's children, and all who come after them.",
      "indices": [
       26,
       27,

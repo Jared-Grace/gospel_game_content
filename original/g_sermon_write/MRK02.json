@@ -84,7 +84,7 @@
    "english": "Then a paralytic was brought to Him, carried by four men.",
    "lines": [
     {
-     "text": "Then a paralyzed man was brought to Jesus — a paralyzed man cannot move his arms and legs.",
+     "text": "Then a paralyzed man was brought to Jesus.",
      "indices": [
       0,
       1,
@@ -96,16 +96,9 @@
      ]
     },
     {
-     "text": "The paralyzed man could not come to Jesus by himself.",
+     "text": "Four men carried the paralyzed man to Jesus — the paralyzed man could not come to Jesus by himself.",
      "indices": [
       2,
-      5,
-      6
-     ]
-    },
-    {
-     "text": "Four men carried the paralyzed man to Jesus.",
-     "indices": [
       4,
       5,
       6,
