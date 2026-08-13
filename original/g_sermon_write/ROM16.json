@@ -1,0 +1,656 @@
+{
+ "chapter_code": "ROM16",
+ "passages": [
+  {
+   "verse_numbers": [
+    "1"
+   ],
+   "scripture": "I commend to you our sister Phoebe, a servant of the church in Cenchrea.",
+   "lines": [
+    {
+     "text": "Phoebe is our sister in Christ.",
+     "indices": []
+    },
+    {
+     "text": "Phoebe served as a deacon of the church in Cenchrea.",
+     "indices": []
+    },
+    {
+     "text": "Paul commended Phoebe to the believers in Rome.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "2"
+   ],
+   "scripture": "Welcome her in the Lord in a manner worthy of the saints, and assist her with anything she may need from you. For she has been a great help to many people, including me.",
+   "lines": [
+    {
+     "text": "Phoebe helped many people.",
+     "indices": []
+    },
+    {
+     "text": "Phoebe also helped Paul.",
+     "indices": []
+    },
+    {
+     "text": "Therefore, Paul asked the believers in Rome to welcome Phoebe in the Lord.",
+     "indices": []
+    },
+    {
+     "text": "And Paul asked these Roman Christians to welcome Phoebe as they would welcome the saints.",
+     "indices": []
+    },
+    {
+     "text": "And finally Paul asked these believers in Rome to help Phoebe with anything she needs from them.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "3",
+    "4"
+   ],
+   "scripture": "Greet Prisca and Aquila, my fellow workers in Christ Jesus, who have risked their lives for me. Not only I but all the churches of the Gentiles are grateful to them.",
+   "lines": [
+    {
+     "text": "Prisca and Aquila are fellow workers of Paul in Christ Jesus.",
+     "indices": []
+    },
+    {
+     "text": "Prisca and Aquila risked their lives for Paul.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Christians in Rome to Greet Prisca and Aquila.",
+     "indices": []
+    },
+    {
+     "text": "Paul is grateful to Prisca and Aquila.",
+     "indices": []
+    },
+    {
+     "text": "All the churches of the Gentiles are also grateful to Prisca and Aquila.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "5"
+   ],
+   "scripture": "Greet also the church that meets at their house. Greet my beloved Epenetus, who was the first convert to Christ in the province of Asia.",
+   "lines": [
+    {
+     "text": "Prisca and Aquila host a church in their house.",
+     "indices": []
+    },
+    {
+     "text": "Paul asked the Christians in Rome to greet the church that meets in the house of Prisca and Aquila.",
+     "indices": []
+    },
+    {
+     "text": "Epenetus is a beloved friend of Paul.",
+     "indices": []
+    },
+    {
+     "text": "Epenetus was the first person in the province of Asia to believe in Christ.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet Epenetus.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "6"
+   ],
+   "scripture": "Greet Mary, who has worked very hard for you.",
+   "lines": [
+    {
+     "text": "Mary is a woman who has served the church in Rome.",
+     "indices": []
+    },
+    {
+     "text": "Mary worked very hard for the believers there in Rome.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet Mary.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "7"
+   ],
+   "scripture": "Greet Andronicus and Junia, my fellow countrymen and fellow prisoners. They are outstanding among the apostles, and they were in Christ before I was.",
+   "lines": [
+    {
+     "text": "Andronicus and Junia are fellow countrymen to Paul.",
+     "indices": []
+    },
+    {
+     "text": "Andronicus and Junia are also fellow prisoners with Paul.",
+     "indices": []
+    },
+    {
+     "text": "Andronicus and Junia are outstanding among the apostles.",
+     "indices": []
+    },
+    {
+     "text": "Andronicus and Junia were in Christ before Paul was.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet Andronicus and Junia.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "8"
+   ],
+   "scripture": "Greet Ampliatus, my beloved in the Lord.",
+   "lines": [
+    {
+     "text": "Ampliatus is beloved in the Lord to Paul.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet Ampliatus.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "9"
+   ],
+   "scripture": "Greet Urbanus, our fellow worker in Christ, and my beloved Stachys.",
+   "lines": [
+    {
+     "text": "Urbanus is a fellow worker in Christ.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet Urbanus.",
+     "indices": []
+    },
+    {
+     "text": "Stachys is beloved to Paul.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet Stachys.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "10"
+   ],
+   "scripture": "Greet Apelles, who is approved in Christ. Greet those who belong to the household of Aristobulus.",
+   "lines": [
+    {
+     "text": "Apelles is approved in Christ.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet Apelles.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet those who belong to the household of Aristobulus.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "11"
+   ],
+   "scripture": "Greet Herodion, my fellow countryman. Greet those from the household of Narcissus who are in the Lord.",
+   "lines": [
+    {
+     "text": "Herodion is Paul's fellow countryman.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet Herodion.",
+     "indices": []
+    },
+    {
+     "text": "There are some people who belong to the household of Narcissus.",
+     "indices": []
+    },
+    {
+     "text": "These people are in the Lord.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet those from the household of Narcissus who are in the Lord.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "12"
+   ],
+   "scripture": "Greet Tryphena and Tryphosa, women who have worked hard in the Lord. Greet my beloved Persis, who has worked very hard in the Lord.",
+   "lines": [
+    {
+     "text": "Tryphena and Tryphosa are women.",
+     "indices": []
+    },
+    {
+     "text": "Tryphena and Tryphosa have worked hard in the Lord.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet Tryphena and Tryphosa.",
+     "indices": []
+    },
+    {
+     "text": "Persis is beloved to Paul.",
+     "indices": []
+    },
+    {
+     "text": "Persis has worked very hard in the Lord.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet Persis.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "13"
+   ],
+   "scripture": "Greet Rufus, chosen in the Lord, and his mother, who has been a mother to me as well.",
+   "lines": [
+    {
+     "text": "Rufus is chosen in the Lord.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet Rufus.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet the mother of Rufus.",
+     "indices": []
+    },
+    {
+     "text": "The mother of Rufus mother has also been a mother to Paul.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "14"
+   ],
+   "scripture": "Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers with them.",
+   "lines": [
+    {
+     "text": "Paul asks the Roman Christians to greet Asyncritus.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet Phlegon.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet Hermes.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet Patrobas.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet Hermas.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet the brothers who are with them.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "15"
+   ],
+   "scripture": "Greet Philologus and Julia, Nereus and his sister, and Olympas and all the saints with them.",
+   "lines": [
+    {
+     "text": "Paul asks the Roman Christians to greet Philologus.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet Julia.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet Nereus.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet the sister of Nereus.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet Olympas.",
+     "indices": []
+    },
+    {
+     "text": "Paul asks the Roman Christians to greet all the saints who are with these people.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "16"
+   ],
+   "scripture": "Greet one another with a holy kiss. All the churches of Christ send you greetings.",
+   "lines": [
+    {
+     "text": "Paul asks the Christians in Rome to greet one another.",
+     "indices": []
+    },
+    {
+     "text": "Paul says to use a holy kiss when they greet each other.",
+     "indices": []
+    },
+    {
+     "text": "All the churches that belong to Christ send their greetings to the believers in Rome.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "17"
+   ],
+   "scripture": "Now I urge you, brothers, to watch out for those who create divisions and obstacles that are contrary to the teaching you have learned. Turn away from them.",
+   "lines": [
+    {
+     "text": "Paul calls the Christians in Rome brothers.",
+     "indices": []
+    },
+    {
+     "text": "Paul urges the Christians in Rome to be careful.",
+     "indices": []
+    },
+    {
+     "text": "Some people have created divisions.",
+     "indices": []
+    },
+    {
+     "text": "Some people gave caused obstacles.",
+     "indices": []
+    },
+    {
+     "text": "These divisions and obstacles go against the teaching the Roman Christians learned.",
+     "indices": []
+    },
+    {
+     "text": "Paul tells the Roman Christians to watch out for such people.",
+     "indices": []
+    },
+    {
+     "text": "Paul tells the Roman Christians to turn away from those who created divisions and obstacles.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "18"
+   ],
+   "scripture": "For such people are not serving our Lord Christ, but their own appetites. By smooth talk and flattery they deceive the hearts of the naive.",
+   "lines": [
+    {
+     "text": "Some people do not serve our Lord Jesus Christ.",
+     "indices": []
+    },
+    {
+     "text": "These people serve only their own desires.",
+     "indices": []
+    },
+    {
+     "text": "They use smooth talk.",
+     "indices": []
+    },
+    {
+     "text": "They use flattery.",
+     "indices": []
+    },
+    {
+     "text": "They deceive the hearts of innocent people.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "19"
+   ],
+   "scripture": "Everyone has heard about your obedience, so I rejoice over you. But I want you to be wise about what is good and innocent about what is evil.",
+   "lines": [
+    {
+     "text": "Paul wrote this letter to the Christians in Rome.",
+     "indices": []
+    },
+    {
+     "text": "Paul saw that these Roman Christians obeyed God.",
+     "indices": []
+    },
+    {
+     "text": "Everyone about the obedience of these Christians in Rome.",
+     "indices": []
+    },
+    {
+     "text": "Paul felt joy because of the obedience of these Roman Christians.",
+     "indices": []
+    },
+    {
+     "text": "Paul wanted these Christians in Rome to be wise about what is good.",
+     "indices": []
+    },
+    {
+     "text": "Paul wanted these Roman Christians to be innocent about what is evil.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "20"
+   ],
+   "scripture": "The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus Christ be with you.",
+   "lines": [
+    {
+     "text": "God is the God of peace.",
+     "indices": []
+    },
+    {
+     "text": "God will soon crush Satan.",
+     "indices": []
+    },
+    {
+     "text": "God will soon crush Satan under our feet.",
+     "indices": []
+    },
+    {
+     "text": "Paul prays for the grace of our Lord Jesus Christ to be with us.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "21"
+   ],
+   "scripture": "Timothy, my fellow worker, sends you greetings, as do Lucius, Jason, and Sosipater, my fellow countrymen.",
+   "lines": [
+    {
+     "text": "Timothy is a fellow worker with Paul.",
+     "indices": []
+    },
+    {
+     "text": "Timothy sends the Roman Christians greetings.",
+     "indices": []
+    },
+    {
+     "text": "Lucius, Jason, and Sosipater are fellow countrymen to Paul.",
+     "indices": []
+    },
+    {
+     "text": "Lucius sends the Roman Christians greetings.",
+     "indices": []
+    },
+    {
+     "text": "Jason sends the Roman Christians greetings.",
+     "indices": []
+    },
+    {
+     "text": "And Sosipater sends the Roman Christians greetings.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "22"
+   ],
+   "scripture": "I, Tertius, who wrote down this letter, greet you in the Lord.",
+   "lines": [
+    {
+     "text": "Tertius wrote down this letter to the Romans.",
+     "indices": []
+    },
+    {
+     "text": "Tertius greets the Christians in Rome.",
+     "indices": []
+    },
+    {
+     "text": "Tertius greets the Roman Christians in the Lord.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "23"
+   ],
+   "scripture": "Gaius, who has hosted me and all the church, sends you greetings. Erastus, the city treasurer, sends you greetings, as does our brother Quartus.",
+   "lines": [
+    {
+     "text": "Gaius has hosted Paul.",
+     "indices": []
+    },
+    {
+     "text": "Gaius has also hosted the whole church.",
+     "indices": []
+    },
+    {
+     "text": "Gaius sends the Christians in Rome greetings.",
+     "indices": []
+    },
+    {
+     "text": "Erastus is the city treasurer.",
+     "indices": []
+    },
+    {
+     "text": "Erastus sends the Christians in Rome greetings.",
+     "indices": []
+    },
+    {
+     "text": "Quartus is our brother.",
+     "indices": []
+    },
+    {
+     "text": "Quartus sends the Christians in Rome greetings.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "25",
+    "26",
+    "27"
+   ],
+   "scripture": "Now to Him who is able to strengthen you by my gospel and by the proclamation of Jesus Christ, according to the revelation of the mystery concealed for ages past but now revealed and made known through the writings of the prophets by the command of the eternal God, in order to lead all nations to the obedience that comes from faith — to the only wise God be glory forever through Jesus Christ! Amen.",
+   "lines": [
+    {
+     "text": "God is able to strengthen us.",
+     "indices": []
+    },
+    {
+     "text": "God strengthens us by the gospel God gave to Paul.",
+     "indices": []
+    },
+    {
+     "text": "God strengthens us by the proclamation of Jesus Christ.",
+     "indices": []
+    },
+    {
+     "text": "There was a mystery was hidden for ages.",
+     "indices": []
+    },
+    {
+     "text": "Now God has revealed this mystery.",
+     "indices": []
+    },
+    {
+     "text": "God made this mystery known through the writings of the prophets.",
+     "indices": []
+    },
+    {
+     "text": "God revealed this mystery by the command of the eternal God.",
+     "indices": []
+    },
+    {
+     "text": "There is an obedience that comes from faith.",
+     "indices": []
+    },
+    {
+     "text": "God made this mystery known to lead all nations to the obedience that comes from faith.",
+     "indices": []
+    },
+    {
+     "text": "God alone is wise.",
+     "indices": []
+    },
+    {
+     "text": "Glory belongs to God forever.",
+     "indices": []
+    },
+    {
+     "text": "God receives glory through Jesus Christ.",
+     "indices": []
+    },
+    {
+     "text": "Amen.",
+     "indices": []
+    }
+   ]
+  }
+ ]
+}

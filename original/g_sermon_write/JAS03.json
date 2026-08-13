@@ -1,0 +1,522 @@
+{
+ "chapter_code": "JAS03",
+ "passages": [
+  {
+   "verse_numbers": [
+    "1"
+   ],
+   "scripture": "Not many of you should become teachers, my brothers, because you know that we who teach will be judged more strictly.",
+   "lines": [
+    {
+     "text": "Not many of you should become teachers.",
+     "indices": []
+    },
+    {
+     "text": "We who teach will be judged more strictly.",
+     "indices": []
+    },
+    {
+     "text": "You know this truth.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "2"
+   ],
+   "scripture": "We all stumble in many ways. If anyone is never at fault in what he says, he is a perfect man, able to control his whole body.",
+   "lines": [
+    {
+     "text": "All people make many mistakes.",
+     "indices": []
+    },
+    {
+     "text": "We all stumble in many ways.",
+     "indices": []
+    },
+    {
+     "text": "If a person never makes a mistake in what he says, he is perfect.",
+     "indices": []
+    },
+    {
+     "text": "This person has self-control over his whole body.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "3"
+   ],
+   "scripture": "When we put bits into the mouths of horses to make them obey us, we can guide the whole animal.",
+   "lines": [
+    {
+     "text": "As an analogy, a horse is a large animal.",
+     "indices": []
+    },
+    {
+     "text": "We want the horse to obey us.",
+     "indices": []
+    },
+    {
+     "text": "So we put a bit into the horse’s mouth.",
+     "indices": []
+    },
+    {
+     "text": "The bit is small.",
+     "indices": []
+    },
+    {
+     "text": "The bit helps us command the horse.",
+     "indices": []
+    },
+    {
+     "text": "With the bit, we guide the whole body of the horse.",
+     "indices": []
+    },
+    {
+     "text": "The large horse follows our direction because of the small bit.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "4"
+   ],
+   "scripture": "Consider ships as well. Although they are so large and are driven by strong winds, they are steered by a very small rudder wherever the pilot is inclined.",
+   "lines": [
+    {
+     "text": "As another analogy, ships are very large.",
+     "indices": []
+    },
+    {
+     "text": "Strong winds drive these ships.",
+     "indices": []
+    },
+    {
+     "text": "A very small rudder steers each ship.",
+     "indices": []
+    },
+    {
+     "text": "The pilot controls the rudder.",
+     "indices": []
+    },
+    {
+     "text": "The ship goes wherever the pilot wants.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "5"
+   ],
+   "scripture": "In the same way, the tongue is a small part of the body, but it boasts of great things. Consider how small a spark sets a great forest ablaze.",
+   "lines": [
+    {
+     "text": "The tongue is a small part of the body.",
+     "indices": []
+    },
+    {
+     "text": "Just like how a bit is small compared to a horse.",
+     "indices": []
+    },
+    {
+     "text": "And just like how a rudder is small compared to the whole ship.",
+     "indices": []
+    },
+    {
+     "text": "And yet, the little tongue can boast about great things.",
+     "indices": []
+    },
+    {
+     "text": "As another analogy, small spark can set a large forest on fire.",
+     "indices": []
+    },
+    {
+     "text": "The tongue is like that small spark.",
+     "indices": []
+    },
+    {
+     "text": "The tongue can cause great results, even though it is small.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "6"
+   ],
+   "scripture": "The tongue also is a fire, a world of wickedness among the parts of the body. It pollutes the whole person, sets the course of his life on fire, and is itself set on fire by hell.",
+   "lines": [
+    {
+     "text": "The tongue is a fire.",
+     "indices": []
+    },
+    {
+     "text": "The tongue is a world of wickedness among the parts of the body.",
+     "indices": []
+    },
+    {
+     "text": "The tongue pollutes the whole person.",
+     "indices": []
+    },
+    {
+     "text": "The tongue sets the course of a person's life on fire.",
+     "indices": []
+    },
+    {
+     "text": "Hell sets the tongue on fire.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "7",
+    "8"
+   ],
+   "scripture": "All kinds of animals, birds, reptiles, and creatures of the sea are being tamed and have been tamed by man, but no man can tame the tongue. It is a restless evil, full of deadly poison.",
+   "lines": [
+    {
+     "text": "People have tamed all kinds of animals.",
+     "indices": []
+    },
+    {
+     "text": "People have tamed birds.",
+     "indices": []
+    },
+    {
+     "text": "People have tamed reptiles.",
+     "indices": []
+    },
+    {
+     "text": "People have tamed creatures of the sea.",
+     "indices": []
+    },
+    {
+     "text": "These creatures are being tamed.",
+     "indices": []
+    },
+    {
+     "text": "But no human can tame the tongue.",
+     "indices": []
+    },
+    {
+     "text": "The tongue is a restless evil.",
+     "indices": []
+    },
+    {
+     "text": "The tongue is full of deadly poison.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "9"
+   ],
+   "scripture": "With the tongue we bless our Lord and Father, and with it we curse men, who have been made in God’s likeness.",
+   "lines": [
+    {
+     "text": "The tongue is a part of the human body.",
+     "indices": []
+    },
+    {
+     "text": "We use the tongue to speak.",
+     "indices": []
+    },
+    {
+     "text": "The Lord is our Heavenly Father",
+     "indices": []
+    },
+    {
+     "text": "We use the tongue to bless our Lord.",
+     "indices": []
+    },
+    {
+     "text": "We also use the tongue to curse people.",
+     "indices": []
+    },
+    {
+     "text": "But God made people in the likeness of God.",
+     "indices": []
+    },
+    {
+     "text": "So we curse people who are made in God’s likeness.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "10"
+   ],
+   "scripture": "Out of the same mouth come blessing and cursing. My brothers, this should not be!",
+   "lines": [
+    {
+     "text": "A person can speak both blessing and cursing from the same mouth.",
+     "indices": []
+    },
+    {
+     "text": "Brothers, it is not right that the same mouth should both bless and curse.",
+     "indices": []
+    },
+    {
+     "text": "This should not happen!",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "11"
+   ],
+   "scripture": "Can both fresh water and salt water flow from the same spring?",
+   "lines": [
+    {
+     "text": "As an analogy, a spring gives water.",
+     "indices": []
+    },
+    {
+     "text": "A spring cannot give both fresh water and salt water from the same opening.",
+     "indices": []
+    },
+    {
+     "text": "A spring gives only one kind of water.",
+     "indices": []
+    },
+    {
+     "text": "Fresh water and salt water do not come from the same spring.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "12"
+   ],
+   "scripture": "My brothers, can a fig tree grow olives, or a grapevine bear figs? Neither can a salt spring produce fresh water.",
+   "lines": [
+    {
+     "text": "As another analogy, a fig tree cannot grow olives.",
+     "indices": []
+    },
+    {
+     "text": "And likewise, a grapevine cannot bear figs.",
+     "indices": []
+    },
+    {
+     "text": "A salt spring cannot produce fresh water.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "13"
+   ],
+   "scripture": "Who is wise and understanding among you? Let him show it by his good conduct, by deeds done in the humility that comes from wisdom.",
+   "lines": [
+    {
+     "text": "Who is wise among you?",
+     "indices": []
+    },
+    {
+     "text": "Who is understanding among you?",
+     "indices": []
+    },
+    {
+     "text": "A wise person shows their wisdom by their good conduct.",
+     "indices": []
+    },
+    {
+     "text": "An understanding person shows their understanding by their good conduct.",
+     "indices": []
+    },
+    {
+     "text": "A wise person must act with humility.",
+     "indices": []
+    },
+    {
+     "text": "An understanding person must act with humility.",
+     "indices": []
+    },
+    {
+     "text": "This humility comes from true wisdom.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "14"
+   ],
+   "scripture": "But if you harbor bitter jealousy and selfish ambition in your hearts, do not boast in it or deny the truth.",
+   "lines": [
+    {
+     "text": "Do you have bitter jealousy in your heart?",
+     "indices": []
+    },
+    {
+     "text": "Then do not boast about it.",
+     "indices": []
+    },
+    {
+     "text": "Do you have selfish ambition in your heart?",
+     "indices": []
+    },
+    {
+     "text": "Then do not deny the truth.",
+     "indices": []
+    },
+    {
+     "text": "Do not be proud of jealousy.",
+     "indices": []
+    },
+    {
+     "text": "Do not boast in selfish ambition.",
+     "indices": []
+    },
+    {
+     "text": "Do not lie against the truth because of these things.",
+     "indices": []
+    },
+    {
+     "text": "Do not deny the truth.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "15"
+   ],
+   "scripture": "Such wisdom does not come from above, but is earthly, unspiritual, demonic.",
+   "lines": [
+    {
+     "text": "This wisdom does not come from God.",
+     "indices": []
+    },
+    {
+     "text": "The heavens are above the earth.",
+     "indices": []
+    },
+    {
+     "text": "This wisdom does not come from heaven above.",
+     "indices": []
+    },
+    {
+     "text": "This wisdom is earthly.",
+     "indices": []
+    },
+    {
+     "text": "This wisdom is unspiritual.",
+     "indices": []
+    },
+    {
+     "text": "This wisdom is demonic.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "16"
+   ],
+   "scripture": "For where jealousy and selfish ambition exist, there will be disorder and every evil practice.",
+   "lines": [
+    {
+     "text": "Jealousy is a strong feeling of wanting what belongs to others.",
+     "indices": []
+    },
+    {
+     "text": "Selfish ambition means seeking your own advantage above other people.",
+     "indices": []
+    },
+    {
+     "text": "Where people have jealousy and selfish ambition, trouble follows.",
+     "indices": []
+    },
+    {
+     "text": "Disorder will be present in that place.",
+     "indices": []
+    },
+    {
+     "text": "Every kind of evil practice will also be found there.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "17"
+   ],
+   "scripture": "But the wisdom from above is first of all pure, then peace-loving, gentle, accommodating, full of mercy and good fruit, impartial, and sincere.",
+   "lines": [
+    {
+     "text": "The wisdom from heaven above comes from God.",
+     "indices": []
+    },
+    {
+     "text": "This wisdom is pure.",
+     "indices": []
+    },
+    {
+     "text": "This wisdom loves peace.",
+     "indices": []
+    },
+    {
+     "text": "This wisdom is gentle.",
+     "indices": []
+    },
+    {
+     "text": "This wisdom is willing to yield.",
+     "indices": []
+    },
+    {
+     "text": "This wisdom is full of mercy.",
+     "indices": []
+    },
+    {
+     "text": "This wisdom produces good fruit.",
+     "indices": []
+    },
+    {
+     "text": "This wisdom does not show favoritism.",
+     "indices": []
+    },
+    {
+     "text": "This wisdom is sincere.",
+     "indices": []
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "18"
+   ],
+   "scripture": "Peacemakers who sow in peace reap the fruit of righteousness.",
+   "lines": [
+    {
+     "text": "Peacemakers act in peace.",
+     "indices": []
+    },
+    {
+     "text": "Peacemakers plant seeds in peace.",
+     "indices": []
+    },
+    {
+     "text": "These peacemakers harvest righteousness.",
+     "indices": []
+    },
+    {
+     "text": "Their actions produce the fruit of righteousness.",
+     "indices": []
+    }
+   ]
+  }
+ ]
+}
