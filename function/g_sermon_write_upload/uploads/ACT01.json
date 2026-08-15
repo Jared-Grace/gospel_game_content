@@ -368,12 +368,12 @@
   },
   {
    "verse_numbers": [
-    "8"
+    "9"
    ],
-   "scripture": "But you will receive power when the Holy Spirit comes upon you, and you will be My witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”",
+   "scripture": "After He had said this, they watched as He was taken up, and a cloud hid Him from their sight.",
    "lines": [
     {
-     "text": "Jesus told His apostles: “But you will receive power” — instead of promising power to the kingdom of Israel now, Jesus promised the apostles power in the kingdom of God.",
+     "text": "Jesus finished telling His apostles they would be His witnesses.",
      "indices": [
       0,
       1,
@@ -383,8 +383,76 @@
      ]
     },
     {
-     "text": "“You will receive power when the Holy Spirit comes upon you.”",
+     "text": "The apostles watched as Jesus was taken up.",
      "indices": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "God is the One who took Jesus up.",
+     "indices": [
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "Then a cloud hid Jesus from the apostles.",
+     "indices": [
+      12,
+      13,
+      14,
+      15,
+      16
+     ]
+    },
+    {
+     "text": "The apostles could no longer see Jesus.",
+     "indices": [
+      17,
+      18,
+      19
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "8"
+   ],
+   "scripture": "But you will receive power when the Holy Spirit comes upon you, and you will be My witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”",
+   "lines": [
+    {
+     "text": "Jesus told His apostles: “But you will receive power when the Holy Spirit comes upon you” — instead of promising power to the kingdom of Israel now, Jesus promised the apostles power in the kingdom of God.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "“But you will receive power when the Holy Spirit comes upon you” — the power Jesus promised was not from the apostles, but from the Holy Spirit.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
       5,
       6,
       7,
@@ -417,7 +485,7 @@
      ]
     },
     {
-     "text": "“You will be My witnesses in Jerusalem” — Jerusalem is where the apostles already were, so they began sharing the gospel where they were.",
+     "text": "“You will be My witnesses in Jerusalem” — Jerusalem is where the apostles already were, so they began testifying about Jesus where they were.",
      "indices": [
       18,
       19

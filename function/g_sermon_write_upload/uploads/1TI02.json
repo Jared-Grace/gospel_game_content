@@ -591,6 +591,59 @@
      ]
     }
    ]
+  },
+  {
+   "verse_numbers": [
+    "14"
+   ],
+   "scripture": "And it was not Adam who was deceived, but the woman who was deceived and fell into transgression.",
+   "lines": [
+    {
+     "text": "To deceive someone is to lead them to believe something that is not true.",
+     "indices": [
+      7
+     ]
+    },
+    {
+     "text": "Adam was not the one who was deceived.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "But the woman Eve was deceived.",
+     "indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "Transgression is breaking God's command.",
+     "indices": [
+      17
+     ]
+    },
+    {
+     "text": "The woman fell into transgression.",
+     "indices": [
+      14,
+      15,
+      16,
+      17
+     ]
+    }
+   ]
   }
  ]
 }

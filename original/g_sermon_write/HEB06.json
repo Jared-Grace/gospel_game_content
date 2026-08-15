@@ -622,7 +622,7 @@
      ]
     },
     {
-     "text": "Someone who swears calls on a greater person to back up the promise.",
+     "text": "Someone who swears calls on someone greater to back up the promise.",
      "indices": [
       12,
       13,
@@ -681,12 +681,55 @@
      ]
     },
     {
-     "text": "God also said to Abraham, “I will multiply your descendants” — descendants are a person's children, and all who come after them.",
+     "text": "God also said to Abraham, “I will multiply your descendants.”",
      "indices": [
       26,
       27,
       28,
       29
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "15"
+   ],
+   "scripture": "And so Abraham, after waiting patiently, obtained the promise.",
+   "lines": [
+    {
+     "text": "To wait patiently is to keep trusting God for a long time without giving up.",
+     "indices": [
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "God had sworn to keep His promise, and so Abraham waited patiently.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "To obtain a promise is to receive the thing that was promised.",
+     "indices": [
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "Abraham obtained the promise God had made to him.",
+     "indices": [
+      6,
+      7,
+      8
      ]
     }
    ]
