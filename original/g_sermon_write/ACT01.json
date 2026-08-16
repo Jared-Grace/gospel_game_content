@@ -368,62 +368,6 @@
   },
   {
    "verse_numbers": [
-    "9"
-   ],
-   "scripture": "After He had said this, they watched as He was taken up, and a cloud hid Him from their sight.",
-   "lines": [
-    {
-     "text": "Jesus finished telling His apostles they would be His witnesses.",
-     "indices": [
-      0,
-      1,
-      2,
-      3,
-      4
-     ]
-    },
-    {
-     "text": "The apostles watched as Jesus was taken up.",
-     "indices": [
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11
-     ]
-    },
-    {
-     "text": "God is the One who took Jesus up.",
-     "indices": [
-      9,
-      10,
-      11
-     ]
-    },
-    {
-     "text": "Then a cloud hid Jesus from the apostles.",
-     "indices": [
-      12,
-      13,
-      14,
-      15,
-      16
-     ]
-    },
-    {
-     "text": "The apostles could no longer see Jesus.",
-     "indices": [
-      17,
-      18,
-      19
-     ]
-    }
-   ]
-  },
-  {
-   "verse_numbers": [
     "8"
    ],
    "scripture": "But you will receive power when the Holy Spirit comes upon you, and you will be My witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”",
@@ -523,6 +467,66 @@
       30,
       31,
       32
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "9"
+   ],
+   "scripture": "After He had said this, they watched as He was taken up, and a cloud hid Him from their sight.",
+   "lines": [
+    {
+     "text": "Jesus finished telling His apostles they would be His witnesses.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "The apostles watched as Jesus was taken up into heaven.",
+     "indices": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "Jesus was taken up by the power of God.",
+     "indices": [
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "Then a cloud hid Jesus from the apostles.",
+     "indices": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "The apostles could no longer see Jesus.",
+     "indices": [
+      16,
+      17,
+      18,
+      19
      ]
     }
    ]
