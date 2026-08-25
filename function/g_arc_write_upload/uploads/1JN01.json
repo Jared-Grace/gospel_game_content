@@ -1,0 +1,545 @@
+{
+ "chapter_code": "1JN01",
+ "arcs": [
+  {
+   "index": 0,
+   "arc": {
+    "occupation": "she weaves cloth at home and sells what she can spare",
+    "trouble": "there is something wrong I did that I have never said out loud, and I keep smiling over the top of it",
+    "summary": "A young mother who runs a full house and hides one thing she cannot undo. She is answered first about her guilt, then about what God is like, and she stops pretending and believes. By the end she is telling her own children why she prays and answering a neighbour who says she has nothing to confess.",
+    "conversations": [
+     {
+      "catch_up": "",
+      "turns": [
+       {
+        "opener": "how are you",
+        "before": "There is something wrong I did. I have never told anybody. I cannot undo it.",
+        "reference": "1 John 1:9",
+        "after": "He would forgive even that? Nobody has ever said so to me.",
+        "believes": ""
+       },
+       {
+        "opener": "how are you",
+        "before": "To confess it I would have to bring it out into the open. Then everybody else could see it. I would rather keep it covered up.",
+        "reference": "1 John 1:7",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how are you",
+        "before": "Most of the time I tell myself I have no real sin. It was a small thing. Everyone has done worse.",
+        "reference": "1 John 1:8",
+        "after": "You are right. I have been telling myself a story I do not believe myself.",
+        "believes": ""
+       },
+       {
+        "opener": "how are you",
+        "before": "And if I say I have done nothing wrong at all, what then?",
+        "reference": "1 John 1:10",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "what do you believe",
+        "before": "Our gods are kept behind a curtain. Nobody is ever shown what they are. Nobody is ever shown what they give. Has your God ever been shown to anybody openly?",
+        "reference": "1 John 1:2",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "what do you believe",
+        "before": "The gods I was taught are mixed. Part of them is good. Part of them is cruel. You never know which part you have met that day. Is your God mixed like that too?",
+        "reference": "1 John 1:5",
+        "after": "Light, with no darkness at all. That is not a god I have met.",
+        "believes": ""
+       },
+       {
+        "opener": "what do you believe",
+        "before": "I used to say I was at peace with those gods. All the while I did whatever I wanted, even when it hurt somebody. Not one of those gods ever said a word against it.",
+        "reference": "1 John 1:6",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "what do you believe",
+        "before": "So what would being right with your God look like for somebody like me? I have gone my own way. Would I have to earn my way back to Him?",
+        "reference": "1 John 1:3",
+        "after": "Being in fellowship and right relationship with God, out of love. I thought I would have to earn His approval on my own.",
+        "believes": ""
+       },
+       {
+        "opener": "the gospel",
+        "before": "You say He died and rose. Were you there? Or is this something somebody told you?",
+        "reference": "1 John 1:1",
+        "after": "Seen and touched. That is a different kind of story from the ones I was raised on.",
+        "believes": ""
+       },
+       {
+        "opener": "the gospel",
+        "before": "If He really rose, what is it He is offering to people?",
+        "reference": "1 John 1:2",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "the gospel",
+        "before": "Why carry this to me? You gain nothing by it.",
+        "reference": "1 John 1:4",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "the gospel",
+        "before": "I need to think. If it is true, then the wrong I have hidden is not hidden from Him.",
+        "reference": "1 John 1:7",
+        "after": "Then I have thinking to do. It will not be easy thinking.",
+        "believes": ""
+       }
+      ]
+     },
+     {
+      "catch_up": "I am glad you came back. I have not been able to put down what you told me.",
+      "turns": [
+       {
+        "opener": "what do you believe",
+        "before": "I have stopped saying the old gods are enough. I have put nothing in their place. What is your God actually like?",
+        "reference": "1 John 1:5",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "what do you believe",
+        "before": "I keep wondering whether a God like that would want anything to do with somebody like me.",
+        "reference": "1 John 1:3",
+        "after": "To be brought in, not left standing outside. I did not think that was for me.",
+        "believes": ""
+       },
+       {
+        "opener": "what do you believe",
+        "before": "Part of me still says I have no real sin. It says my life is decent enough as it is.",
+        "reference": "1 John 1:8",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "what do you believe",
+        "before": "And then I look straight at what I have done. I have to call it sin. What do I do with it now?",
+        "reference": "1 John 1:9",
+        "after": "Faithful and just to forgive. I want that to be true.",
+        "believes": ""
+       },
+       {
+        "opener": "how are you",
+        "before": "I have been trying to make myself clean by living better. I went straight back to the same sin. Can I ever be clean?",
+        "reference": "1 John 1:7",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how are you",
+        "before": "I am worn out from pretending in front of my own household. I let them think I am a good person. All the while I am hiding what I do.",
+        "reference": "1 John 1:6",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how are you",
+        "before": "My husband asked what has changed in me. I did not know what to answer.",
+        "reference": "1 John 1:3",
+        "after": "Then I say what I have seen and heard. I can do that.",
+        "believes": ""
+       },
+       {
+        "opener": "how are you",
+        "before": "I am afraid there is dark in Him too. I am afraid He will turn on me, the way I was taught the gods do.",
+        "reference": "1 John 1:5",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "the gospel",
+        "before": "You said He died and rose. Does that reach as far as the sin I have hidden?",
+        "reference": "1 John 1:7",
+        "after": "All sin. Not the small ones only.",
+        "believes": ""
+       },
+       {
+        "opener": "the gospel",
+        "before": "If I confess it out loud to Him, is that enough? I have nothing else to bring Him.",
+        "reference": "1 John 1:9",
+        "after": "Just to say it, and He is faithful to do the rest.",
+        "believes": ""
+       },
+       {
+        "opener": "the gospel",
+        "before": "Then I am done pretending. I have sinned. I will not stand in front of Him and say I have not.",
+        "reference": "1 John 1:10",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "the gospel",
+        "before": "I believe Him. What do I have now, with you and with Him?",
+        "reference": "1 John 1:3",
+        "after": "Then I am not outside any more. Thank you for coming back.",
+        "believes": "yes"
+       }
+      ]
+     },
+     {
+      "catch_up": "It is good to see you. The children have started asking me why I pray. I have been telling them.",
+      "turns": [
+       {
+        "opener": "how are you",
+        "before": "I am well. But at the door I still let people think I am walking with God. Some of those days I have been hiding something.",
+        "reference": "1 John 1:6",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how are you",
+        "before": "Then I remember. I do not have to carry it quietly any more. There is a joy in me I cannot account for.",
+        "reference": "1 John 1:4",
+        "after": "Complete joy. That is the word for it.",
+        "believes": ""
+       },
+       {
+        "opener": "how are you",
+        "before": "A woman I sell cloth to laughed at me. She asked what I have to be so glad about. I want to tell her what I have been given.",
+        "reference": "1 John 1:2",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how are you",
+        "before": "She says nobody can know such things for certain.",
+        "reference": "1 John 1:1",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how is your walk with God",
+        "before": "Some days I catch myself thinking I have no sin left in me at all.",
+        "reference": "1 John 1:8",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how is your walk with God",
+        "before": "And when I think that, I am calling Him a liar about what I am.",
+        "reference": "1 John 1:10",
+        "after": "I would rather agree with Him than win that argument.",
+        "believes": ""
+       },
+       {
+        "opener": "how is your walk with God",
+        "before": "What steadies me is this. He let Himself be seen and heard. He did not leave me guessing.",
+        "reference": "1 John 1:1",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how is your walk with God",
+        "before": "I want to know the life He is offering. Not only to know things about Him.",
+        "reference": "1 John 1:2",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how is ministering to your neighbour going",
+        "before": "The woman next door tells me she has nothing to confess. She says she has no need of any of this.",
+        "reference": "1 John 1:8",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how is ministering to your neighbour going",
+        "before": "She said it plainly. She has never sinned in her life.",
+        "reference": "1 John 1:10",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how is ministering to your neighbour going",
+        "before": "She asked me why I keep coming back to her at all.",
+        "reference": "1 John 1:4",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how is ministering to your neighbour going",
+        "before": "Another woman says she is right with God. But the way she lives says otherwise. I did not know what to tell her.",
+        "reference": "1 John 1:6",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how is ministering to your neighbour going",
+        "before": "I want her to have what I have. To be brought into fellowship with the Father and His Son. Not to earn her way to Him.",
+        "reference": "1 John 1:3",
+        "after": "Then that is what I will keep telling her.",
+        "believes": ""
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "index": 1,
+   "arc": {
+    "occupation": "I dye wool for the weavers who buy from me.",
+    "trouble": "I have done everything my mother taught me for the little gods at home, for twenty years, and not one of them has ever said a word back.",
+    "summary": "A middle-aged dyer who has practised her household religion faithfully all her life and heard nothing back from it, and who is certain she has nothing owing. She is answered first about the silence, then about her claim to be clear, and she stops paying and believes. Later she slips back into measuring herself and coming off well, is answered again, and ends by telling a customer what she was given.",
+    "conversations": [
+     {
+      "catch_up": "",
+      "turns": [
+       {
+        "opener": "how are you",
+        "before": "I am tired. I have set out food for the little gods at home since I was a girl, and I have never once heard anything back.",
+        "reference": "1 John 1:5",
+        "after": "Heard from Him. You are saying somebody actually heard something.",
+        "believes": ""
+       },
+       {
+        "opener": "how are you",
+        "before": "Hearing a message is not the same as seeing anyone. Words can be passed along by anybody.",
+        "reference": "1 John 1:1",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how are you",
+        "before": "Touched with your hands? Then what you touched was a man, and a man dies like the rest of us.",
+        "reference": "1 John 1:2",
+        "after": "Eternal life, and you say you saw it. I have never had anything like that to hold on to.",
+        "believes": ""
+       },
+       {
+        "opener": "what do you believe",
+        "before": "I believe I owe nothing. I have paid the gods since I was a girl, and there is no wrong of mine left over.",
+        "reference": "1 John 1:8",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "what do you believe",
+        "before": "I would say the same thing again. I have not sinned.",
+        "reference": "1 John 1:10",
+        "after": "You are saying I am calling Him a liar. I did not expect the charge to run that way.",
+        "believes": ""
+       },
+       {
+        "opener": "what do you believe",
+        "before": "If that is true, then what do I do with what is actually mine? I would not know where to begin putting it right.",
+        "reference": "1 John 1:9",
+        "after": "Confess. Not pay. That is not how I was taught any of this works.",
+        "believes": ""
+       },
+       {
+        "opener": "the gospel",
+        "before": "You say He died and rose. Why would a death of His do anything about wrong that is mine?",
+        "reference": "1 John 1:7",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "the gospel",
+        "before": "But I have been in the dark about Him my whole life, and I do not know what He is even like.",
+        "reference": "1 John 1:5",
+        "after": "No darkness at all. Every god I was given had a side you did not cross.",
+        "believes": ""
+       },
+       {
+        "opener": "the gospel",
+        "before": "How do you know any of this? You were not there when it happened.",
+        "reference": "1 John 1:1",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "the gospel",
+        "before": "Then I believe Him. I am done paying, and I want to be counted with you and with Him.",
+        "reference": "1 John 1:3",
+        "after": "",
+        "believes": "yes"
+       },
+       {
+        "opener": "how is your walk with God",
+        "before": "I keep waiting for the old weight to come back on me, and it has not. I am not sure what to do with how glad I am.",
+        "reference": "1 John 1:4",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how is your walk with God",
+        "before": "My hands still want the old gods. I catch myself reaching for them without thinking, and I do not want to be in both at once.",
+        "reference": "1 John 1:6",
+        "after": "Not both. I would rather be told that plainly than find it out later.",
+        "believes": ""
+       }
+      ]
+     },
+     {
+      "catch_up": "I told my husband what I had done with the little gods at home. He has not said a word to me about it since, and he has not stopped me either.",
+      "turns": [
+       {
+        "opener": "how are you",
+        "before": "I want my husband to have what I have, and I do not know how to hand it to him.",
+        "reference": "1 John 1:3",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how are you",
+        "before": "But I did not see any of it myself. All I have is what you told me.",
+        "reference": "1 John 1:5",
+        "after": "So I say the message, not my own eyes. I can do that.",
+        "believes": ""
+       },
+       {
+        "opener": "how are you",
+        "before": "My daughters watch me all day. I would rather they saw the truth in me than heard me claim something my life does not match.",
+        "reference": "1 John 1:6",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how are you",
+        "before": "One of my sons asked what is different now, and all I could tell him was that I have stopped paying.",
+        "reference": "1 John 1:7",
+        "after": "That is what is different. Something was paid, and it was not by me.",
+        "believes": ""
+       },
+       {
+        "opener": "how is your walk with God",
+        "before": "I am glad, and I keep expecting the gladness to be taken off me for being too much.",
+        "reference": "1 John 1:4",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how is your walk with God",
+        "before": "There is a thing I did years ago that I have never said out loud to anyone, and I have not said it to Him either.",
+        "reference": "1 John 1:9",
+        "after": "Faithful and just. I was afraid He would be neither, once He knew.",
+        "believes": ""
+       },
+       {
+        "opener": "how is your walk with God",
+        "before": "I have said it to Him. Now I want to know what He is actually like, since I only ever knew what He was owed.",
+        "reference": "1 John 1:5",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how is your walk with God",
+        "before": "I still wish I had seen Him. I would give a great deal to know this is not a story that grew in the telling.",
+        "reference": "1 John 1:1",
+        "after": "Touched. You keep saying it and I keep needing to hear it.",
+        "believes": ""
+       },
+       {
+        "opener": "how is ministering to your neighbour going",
+        "before": "The woman who buys my wool keeps her gods the way I kept mine, and she tells me she has nothing to feel bad about.",
+        "reference": "1 John 1:8",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how is ministering to your neighbour going",
+        "before": "I told her that, and she said she has never done a single wrong thing in her life.",
+        "reference": "1 John 1:10",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how is ministering to your neighbour going",
+        "before": "She asked me why she should want your God at all, and I could not say what she would get.",
+        "reference": "1 John 1:2",
+        "after": "Eternal life. I should have started there, since that is what I was given.",
+        "believes": ""
+       }
+      ]
+     },
+     {
+      "catch_up": "The woman who buys my wool has started asking me questions instead of arguing, and I did nothing to make that happen.",
+      "turns": [
+       {
+        "opener": "how are you",
+        "before": "I have started measuring myself against what I used to be, and coming off well. I can hear how that sounds.",
+        "reference": "1 John 1:8",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how are you",
+        "before": "I caught myself telling my daughter that I have nothing left to bring Him.",
+        "reference": "1 John 1:10",
+        "after": "I said it about myself and it landed on Him. I did not see that until now.",
+        "believes": ""
+       },
+       {
+        "opener": "how are you",
+        "before": "Then I have things to bring Him again, and I am ashamed of how many.",
+        "reference": "1 John 1:9",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how is your walk with God",
+        "before": "I brought them, and I am lighter than I have been in years. I did not know that was allowed to keep happening.",
+        "reference": "1 John 1:4",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how is your walk with God",
+        "before": "There is one habit I have kept back from Him on purpose, and I have been keeping it quiet.",
+        "reference": "1 John 1:6",
+        "after": "Quiet is the darkness part. I have been telling myself it was only a small thing.",
+        "believes": ""
+       },
+       {
+        "opener": "how is your walk with God",
+        "before": "I have let it go, and I want to be in the open with Him and with my own house.",
+        "reference": "1 John 1:7",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how is ministering to your neighbour going",
+        "before": "The woman who buys my wool asked me straight out whether anybody actually saw Him.",
+        "reference": "1 John 1:1",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how is ministering to your neighbour going",
+        "before": "She wanted to know what she would be getting if she did believe.",
+        "reference": "1 John 1:2",
+        "after": "This time I had it ready.",
+        "believes": ""
+       },
+       {
+        "opener": "how is ministering to your neighbour going",
+        "before": "She told me the whole of what she has been carrying, and then asked me whether it could be dealt with.",
+        "reference": "1 John 1:9",
+        "after": "",
+        "believes": ""
+       },
+       {
+        "opener": "how is ministering to your neighbour going",
+        "before": "She believed. My own gladness has doubled and I do not have words for it.",
+        "reference": "1 John 1:4",
+        "after": "Complete. That is the word I was reaching for.",
+        "believes": ""
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}
