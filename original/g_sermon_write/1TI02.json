@@ -634,6 +634,69 @@
      ]
     }
    ]
+  },
+  {
+   "verse_numbers": [
+    "15"
+   ],
+   "scripture": "Women, however, will be saved through childbearing, if they continue in faith, love, and holiness, with self-control.",
+   "lines": [
+    {
+     "text": "Women are to continue in faith.",
+     "indices": [
+      0,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "Women are to continue in love.",
+     "indices": [
+      0,
+      7,
+      8,
+      9,
+      10,
+      12
+     ]
+    },
+    {
+     "text": "Women are to continue in holiness — a life not stained by sin.",
+     "indices": [
+      0,
+      7,
+      8,
+      9,
+      10,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "Women are to continue in faith, love, and holiness with self-control.",
+     "indices": [
+      9,
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "text": "Then God will save these women through childbearing, even though it was the woman who was deceived by the snake and fell into transgression.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    }
+   ]
   }
  ]
 }

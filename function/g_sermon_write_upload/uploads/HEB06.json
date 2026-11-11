@@ -874,6 +874,230 @@
      ]
     }
    ]
+  },
+  {
+   "verse_numbers": [
+    "18"
+   ],
+   "scripture": "Thus by two unchangeable things in which it is impossible for God to lie, we who have fled to take hold of the hope set before us may be strongly encouraged.",
+   "lines": [
+    {
+     "text": "God has set a hope before us.",
+     "indices": [
+      22,
+      23,
+      24,
+      25,
+      26
+     ]
+    },
+    {
+     "text": "We have fled to take hold of that hope.",
+     "indices": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      23
+     ]
+    },
+    {
+     "text": "It is impossible for God to lie.",
+     "indices": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "It is impossible for God to lie in His promise.",
+     "indices": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "It is impossible for God to lie in His oath.",
+     "indices": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "God's promise is unchangeable.",
+     "indices": [
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "God's oath is unchangeable.",
+     "indices": [
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "God's promise and God's oath are the two unchangeable things.",
+     "indices": [
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "By these two unchangeable things, God wants us to be strongly encouraged.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      14,
+      27,
+      28,
+      29,
+      30
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "19",
+    "20"
+   ],
+   "scripture": "We have this hope as an anchor for the soul, firm and secure. It enters the inner sanctuary behind the curtain, where Jesus our forerunner has entered on our behalf. He has become a high priest forever in the order of Melchizedek.",
+   "lines": [
+    {
+     "text": "We have this hope as an anchor for the soul.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "An anchor holds a ship steady, so the waves cannot carry it away.",
+     "indices": [
+      6
+     ]
+    },
+    {
+     "text": "Our hope is firm and secure.",
+     "indices": [
+      2,
+      3,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Our hope enters the inner sanctuary behind the curtain.",
+     "indices": [
+      3,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+     ]
+    },
+    {
+     "text": "The inner sanctuary behind the curtain was the holiest room, where God met His people — only the high priest could go in, once a year.",
+     "indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+     ]
+    },
+    {
+     "text": "Jesus has entered the inner sanctuary on our behalf.",
+     "indices": [
+      21,
+      22,
+      25,
+      26,
+      27,
+      28,
+      29
+     ]
+    },
+    {
+     "text": "Jesus is our forerunner — He went in first, so that we can follow.",
+     "indices": [
+      22,
+      23,
+      24
+     ]
+    },
+    {
+     "text": "Jesus has become a high priest forever.",
+     "indices": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+     ]
+    },
+    {
+     "text": "Jesus is a high priest in the order of Melchizedek.",
+     "indices": [
+      22,
+      33,
+      34,
+      35,
+      37,
+      38,
+      39,
+      40,
+      41
+     ]
+    }
+   ]
   }
  ]
 }

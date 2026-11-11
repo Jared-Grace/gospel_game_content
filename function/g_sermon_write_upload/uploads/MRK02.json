@@ -116,7 +116,33 @@
    "scripture": "Since they were unable to get to Jesus through the crowd, they uncovered the roof above Him, made an opening, and lowered the paralytic on his mat.",
    "lines": [
     {
-     "text": "A crowd was in the way, so the four men could not bring the paralyzed man to Jesus.",
+     "text": "There was a paralyzed man.",
+     "indices": [
+      22,
+      23
+     ]
+    },
+    {
+     "text": "The paralyzed man was lying on a mat.",
+     "indices": [
+      22,
+      23,
+      24,
+      25,
+      26
+     ]
+    },
+    {
+     "text": "A crowd was around Jesus.",
+     "indices": [
+      7,
+      8,
+      9,
+      10
+     ]
+    },
+    {
+     "text": "So the four men could not bring the paralyzed man to Jesus.",
      "indices": [
       0,
       1,
@@ -125,14 +151,11 @@
       4,
       5,
       6,
-      7,
-      8,
-      9,
-      10
+      7
      ]
     },
     {
-     "text": "The four men uncovered the roof above Jesus.",
+     "text": "So the four men uncovered the roof above Jesus.",
      "indices": [
       11,
       12,
@@ -143,7 +166,7 @@
      ]
     },
     {
-     "text": "The four men made an opening through the roof.",
+     "text": "And the four men made an opening through the roof.",
      "indices": [
       17,
       18,
@@ -151,7 +174,7 @@
      ]
     },
     {
-     "text": "The four men lowered the mat down through the opening.",
+     "text": "And then the four men lowered the mat down through the opening.",
      "indices": [
       19,
       20,
@@ -159,15 +182,200 @@
       22,
       26
      ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "5"
+   ],
+   "scripture": "When Jesus saw their faith, He said to the paralytic, “Son, your sins are forgiven.”",
+   "lines": [
+    {
+     "text": "Jesus saw the faith of the four men — they were so convinced Jesus would heal the paralyzed man that they were willing to overcome obstacles to get him into Jesus’ presence.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
     },
     {
-     "text": "The paralyzed man was lying on the mat.",
+     "text": "Jesus is called the “Everlasting Father” — He cares for His people like a father, so He calls the paralyzed man “son”.",
      "indices": [
-      22,
+      10
+     ]
+    },
+    {
+     "text": "The paralyzed man was not an earthly son of Jesus.",
+     "indices": [
+      10
+     ]
+    },
+    {
+     "text": "Jesus said to the paralyzed man, “Son, your sins are forgiven.”",
+     "indices": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "God forgave the paralyzed man’s sins — by the time Jesus finished speaking, every sin of his was forgiven.",
+     "indices": [
+      11,
+      12,
+      13,
+      14
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "6",
+    "7"
+   ],
+   "scripture": "But some of the scribes were sitting there and thinking in their hearts, “Why does this man speak like this? He is blaspheming! Who can forgive sins but God alone?”",
+   "lines": [
+    {
+     "text": "Some of the scribes were sitting there.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "The scribes were thinking in their hearts — silently, to themselves.",
+     "indices": [
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "The scribes thought, “Why does this man — Jesus — speak like this?”",
+     "indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+     ]
+    },
+    {
+     "text": "The scribes thought, “Jesus is blaspheming!”",
+     "indices": [
+      20,
+      21,
+      22
+     ]
+    },
+    {
+     "text": "To blaspheme is to insult God — for example, by claiming to do what only God can do.",
+     "indices": [
+      22
+     ]
+    },
+    {
+     "text": "The scribes thought, “Who can forgive sins but God alone?”",
+     "indices": [
       23,
       24,
       25,
-      26
+      26,
+      27,
+      28,
+      29
+     ]
+    },
+    {
+     "text": "The scribes were right about this: only God can forgive sins — but they did not realize that Jesus Christ is God over all.",
+     "indices": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "8"
+   ],
+   "scripture": "At once Jesus knew in His spirit that they were thinking this way within themselves. “Why are you thinking these things in your hearts?” He asked.",
+   "lines": [
+    {
+     "text": "At once Jesus knew what the scribes were thinking within themselves.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "Jesus knew it in His spirit — no one told Him, and the scribes had not said a word.",
+     "indices": [
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "text": "Jesus asked the scribes, “Why are you thinking these things in your hearts?”",
+     "indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+     ]
+    },
+    {
+     "text": "Only God can see what is hidden in people’s hearts — and Jesus saw it.",
+     "indices": [
+      3,
+      21,
+      22,
+      23
      ]
     }
    ]
