@@ -370,12 +370,74 @@
      ]
     },
     {
-     "text": "Only God can see what is hidden in people’s hearts — and Jesus saw it.",
+     "text": "God alone knows the hearts of all people — and Jesus knew what was in every person’s heart, including the scribes’ hearts.",
      "indices": [
       3,
       21,
       22,
       23
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "9"
+   ],
+   "scripture": "“Which is easier: to say to a paralytic, ‘Your sins are forgiven,’ or to say, ‘Get up, pick up your mat, and walk’?",
+   "lines": [
+    {
+     "text": "Jesus asked the scribes, “Which is easier: to say to a paralyzed man, ‘Your sins are forgiven,’ or to say, ‘Get up, pick up your mat, and walk’?”",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+     ]
+    },
+    {
+     "text": "Anyone can say, “Your sins are forgiven” — no one can see whether a person’s sins are forgiven.",
+     "indices": [
+      3,
+      4,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "But if someone says, “Get up, pick up your mat, and walk,” everyone can see whether the paralyzed man walks.",
+     "indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
      ]
     }
    ]

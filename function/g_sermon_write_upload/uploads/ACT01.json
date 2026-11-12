@@ -928,7 +928,7 @@
      ]
     },
     {
-     "text": "The Holy Spirit foretold this Scripture through the mouth of David — David spoke the words, and the Holy Spirit was speaking through David.",
+     "text": "Peter said, “The Holy Spirit foretold this Scripture through the mouth of David.”",
      "indices": [
       26,
       27,
@@ -943,13 +943,26 @@
      ]
     },
     {
+     "text": "David spoke the words, and the Holy Spirit was speaking through David.",
+     "indices": [
+      27,
+      28,
+      29,
+      31,
+      32,
+      33,
+      34,
+      35
+     ]
+    },
+    {
      "text": "To foretell is to say something before it happens.",
      "indices": [
       30
      ]
     },
     {
-     "text": "This Scripture was about Judas Iscariot, who became a guide for those who arrested Jesus.",
+     "text": "Peter said, “This Scripture was about Judas Iscariot, who became a guide for those who arrested Jesus.”",
      "indices": [
       36,
       37,
@@ -965,7 +978,7 @@
      ]
     },
     {
-     "text": "Judas Iscariot showed the men who came to arrest Jesus where Jesus was.",
+     "text": "Judas Iscariot led the men who came to arrest Jesus to where Jesus was.",
      "indices": [
       38,
       39,
@@ -976,6 +989,117 @@
       44,
       45,
       46
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "17"
+   ],
+   "scripture": "He was one of our number and shared in this ministry.”",
+   "lines": [
+    {
+     "text": "Judas Iscariot was counted as one of the twelve apostles — Jesus had chosen Judas Iscariot to be one of the twelve.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "Peter said, “Judas Iscariot was one of our number.”",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "Judas Iscariot was given a share in this ministry.",
+     "indices": [
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    },
+    {
+     "text": "This ministry was the work of serving as an apostle of Jesus.",
+     "indices": [
+      9,
+      10
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "18"
+   ],
+   "scripture": "(Now with the reward for his wickedness Judas bought a field; there he fell headlong and burst open in the middle, and all his intestines spilled out.",
+   "lines": [
+    {
+     "text": "Judas Iscariot bought a field with the reward for his wickedness.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    },
+    {
+     "text": "The reward for the wickedness of Judas Iscariot was the money Judas Iscariot was paid for betraying Jesus.",
+     "indices": [
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "text": "Judas Iscariot fell headlong — head first.",
+     "indices": [
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "The body of Judas Iscariot burst open in the middle.",
+     "indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+     ]
+    },
+    {
+     "text": "All the intestines of Judas Iscariot spilled out.",
+     "indices": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
      ]
     }
    ]
