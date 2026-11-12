@@ -195,7 +195,7 @@
    "scripture": "So also Christ did not take upon Himself the glory of becoming a high priest, but He was called by the One who said to Him: “You are My Son; today I have become Your Father.”",
    "lines": [
     {
-     "text": "God is the One who said to Jesus:",
+     "text": "God said to Jesus, “You are My Son.”",
      "indices": [
       15,
       16,
@@ -207,12 +207,7 @@
       22,
       23,
       24,
-      25
-     ]
-    },
-    {
-     "text": "\"You are My Son.\"",
-     "indices": [
+      25,
       26,
       27,
       28,
@@ -220,7 +215,7 @@
      ]
     },
     {
-     "text": "\"Today I have become Your Father.\"",
+     "text": "God said to Jesus, “Today I have become Your Father.”",
      "indices": [
       30,
       31,
@@ -270,26 +265,21 @@
      ]
     },
     {
-     "text": "His priesthood is far older than Aaron's — it existed long before Israel had any priests.",
+     "text": "His priesthood is far older than Aaron’s — it existed long before Israel had any priests.",
      "indices": [
       9,
       15
      ]
     },
     {
-     "text": "In another part of Scripture, God says to Christ:",
+     "text": "In another part of Scripture, God says to Christ, “You are a priest forever, in the order of Melchizedek.”",
      "indices": [
       0,
       1,
       2,
       3,
       4,
-      5
-     ]
-    },
-    {
-     "text": "\"You are a priest forever, in the order of Melchizedek.\"",
-     "indices": [
+      5,
       6,
       7,
       8,

@@ -497,7 +497,7 @@
      ]
     },
     {
-     "text": "Instead, Michael said to the devil, \"The Lord rebuke you!\"",
+     "text": "Instead, Michael said to the devil, “The Lord rebuke you!”",
      "indices": [
       26,
       27,
@@ -879,44 +879,6 @@
   },
   {
    "verse_numbers": [
-    "19"
-   ],
-   "scripture": "These are the ones who cause divisions, who are worldly and devoid of the Spirit.",
-   "lines": [
-    {
-     "text": "These men cause divisions, splitting believers apart.",
-     "indices": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6
-     ]
-    },
-    {
-     "text": "They are worldly — they live by their natural desires.",
-     "indices": [
-      7,
-      8,
-      9
-     ]
-    },
-    {
-     "text": "And they do not have the Holy Spirit.",
-     "indices": [
-      10,
-      11,
-      12,
-      13,
-      14
-     ]
-    }
-   ]
-  },
-  {
-   "verse_numbers": [
     "17",
     "18"
    ],
@@ -981,6 +943,44 @@
       33,
       34,
       35
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "19"
+   ],
+   "scripture": "These are the ones who cause divisions, who are worldly and devoid of the Spirit.",
+   "lines": [
+    {
+     "text": "These men cause divisions, splitting believers apart.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "text": "They are worldly — they live by their natural desires.",
+     "indices": [
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "And they do not have the Holy Spirit.",
+     "indices": [
+      10,
+      11,
+      12,
+      13,
+      14
      ]
     }
    ]

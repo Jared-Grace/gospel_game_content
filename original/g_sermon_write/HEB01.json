@@ -113,48 +113,6 @@
   },
   {
    "verse_numbers": [
-    "4"
-   ],
-   "scripture": "So He became as far superior to the angels as the name He has inherited is excellent beyond theirs.",
-   "lines": [
-    {
-     "text": "Jesus, the Son of God, became far greater than the angels.",
-     "indices": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8
-     ]
-    },
-    {
-     "text": "The Son has inherited a name.",
-     "indices": [
-      10,
-      11,
-      12,
-      13,
-      14
-     ]
-    },
-    {
-     "text": "The Son's name is more excellent than the angels' names.",
-     "indices": [
-      9,
-      15,
-      16,
-      17,
-      18
-     ]
-    }
-   ]
-  },
-  {
-   "verse_numbers": [
     "3"
    ],
    "scripture": "The Son is the radiance of God’s glory and the exact representation of His nature, upholding all things by His powerful word. After He had provided purification for sins, He sat down at the right hand of the Majesty on high.",
@@ -229,12 +187,54 @@
   },
   {
    "verse_numbers": [
+    "4"
+   ],
+   "scripture": "So He became as far superior to the angels as the name He has inherited is excellent beyond theirs.",
+   "lines": [
+    {
+     "text": "Jesus, the Son of God, became far greater than the angels.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "The Son has inherited a name.",
+     "indices": [
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "The Son's name is more excellent than the angels' names.",
+     "indices": [
+      9,
+      15,
+      16,
+      17,
+      18
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
     "5"
    ],
    "scripture": "For to which of the angels did God ever say: “You are My Son; today I have become Your Father”? Or again: “I will be His Father, and He will be My Son”?",
    "lines": [
     {
-     "text": "God said to Jesus, \"You are my Son.\"",
+     "text": "God said to Jesus, “You are My Son.”",
      "indices": [
       10,
       11,
@@ -243,7 +243,7 @@
      ]
     },
     {
-     "text": "God said to Jesus, \"Today I have become Your Father.\"",
+     "text": "God said to Jesus, “Today I have become Your Father.”",
      "indices": [
       14,
       15,
@@ -254,7 +254,7 @@
      ]
     },
     {
-     "text": "God said again about Jesus, \"I will be His Father.\"",
+     "text": "God said again about Jesus, “I will be His Father.”",
      "indices": [
       20,
       21,
@@ -266,7 +266,7 @@
      ]
     },
     {
-     "text": "God also said about Jesus, \"He will be My Son.\"",
+     "text": "God also said about Jesus, “He will be My Son.”",
      "indices": [
       27,
       28,
@@ -313,7 +313,7 @@
      ]
     },
     {
-     "text": "God says again about Jesus, \"Let all God's angels worship Him.\"",
+     "text": "God says again about Jesus, “Let all God’s angels worship Him.”",
      "indices": [
       0,
       1,
@@ -386,7 +386,7 @@
      ]
     },
     {
-     "text": "God says to Jesus, \"Your throne, O God, lasts forever and ever.\"",
+     "text": "God says to Jesus, “Your throne, O God, lasts forever and ever.”",
      "indices": [
       6,
       7,
@@ -399,7 +399,7 @@
      ]
     },
     {
-     "text": "God says to Jesus, \"Justice is the scepter of Your kingdom.\"",
+     "text": "God says to Jesus, “Justice is the scepter of Your kingdom.”",
      "indices": [
       14,
       15,
@@ -427,7 +427,7 @@
      ]
     },
     {
-     "text": "God says to Jesus, \"You have loved righteousness.\"",
+     "text": "God says to Jesus, “You have loved righteousness.”",
      "indices": [
       0,
       1,
@@ -436,7 +436,7 @@
      ]
     },
     {
-     "text": "God says to Jesus, \"You have hated wickedness.\"",
+     "text": "God says to Jesus, “You have hated wickedness.”",
      "indices": [
       4,
       5,
@@ -480,7 +480,7 @@
    "scripture": "And: “In the beginning, O Lord, You laid the foundations of the earth, and the heavens are the work of Your hands.",
    "lines": [
     {
-     "text": "God also says to Jesus, \"You are Lord.\"",
+     "text": "God also says to Jesus, “You are Lord.”",
      "indices": [
       0,
       4,
@@ -503,7 +503,7 @@
      ]
     },
     {
-     "text": "God says the heavens are the work of Jesus' hands.",
+     "text": "God says the heavens are the work of Jesus’ hands.",
      "indices": [
       13,
       14,
@@ -533,7 +533,7 @@
      ]
     },
     {
-     "text": "God says to Jesus, \"But You will remain.\"",
+     "text": "God says to Jesus, “But You will remain.”",
      "indices": [
       3,
       4,
@@ -562,7 +562,7 @@
    "scripture": "You will roll them up like a robe; like a garment they will be changed; but You remain the same, and Your years will never end.”",
    "lines": [
     {
-     "text": "God says to Jesus, \"You will roll up creation like a robe.\"",
+     "text": "God says to Jesus, “You will roll up creation like a robe.”",
      "indices": [
       0,
       1,
@@ -587,7 +587,7 @@
      ]
     },
     {
-     "text": "God says to Jesus, \"But You remain the same.\"",
+     "text": "God says to Jesus, “But You remain the same.”",
      "indices": [
       15,
       16,
@@ -597,7 +597,7 @@
      ]
     },
     {
-     "text": "God says to Jesus, \"Your years will never end.\"",
+     "text": "God says to Jesus, “Your years will never end.”",
      "indices": [
       20,
       21,
@@ -616,7 +616,7 @@
    "scripture": "Yet to which of the angels did God ever say: “Sit at My right hand until I make Your enemies a footstool for Your feet”?",
    "lines": [
     {
-     "text": "God says to Jesus, \"Sit at My right hand.\"",
+     "text": "God says to Jesus, “Sit at My right hand.”",
      "indices": [
       10,
       11,
@@ -626,7 +626,7 @@
      ]
     },
     {
-     "text": "God says to Jesus, \"I will make Your enemies a footstool for Your feet.\"",
+     "text": "God says to Jesus, “I will make Your enemies a footstool for Your feet.”",
      "indices": [
       15,
       16,

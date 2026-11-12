@@ -114,7 +114,7 @@
    "scripture": "Now we who have believed enter that rest. As for the others, it is just as God has said: “So I swore on oath in My anger, ‘They shall never enter My rest.’ ” And yet His works have been finished since the foundation of the world.",
    "lines": [
     {
-     "text": "Now we who have believed enter God's rest.",
+     "text": "Now we who have believed enter God’s rest.",
      "indices": [
       0,
       1,
@@ -127,7 +127,7 @@
      ]
     },
     {
-     "text": "As for the others, God has said:",
+     "text": "God said about the others, “So in My anger I swore that they would never enter My rest.”",
      "indices": [
       8,
       9,
@@ -139,12 +139,7 @@
       15,
       16,
       17,
-      18
-     ]
-    },
-    {
-     "text": "\"So in My anger I swore that they would never enter My rest.\"",
-     "indices": [
+      18,
       19,
       20,
       21,
@@ -163,7 +158,7 @@
      ]
     },
     {
-     "text": "And yet God's works have been finished since the foundation of the world.",
+     "text": "And yet God’s works have been finished since the foundation of the world.",
      "indices": [
       34,
       35,
@@ -189,7 +184,7 @@
    "scripture": "For somewhere He has spoken about the seventh day in this manner: “And on the seventh day God rested from all His works.”",
    "lines": [
     {
-     "text": "For God has spoken this somewhere about the seventh day:",
+     "text": "“And on the seventh day God rested from all His works” — God has said this somewhere in Scripture about the seventh day.",
      "indices": [
       0,
       1,
@@ -202,12 +197,7 @@
       8,
       9,
       10,
-      11
-     ]
-    },
-    {
-     "text": "\"And on the seventh day God rested from all His works.\"",
-     "indices": [
+      11,
       12,
       13,
       14,
@@ -230,7 +220,7 @@
    "scripture": "And again, as He says in the passage above: “They shall never enter My rest.”",
    "lines": [
     {
-     "text": "And again God says in the passage above:",
+     "text": "Again, in the passage above, God says, “They shall never enter My rest.”",
      "indices": [
       0,
       1,
@@ -240,12 +230,7 @@
       5,
       6,
       7,
-      8
-     ]
-    },
-    {
-     "text": "\"They shall never enter My rest.\"",
-     "indices": [
+      8,
       9,
       10,
       11,
@@ -264,7 +249,7 @@
    "scripture": "Since, then, it remains for some to enter His rest, and since those who formerly heard the good news did not enter because of their disobedience, God again designated a certain day as “Today,” when a long time later He spoke through David as was just stated: “Today, if you hear His voice, do not harden your hearts.”",
    "lines": [
     {
-     "text": "So God's rest still remains for some to enter.",
+     "text": "So God’s rest still remains for some to enter.",
      "indices": [
       0,
       1,
@@ -318,7 +303,7 @@
      ]
     },
     {
-     "text": "Long afterward, God spoke through David, as already quoted:",
+     "text": "“Today, if you hear His voice, do not harden your hearts” — long afterward, God spoke this through David, as already quoted.",
      "indices": [
       34,
       35,
@@ -332,12 +317,7 @@
       43,
       44,
       45,
-      46
-     ]
-    },
-    {
-     "text": "“Today, if you hear His voice, do not harden your hearts.”",
-     "indices": [
+      46,
       47,
       48,
       49,

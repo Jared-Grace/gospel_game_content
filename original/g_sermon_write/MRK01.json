@@ -45,7 +45,7 @@
    "scripture": "As it is written in Isaiah the prophet: “Behold, I will send My messenger ahead of You, who will prepare Your way.”",
    "lines": [
     {
-     "text": "This is what Isaiah the prophet wrote:",
+     "text": "Isaiah the prophet wrote, “Look, I will send My messenger ahead of You.”",
      "indices": [
       0,
       1,
@@ -54,12 +54,7 @@
       4,
       5,
       6,
-      7
-     ]
-    },
-    {
-     "text": "“Look, I will send My messenger ahead of You.”",
-     "indices": [
+      7,
       8,
       9,
       10,
@@ -72,7 +67,7 @@
      ]
     },
     {
-     "text": "“This messenger will prepare Your way.”",
+     "text": "Isaiah wrote, “This messenger will prepare Your way.”",
      "indices": [
       17,
       18,
@@ -90,7 +85,7 @@
    "scripture": "“A voice of one calling in the wilderness, ‘Prepare the way for the Lord, make straight paths for Him.’ ”",
    "lines": [
     {
-     "text": "A voice cries out in the wilderness:",
+     "text": "Isaiah wrote, “A voice cries out in the wilderness.”",
      "indices": [
       0,
       1,
@@ -103,7 +98,7 @@
      ]
     },
     {
-     "text": "“Prepare the way for the Lord.”",
+     "text": "The voice says, “Prepare the way for the Lord.”",
      "indices": [
       8,
       9,
@@ -114,7 +109,7 @@
      ]
     },
     {
-     "text": "“Make straight paths for Him.”",
+     "text": "The voice says, “Make straight paths for Him.”",
      "indices": [
       14,
       15,
@@ -346,7 +341,7 @@
    "scripture": "I baptize you with water, but He will baptize you with the Holy Spirit.”",
    "lines": [
     {
-     "text": "John said, \"I baptize you with water.\"",
+     "text": "John said, “I baptize you with water.”",
      "indices": [
       0,
       1,
@@ -356,7 +351,7 @@
      ]
     },
     {
-     "text": "\"But he will baptize you with the Holy Spirit\" — John was speaking of Jesus.",
+     "text": "John said, “But He will baptize you with the Holy Spirit.”",
      "indices": [
       5,
       6,
@@ -367,6 +362,55 @@
       11,
       12,
       13
+     ]
+    },
+    {
+     "text": "John was speaking of Jesus.",
+     "indices": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "9"
+   ],
+   "scripture": "In those days Jesus came from Nazareth in Galilee and was baptized by John in the Jordan.",
+   "lines": [
+    {
+     "text": "In those days, Jesus came from Nazareth, a town in Galilee — the northern region of Israel.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "And Jesus was baptized by John in the Jordan River.",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
      ]
     }
    ]
@@ -421,7 +465,7 @@
    "scripture": "And a voice came from heaven: “You are My beloved Son; in You I am well pleased.”",
    "lines": [
     {
-     "text": "And a voice came from heaven, speaking to Jesus:",
+     "text": "A voice came from heaven.",
      "indices": [
       0,
       1,
@@ -432,7 +476,7 @@
      ]
     },
     {
-     "text": "\"You are My beloved Son.\"",
+     "text": "The voice said to Jesus, “You are My beloved Son.”",
      "indices": [
       6,
       7,
@@ -442,7 +486,7 @@
      ]
     },
     {
-     "text": "\"In You I am well pleased.\"",
+     "text": "The voice said, “In You I am well pleased.”",
      "indices": [
       11,
       12,
@@ -517,41 +561,6 @@
   },
   {
    "verse_numbers": [
-    "9"
-   ],
-   "scripture": "In those days Jesus came from Nazareth in Galilee and was baptized by John in the Jordan.",
-   "lines": [
-    {
-     "text": "In those days, Jesus came from Nazareth, a town in Galilee — the northern region of Israel.",
-     "indices": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8
-     ]
-    },
-    {
-     "text": "And Jesus was baptized by John in the Jordan River.",
-     "indices": [
-      9,
-      10,
-      11,
-      12,
-      13,
-      14,
-      15,
-      16
-     ]
-    }
-   ]
-  },
-  {
-   "verse_numbers": [
     "14"
    ],
    "scripture": "After the arrest of John, Jesus went into Galilee and proclaimed the gospel of God.",
@@ -595,7 +604,7 @@
    "scripture": "“The time is fulfilled,” He said, “and the kingdom of God is near. Repent and believe in the gospel!”",
    "lines": [
     {
-     "text": "Jesus said, \"The time has come.\"",
+     "text": "Jesus said, “The time has come.”",
      "indices": [
       0,
       1,
@@ -606,7 +615,7 @@
      ]
     },
     {
-     "text": "\"The kingdom of God — God's rule as King — is near.\"",
+     "text": "Jesus said, “The kingdom of God is near.”",
      "indices": [
       6,
       7,
@@ -618,13 +627,31 @@
      ]
     },
     {
-     "text": "\"Repent — turn away from your sins to God.\"",
+     "text": "The kingdom of God is God’s rule as King.",
+     "indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Jesus said, “Repent.”",
      "indices": [
       13
      ]
     },
     {
-     "text": "\"And believe the good news!\"",
+     "text": "To repent is to turn away from your sins to God.",
+     "indices": [
+      13
+     ]
+    },
+    {
+     "text": "Jesus said, “And believe the good news!”",
      "indices": [
       14,
       15,
@@ -721,7 +748,7 @@
    "scripture": "“Come, follow Me,” Jesus said, “and I will make you fishers of men.”",
    "lines": [
     {
-     "text": "Jesus said to Simon and Andrew, \"Come, follow Me.\"",
+     "text": "Jesus said to Simon and Andrew, “Come, follow Me.”",
      "indices": [
       0,
       1,
@@ -731,7 +758,7 @@
      ]
     },
     {
-     "text": "Jesus promised, \"And I will make you fishers of men.\"",
+     "text": "Jesus promised, “And I will make you fishers of men.”",
      "indices": [
       5,
       6,
@@ -1035,7 +1062,7 @@
      ]
     },
     {
-     "text": "The spirit cried out, \"What do You want with us, Jesus of Nazareth?\"",
+     "text": "The spirit cried out, “What do You want with us, Jesus of Nazareth?”",
      "indices": [
       12,
       13,
@@ -1049,7 +1076,7 @@
      ]
     },
     {
-     "text": "\"Have You come to destroy us?\"",
+     "text": "The spirit said, “Have You come to destroy us?”",
      "indices": [
       21,
       22,
@@ -1060,7 +1087,7 @@
      ]
     },
     {
-     "text": "\"I know who You are — You are the Holy One of God!\"",
+     "text": "The spirit said, “I know who You are — You are the Holy One of God!”",
      "indices": [
       27,
       28,
@@ -1093,7 +1120,7 @@
      ]
     },
     {
-     "text": "He said to the spirit, \"Be silent!\"",
+     "text": "Jesus said to the spirit, “Be silent!”",
      "indices": [
       5,
       6,
@@ -1102,7 +1129,7 @@
      ]
     },
     {
-     "text": "Jesus commanded, \"Come out of him!\"",
+     "text": "Jesus commanded, “Come out of him!”",
      "indices": [
       9,
       10,
@@ -1185,7 +1212,7 @@
      ]
     },
     {
-     "text": "\"What is this?\" they said.",
+     "text": "The people said, “What is this?”",
      "indices": [
       11,
       12,
@@ -1193,7 +1220,7 @@
      ]
     },
     {
-     "text": "\"This is a new teaching, and it carries real authority!\"",
+     "text": "The people said, “This is a new teaching, and it carries real authority!”",
      "indices": [
       14,
       15,
@@ -1203,7 +1230,7 @@
      ]
     },
     {
-     "text": "\"He even gives orders to the unclean spirits.\"",
+     "text": "The people said, “He even gives orders to the unclean spirits.”",
      "indices": [
       19,
       20,
@@ -1214,7 +1241,7 @@
      ]
     },
     {
-     "text": "\"And the spirits obey Him!\"",
+     "text": "The people said, “And the spirits obey Him!”",
      "indices": [
       25,
       26,
