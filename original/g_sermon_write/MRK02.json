@@ -625,6 +625,468 @@
      ]
     }
    ]
+  },
+  {
+   "verse_numbers": [
+    "13"
+   ],
+   "scripture": "Once again Jesus went out beside the sea. All the people came to Him, and He taught them there.",
+   "lines": [
+    {
+     "text": "Jesus went out of Capernaum again, to the shore of the Sea of Galilee.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "The whole crowd kept coming to Jesus.",
+     "indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "Jesus kept teaching the crowd.",
+     "indices": [
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "14"
+   ],
+   "scripture": "As He was walking along, He saw Levi son of Alphaeus sitting at the tax booth. “Follow Me,” He told him, and Levi got up and followed Him.",
+   "lines": [
+    {
+     "text": "As Jesus was walking along, Jesus saw a man named Levi.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "Levi was the son of Alphaeus.",
+     "indices": [
+      7,
+      8,
+      9,
+      10
+     ]
+    },
+    {
+     "text": "Levi was sitting at the tax booth.",
+     "indices": [
+      11,
+      12,
+      13,
+      14,
+      15
+     ]
+    },
+    {
+     "text": "Levi’s job was to collect taxes — money that the people had to pay to the rulers.",
+     "indices": [
+      13,
+      14,
+      15
+     ]
+    },
+    {
+     "text": "Jesus said to Levi, “Follow Me.”",
+     "indices": [
+      16,
+      17,
+      18,
+      19,
+      20
+     ]
+    },
+    {
+     "text": "Levi got up and followed Jesus.",
+     "indices": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "15"
+   ],
+   "scripture": "While Jesus was dining at Levi’s house, many tax collectors and sinners were eating with Him and His disciples—for there were many who followed Him.",
+   "lines": [
+    {
+     "text": "Jesus was having a meal at Levi’s house.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "text": "A disciple is someone who follows a teacher in order to learn from him.",
+     "indices": [
+      18
+     ]
+    },
+    {
+     "text": "Here “sinners” means people known for living sinful lives.",
+     "indices": [
+      11
+     ]
+    },
+    {
+     "text": "Many tax collectors and sinners were eating with Jesus and His disciples.",
+     "indices": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "There were many people following Jesus.",
+     "indices": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "16"
+   ],
+   "scripture": "When the scribes who were Pharisees saw Jesus eating with these people, they asked His disciples, “Why does He eat with tax collectors and sinners?”",
+   "lines": [
+    {
+     "text": "The Pharisees were a group of Jews who were very strict about keeping God’s law and their own traditions.",
+     "indices": [
+      5
+     ]
+    },
+    {
+     "text": "Some of the scribes were Pharisees.",
+     "indices": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "The scribes who were Pharisees saw Jesus eating with tax collectors and sinners.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "Tax collectors were known for being corrupt — collecting more money than they ought, to make themselves richer — so many people looked down on tax collectors.",
+     "indices": [
+      21,
+      22
+     ]
+    },
+    {
+     "text": "Eating a meal with someone was a sign of friendship.",
+     "indices": [
+      8,
+      9
+     ]
+    },
+    {
+     "text": "The scribes asked Jesus’ disciples, “Why does He eat with tax collectors and sinners?”",
+     "indices": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "17"
+   ],
+   "scripture": "On hearing this, Jesus told them, “It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners.”",
+   "lines": [
+    {
+     "text": "Jesus heard what the scribes asked.",
+     "indices": [
+      0,
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "text": "Jesus said to the scribes, “Healthy people do not need a doctor, but sick people do.”",
+     "indices": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "text": "Righteous people are people who do what is right.",
+     "indices": [
+      25
+     ]
+    },
+    {
+     "text": "Jesus called people to follow Him, just as Jesus called Levi.",
+     "indices": [
+      23
+     ]
+    },
+    {
+     "text": "Jesus said, “I have not come to call righteous people, but sinners.”",
+     "indices": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+     ]
+    },
+    {
+     "text": "Just as sick people need doctors, sinners need Jesus.",
+     "indices": [
+      14,
+      17,
+      27
+     ]
+    },
+    {
+     "text": "Sinners who mistakenly judge themselves as righteous don’t yet realize they need Jesus.",
+     "indices": [
+      25,
+      27
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "18"
+   ],
+   "scripture": "Now John’s disciples and the Pharisees were often fasting. So people came to Jesus and asked, “Why don’t Your disciples fast like John’s disciples and those of the Pharisees?”",
+   "lines": [
+    {
+     "text": "To fast means to go without food for a time, often to pray and seek God.",
+     "indices": [
+      8
+     ]
+    },
+    {
+     "text": "The disciples of John the Baptist were fasting, and the Pharisees were fasting too.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "Some people came to Jesus.",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "The people asked Jesus, “Why do the disciples of John and the disciples of the Pharisees fast, but Your disciples do not fast?”",
+     "indices": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "19"
+   ],
+   "scripture": "Jesus replied, “How can the guests of the bridegroom fast while He is with them? As long as He is with them, they cannot fast.",
+   "lines": [
+    {
+     "text": "A bridegroom is a man who is getting married.",
+     "indices": [
+      8
+     ]
+    },
+    {
+     "text": "At a wedding, the bridegroom’s guests celebrate with him — a wedding is a time of joy, not a time of fasting.",
+     "indices": [
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "Jesus replied, “How can the guests of the bridegroom fast while the bridegroom is with them?”",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "text": "Jesus said, “As long as the bridegroom is with them, the guests cannot fast.”",
+     "indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+     ]
+    },
+    {
+     "text": "Jesus spoke of Himself as the bridegroom.",
+     "indices": [
+      8
+     ]
+    },
+    {
+     "text": "Jesus spoke of His disciples as the guests.",
+     "indices": [
+      5
+     ]
+    },
+    {
+     "text": "While Jesus was with His disciples, it was a time of joy for them, not a time of fasting.",
+     "indices": [
+      13,
+      22,
+      23,
+      24
+     ]
+    }
+   ]
   }
  ]
 }

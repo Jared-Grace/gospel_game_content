@@ -996,6 +996,12 @@
    "scripture": "We have this hope as an anchor for the soul, firm and secure. It enters the inner sanctuary behind the curtain, where Jesus our forerunner has entered on our behalf. He has become a high priest forever in the order of Melchizedek.",
    "lines": [
     {
+     "text": "An anchor holds a ship steady, so the waves cannot carry it away.",
+     "indices": [
+      6
+     ]
+    },
+    {
      "text": "We have this hope as an anchor for the soul.",
      "indices": [
       0,
@@ -1011,18 +1017,19 @@
      ]
     },
     {
-     "text": "An anchor holds a ship steady, so the waves cannot carry it away.",
-     "indices": [
-      6
-     ]
-    },
-    {
-     "text": "Our hope is firm and secure.",
+     "text": "Our hope is firm.",
      "indices": [
       2,
       3,
       10,
-      11,
+      11
+     ]
+    },
+    {
+     "text": "Our hope is secure.",
+     "indices": [
+      2,
+      3,
       12
      ]
     },
@@ -1064,7 +1071,7 @@
      ]
     },
     {
-     "text": "Jesus is our forerunner — He went in first, so that we can follow.",
+     "text": "Jesus is our forerunner — He went in first, so that we can follow Him.",
      "indices": [
       22,
       23,
