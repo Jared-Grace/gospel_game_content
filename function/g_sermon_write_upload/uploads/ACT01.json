@@ -1047,6 +1047,22 @@
    "scripture": "(Now with the reward for his wickedness Judas bought a field; there he fell headlong and burst open in the middle, and all his intestines spilled out.",
    "lines": [
     {
+     "text": "It was wicked for Judas Iscariot to betray Jesus.",
+     "indices": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "Judas Iscariot was paid to betray Jesus — and that payment was the reward Judas Iscariot received for his wickedness.",
+     "indices": [
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
      "text": "Judas Iscariot bought a field with the reward for his wickedness.",
      "indices": [
       0,
@@ -1063,16 +1079,7 @@
      ]
     },
     {
-     "text": "The reward for the wickedness of Judas Iscariot was the money Judas Iscariot was paid for betraying Jesus.",
-     "indices": [
-      3,
-      4,
-      5,
-      6
-     ]
-    },
-    {
-     "text": "Judas Iscariot fell headlong — head first.",
+     "text": "Judas Iscariot fell headlong — head first in that field.",
      "indices": [
       11,
       12,

@@ -387,6 +387,32 @@
    "scripture": "“Which is easier: to say to a paralytic, ‘Your sins are forgiven,’ or to say, ‘Get up, pick up your mat, and walk’?",
    "lines": [
     {
+     "text": "Anyone can say, “Your sins are forgiven” — no one can see whether a person’s sins are forgiven.",
+     "indices": [
+      3,
+      4,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "But if someone says, “Get up, pick up your mat, and walk,” everyone can see whether the paralyzed man walks — whether or not the person speaking has the power to do a miracle.",
+     "indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+     ]
+    },
+    {
      "text": "Jesus asked the scribes, “Which is easier: to say to a paralyzed man, ‘Your sins are forgiven,’ or to say, ‘Get up, pick up your mat, and walk’?”",
      "indices": [
       0,
@@ -413,31 +439,189 @@
       21,
       22
      ]
-    },
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "10",
+    "11"
+   ],
+   "scripture": "But so that you may know that the Son of Man has authority on earth to forgive sins...” He said to the paralytic, “I tell you, get up, pick up your mat, and go home.”",
+   "lines": [
     {
-     "text": "Anyone can say, “Your sins are forgiven” — no one can see whether a person’s sins are forgiven.",
+     "text": "Jesus called Himself the Son of Man — Mary gave birth to Jesus and Mary is ultimately from the man Adam.",
      "indices": [
-      3,
-      4,
+      7,
       8,
       9,
-      10,
-      11
+      10
      ]
     },
     {
-     "text": "But if someone says, “Get up, pick up your mat, and walk,” everyone can see whether the paralyzed man walks.",
+     "text": "Authority on earth to forgive sins means that God has given someone on earth the right and the power to forgive sins.",
+     "indices": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "text": "Jesus said to the scribes, “The Son of Man has authority on earth to forgive sins.”",
+     "indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "text": "Jesus wanted the scribes to know that He has authority to forgive sins — if Jesus claims to forgive, and God allows Jesus to do a miracle at the same time, then the miracle is God bearing witness that everything Jesus says is true.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "So Jesus said to the paralyzed man, “I tell you, get up.”",
+     "indices": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+     ]
+    },
+    {
+     "text": "Jesus said, “Pick up your mat.”",
+     "indices": [
+      28,
+      29,
+      30,
+      31
+     ]
+    },
+    {
+     "text": "Jesus said, “And go home.”",
+     "indices": [
+      32,
+      33,
+      34
+     ]
+    },
+    {
+     "text": "If the man got up and walked, everyone could see that Jesus really has authority to forgive sins.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "12"
+   ],
+   "scripture": "And immediately the man got up, picked up his mat, and walked out in front of them all. As a result, they were all astounded and glorified God, saying, “We have never seen anything like this!”",
+   "lines": [
+    {
+     "text": "As soon as Jesus spoke, the paralyzed man was healed and got up.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "The man picked up his mat.",
+     "indices": [
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "The man walked out in front of everyone.",
+     "indices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "text": "Everyone there saw it — including the scribes.",
      "indices": [
       13,
       14,
       15,
       16,
-      17,
+      17
+     ]
+    },
+    {
+     "text": "Everyone was amazed.",
+     "indices": [
       18,
       19,
       20,
       21,
-      22
+      22,
+      23,
+      24
+     ]
+    },
+    {
+     "text": "Everyone praised God.",
+     "indices": [
+      25,
+      26,
+      27
+     ]
+    },
+    {
+     "text": "The people said, “We have never seen anything like this!”",
+     "indices": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
      ]
     }
    ]
