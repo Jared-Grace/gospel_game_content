@@ -8,6 +8,13 @@
    "scripture": "This is a trustworthy saying: If anyone aspires to be an overseer, he desires a noble task.",
    "lines": [
     {
+     "text": "A church is God’s people — everyone who belongs to Jesus, gathered together.",
+     "indices": [
+      10,
+      11
+     ]
+    },
+    {
      "text": "An overseer is a leader who watches over and cares for a church.",
      "indices": [
       10,
@@ -248,15 +255,6 @@
    "scripture": "For if someone does not know how to manage his own household, how can he care for the church of God?",
    "lines": [
     {
-     "text": "The church of God is God’s people — everyone who belongs to Jesus, gathered together.",
-     "indices": [
-      17,
-      18,
-      19,
-      20
-     ]
-    },
-    {
      "text": "If a man does not know how to manage his own household, how can he take care of the church of God?",
      "indices": [
       0,
@@ -289,6 +287,86 @@
       11,
       15,
       18
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "6"
+   ],
+   "scripture": "He must not be a recent convert, or he may become conceited and fall under the same condemnation as the devil.",
+   "lines": [
+    {
+     "text": "A recent convert is someone who has only just come to believe in Jesus — like a plant newly put into the ground.",
+     "indices": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "An overseer must not be a recent convert.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "text": "To be conceited is to be puffed up with pride — to think too highly of yourself.",
+     "indices": [
+      11
+     ]
+    },
+    {
+     "text": "A recent convert who is made a leader too soon may become conceited.",
+     "indices": [
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "The devil, also called Satan, is the enemy of God and of God’s people.",
+     "indices": [
+      20
+     ]
+    },
+    {
+     "text": "Condemnation is being judged guilty and punished.",
+     "indices": [
+      17
+     ]
+    },
+    {
+     "text": "A conceited overseer may fall under the same condemnation as the devil.",
+     "indices": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+     ]
+    },
+    {
+     "text": "Paul’s words can mean the condemnation God gave the devil for pride, or the condemnation the devil tries to bring on God’s people.",
+     "indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
      ]
     }
    ]

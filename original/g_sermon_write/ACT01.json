@@ -1259,7 +1259,7 @@
    "scripture": "Therefore it is necessary to choose one of the men who have accompanied us the whole time the Lord Jesus went in and out among us, beginning from John’s baptism until the day Jesus was taken up from us. For one of these must become a witness with us of His resurrection.”",
    "lines": [
     {
-     "text": "“Went in and out among us” means lived and traveled with them day by day.",
+     "text": "When Peter said “went in and out among us,” Peter meant that Jesus lived and traveled with the disciples day by day.",
      "indices": [
       20,
       21,
@@ -1347,6 +1347,105 @@
      "indices": [
       46,
       51
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "23"
+   ],
+   "scripture": "So they proposed two men: Joseph called Barsabbas (also known as Justus) and Matthias.",
+   "lines": [
+    {
+     "text": "The believers put forward two men who had been with Jesus the whole time.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "The first man was Joseph, who was called Barsabbas.",
+     "indices": [
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "Joseph Barsabbas was also known as Justus.",
+     "indices": [
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "The second man was Matthias.",
+     "indices": [
+      12,
+      13
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "24",
+    "25"
+   ],
+   "scripture": "And they prayed, “Lord, You know everyone’s heart. Show us which of these two You have chosen to take up this ministry and apostleship, which Judas abandoned to go to his rightful place.”",
+   "lines": [
+    {
+     "text": "The believers prayed, “Lord, You know the hearts of everyone.”",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "The believers prayed, “Show us which one of these two men You have chosen to take up this ministry as an apostle.”",
+     "indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+     ]
+    },
+    {
+     "text": "The believers prayed, “Judas Iscariot turned away from this ministry and from being an apostle to go to his own place.”",
+     "indices": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
      ]
     }
    ]

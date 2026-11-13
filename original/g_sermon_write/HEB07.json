@@ -127,7 +127,13 @@
    "scripture": "Without father or mother or genealogy, without beginning of days or end of life, like the Son of God, he remains a priest for all time.",
    "lines": [
     {
-     "text": "A genealogy is a written list of a person’s ancestors — parents, grandparents, and so on.",
+     "text": "A genealogy is a written record of a person’s family line.",
+     "indices": [
+      5
+     ]
+    },
+    {
+     "text": "Israel’s priests had to prove from a genealogy that they came from the family of Aaron.",
      "indices": [
       5
      ]
@@ -144,10 +150,16 @@
      ]
     },
     {
-     "text": "Genesis, the book of the Scriptures that tells about Melchizedek, does not name his father or mother or any of his ancestors.",
+     "text": "Genesis, the book of the Scriptures that tells about Melchizedek, does not name his father or mother or anyone else in his family line.",
      "indices": [
       1,
       3,
+      5
+     ]
+    },
+    {
+     "text": "So Melchizedek did not become a priest because of his family.",
+     "indices": [
       5
      ]
     },
