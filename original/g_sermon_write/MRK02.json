@@ -1440,6 +1440,15 @@
      ]
     },
     {
+     "text": "The Pharisees studied God’s written word closely, so the Pharisees had read about David.",
+     "indices": [
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
      "text": "Jesus answered the Pharisees with a question.",
      "indices": [
       0,
@@ -1469,14 +1478,149 @@
       17,
       18
      ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "26"
+   ],
+   "scripture": "During the high priesthood of Abiathar, he entered the house of God and ate the consecrated bread, which was lawful only for the priests. And he gave some to his companions as well.”",
+   "lines": [
+    {
+     "text": "In David’s time, the house of God was a tent where the people of Israel worshiped God — the temple building had not yet been built.",
+     "indices": [
+      8,
+      9,
+      10,
+      11
+     ]
     },
     {
-     "text": "The Pharisees studied God’s written word closely, so the Pharisees had read about David.",
+     "text": "Priests were men who served God at the house of God.",
      "indices": [
+      23
+     ]
+    },
+    {
+     "text": "The high priest was the leader of all the priests.",
+     "indices": [
+      2,
+      3
+     ]
+    },
+    {
+     "text": "The consecrated bread was holy bread — twelve loaves set out before God in the house of God each week.",
+     "indices": [
+      14,
+      15,
+      16
+     ]
+    },
+    {
+     "text": "God’s law said only the priests could eat the consecrated bread.",
+     "indices": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+     ]
+    },
+    {
+     "text": "However, David and his men were not priests.",
+     "indices": [
+      23
+     ]
+    },
+    {
+     "text": "Jesus said, “In the time of Abiathar the high priest, David went into the house of God and ate the consecrated bread.”",
+     "indices": [
+      0,
+      1,
       2,
       3,
       4,
-      5
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+     ]
+    },
+    {
+     "text": "Jesus said, “David also gave some of the consecrated bread to the men with David.”",
+     "indices": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "27"
+   ],
+   "scripture": "Then Jesus declared, “The Sabbath was made for man, not man for the Sabbath.",
+   "lines": [
+    {
+     "text": "Jesus said to the Pharisees, “The Sabbath was made for people.”",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "Jesus said, “People were not made for the Sabbath.”",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "God made the Sabbath as a gift to people — a day for people to rest and worship God.",
+     "indices": [
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "God’s rules about the Sabbath were meant to help people, not to harm people.",
+     "indices": [
+      7,
+      8,
+      9,
+      10,
+      11
      ]
     }
    ]

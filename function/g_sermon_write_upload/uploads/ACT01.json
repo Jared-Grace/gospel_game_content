@@ -1401,6 +1401,20 @@
    "scripture": "And they prayed, “Lord, You know everyone’s heart. Show us which of these two You have chosen to take up this ministry and apostleship, which Judas abandoned to go to his rightful place.”",
    "lines": [
     {
+     "text": "The believers prayed, “Judas Iscariot turned away from this ministry and from being an apostle to go to his own place.”",
+     "indices": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+     ]
+    },
+    {
      "text": "The believers prayed, “Lord, You know the hearts of everyone.”",
      "indices": [
       0,
@@ -1414,7 +1428,7 @@
      ]
     },
     {
-     "text": "The believers prayed, “Show us which one of these two men You have chosen to take up this ministry as an apostle.”",
+     "text": "The believers prayed, “Show us which one of these two men You have chosen to take up this ministry as an apostle in place of Judas Iscariot.”",
      "indices": [
       8,
       9,
@@ -1431,21 +1445,64 @@
       20,
       21,
       22,
-      23
+      23,
+      25
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "26"
+   ],
+   "scripture": "Then they cast lots, and the lot fell to Matthias; so he was added to the eleven apostles.",
+   "lines": [
+    {
+     "text": "Casting lots was a way of choosing — marked stones or sticks were shaken or drawn out, and the one that came out showed the choice.",
+     "indices": [
+      2,
+      3
      ]
     },
     {
-     "text": "The believers prayed, “Judas Iscariot turned away from this ministry and from being an apostle to go to his own place.”",
+     "text": "The believers had asked God to show which man God had chosen, and then the believers cast lots.",
      "indices": [
-      24,
-      25,
-      26,
-      27,
-      28,
-      29,
-      30,
-      31,
-      32
+      0,
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "text": "The lot fell to Matthias.",
+     "indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "So Matthias was counted as an apostle, together with the eleven apostles.",
+     "indices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "text": "With Matthias, there were twelve apostles again.",
+     "indices": [
+      9,
+      16,
+      17
      ]
     }
    ]
