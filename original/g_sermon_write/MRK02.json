@@ -1580,6 +1580,49 @@
    "scripture": "Then Jesus declared, “The Sabbath was made for man, not man for the Sabbath.",
    "lines": [
     {
+     "text": "God made the Sabbath as a gift to help people — a day for people to rest and worship God.",
+     "indices": [
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "God’s rules about the Sabbath were meant to help people, not to harm people.",
+     "indices": [
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "God did not make people to help the Sabbath — God made the Sabbath to help people.",
+     "indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "God made people on day six, and the Sabbath is day seven — people come before the Sabbath.",
+     "indices": [
+      8,
+      10,
+      13
+     ]
+    },
+    {
      "text": "Jesus said to the Pharisees, “The Sabbath was made for people.”",
      "indices": [
       0,
@@ -1601,26 +1644,6 @@
       11,
       12,
       13
-     ]
-    },
-    {
-     "text": "God made the Sabbath as a gift to people — a day for people to rest and worship God.",
-     "indices": [
-      4,
-      5,
-      6,
-      7,
-      8
-     ]
-    },
-    {
-     "text": "God’s rules about the Sabbath were meant to help people, not to harm people.",
-     "indices": [
-      7,
-      8,
-      9,
-      10,
-      11
      ]
     }
    ]
