@@ -453,6 +453,113 @@
      ]
     }
    ]
+  },
+  {
+   "verse_numbers": [
+    "8"
+   ],
+   "scripture": "Deacons likewise must be dignified, not double-tongued or given to much wine or greedy for money.",
+   "lines": [
+    {
+     "text": "The word “deacon” means “servant” — deacons serve the church.",
+     "indices": [
+      0
+     ]
+    },
+    {
+     "text": "Like overseers, deacons must be dignified — reverent, serious, and worthy of respect.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "Deacons must not be double-tongued — deacons must speak the truth in love to all.",
+     "indices": [
+      0,
+      2,
+      3,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "Deacons must be servants of God, not servants of wine — deacons must not be drunk with wine.",
+     "indices": [
+      0,
+      2,
+      3,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Deacons must not be greedy for money — willing to sin to get richer.",
+     "indices": [
+      0,
+      2,
+      3,
+      13,
+      14,
+      15,
+      16
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "9"
+   ],
+   "scripture": "They must hold to the mystery of the faith with a clear conscience.",
+   "lines": [
+    {
+     "text": "In the Bible, a mystery is a truth that God has hidden until He reveals it.",
+     "indices": [
+      5
+     ]
+    },
+    {
+     "text": "Here “the faith” means our Christian faith that we believe, trust, and obey.",
+     "indices": [
+      7,
+      8
+     ]
+    },
+    {
+     "text": "Deacons must hold firmly to the mystery of the faith — we know only in part, but we fully trust God.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "Deacons must hold to the faith with a clear conscience — they must not continue in sin on purpose.",
+     "indices": [
+      0,
+      1,
+      2,
+      9,
+      10,
+      11,
+      12
+     ]
+    }
+   ]
   }
  ]
 }
