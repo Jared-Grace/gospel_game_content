@@ -1,0 +1,88 @@
+{
+ "chapter_code": "MRK03",
+ "passages": [
+  {
+   "verse_numbers": [
+    "1"
+   ],
+   "scripture": "Once again Jesus entered the synagogue, and a man with a withered hand was there.",
+   "lines": [
+    {
+     "text": "Jesus went into the synagogue again.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "Something withered has dried up and shriveled, like a plant that dries up.",
+     "indices": [
+      11
+     ]
+    },
+    {
+     "text": "A man whose hand was withered was in the synagogue.",
+     "indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "2"
+   ],
+   "scripture": "In order to accuse Jesus, they were watching to see if He would heal on the Sabbath.",
+   "lines": [
+    {
+     "text": "Some people in the synagogue watched Jesus closely to see if He would heal the man with the withered hand on the Sabbath.",
+     "indices": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+     ]
+    },
+    {
+     "text": "Those people considered healing to be work, and God’s law said no one should work on the Sabbath.",
+     "indices": [
+      13,
+      14,
+      15,
+      16
+     ]
+    },
+    {
+     "text": "Those people wanted to accuse Jesus of breaking God’s law.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    }
+   ]
+  }
+ ]
+}

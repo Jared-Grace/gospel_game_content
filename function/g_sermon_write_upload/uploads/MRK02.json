@@ -1647,6 +1647,53 @@
      ]
     }
    ]
+  },
+  {
+   "verse_numbers": [
+    "28"
+   ],
+   "scripture": "Therefore, the Son of Man is Lord even of the Sabbath.”",
+   "lines": [
+    {
+     "text": "To be Lord of something is to be its master — the one with authority over it.",
+     "indices": [
+      6
+     ]
+    },
+    {
+     "text": "Jesus said, “So the Son of Man is Lord even of the Sabbath.”",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    },
+    {
+     "text": "Jesus has authority to say what is allowed on the Sabbath and what isn't.",
+     "indices": [
+      5,
+      6,
+      9,
+      10
+     ]
+    },
+    {
+     "text": "So Jesus has the right to judge whether His disciples kept or broke the Sabbath.",
+     "indices": [
+      0,
+      6,
+      10
+     ]
+    }
+   ]
   }
  ]
 }

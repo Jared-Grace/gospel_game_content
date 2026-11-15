@@ -333,15 +333,30 @@
      ]
     },
     {
-     "text": "The devil, also called Satan, is the enemy of God and of God’s people.",
+     "text": "The devil, also called Satan, is an enemy of God and of God’s people.",
      "indices": [
       20
      ]
     },
     {
-     "text": "Condemnation is being judged guilty and punished.",
+     "text": "Condemnation is being judged guilty and sentenced to punishment.",
      "indices": [
       17
+     ]
+    },
+    {
+     "text": "The devil was prideful and fell under condemnation himself.",
+     "indices": [
+      17,
+      18,
+      19,
+      20
+     ]
+    },
+    {
+     "text": "The devil is also called the accuser of God’s people, because he accuses them before God.",
+     "indices": [
+      20
      ]
     },
     {
@@ -357,16 +372,84 @@
       19,
       20
      ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "7"
+   ],
+   "scripture": "Furthermore, he must have a good reputation with outsiders, so that he will not fall into disgrace and into the snare of the devil.",
+   "lines": [
+    {
+     "text": "A good reputation means people speak well of you because of how you live.",
+     "indices": [
+      4,
+      5,
+      6
+     ]
     },
     {
-     "text": "Paul’s words can mean the condemnation God gave the devil for pride, or the condemnation the devil tries to bring on God’s people.",
+     "text": "Outsiders are people who do not belong to the church.",
      "indices": [
+      8
+     ]
+    },
+    {
+     "text": "An overseer must also have a good reputation with outsiders.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "Disgrace is being spoken against and looked down on by others.",
+     "indices": [
+      16
+     ]
+    },
+    {
+     "text": "Then the overseer will not fall into disgrace.",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
       15,
-      16,
+      16
+     ]
+    },
+    {
+     "text": "A snare is a trap, like one used to catch a bird or an animal.",
+     "indices": [
+      20
+     ]
+    },
+    {
+     "text": "Then the overseer will not fall into the snare of the devil.",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
       17,
       18,
       19,
-      20
+      20,
+      21,
+      22,
+      23
      ]
     }
    ]

@@ -1,0 +1,189 @@
+{
+ "chapter_code": "ACT02",
+ "passages": [
+  {
+   "verse_numbers": [
+    "1"
+   ],
+   "scripture": "When the day of Pentecost came, they were all together in one place.",
+   "lines": [
+    {
+     "text": "Pentecost was a Jewish feast held fifty days after the feast of Passover — the name Pentecost means “fiftieth.”",
+     "indices": [
+      4
+     ]
+    },
+    {
+     "text": "At Pentecost, the Jews thanked God for the harvest of grain.",
+     "indices": [
+      4
+     ]
+    },
+    {
+     "text": "When the day of Pentecost came, the believers were all together in one place.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "2"
+   ],
+   "scripture": "Suddenly a sound like a mighty rushing wind came from heaven and filled the whole house where they were sitting.",
+   "lines": [
+    {
+     "text": "Suddenly a sound came from heaven.",
+     "indices": [
+      0,
+      1,
+      2,
+      8,
+      9,
+      10
+     ]
+    },
+    {
+     "text": "The sound was like a strong, rushing wind.",
+     "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "The believers were sitting in a house.",
+     "indices": [
+      15,
+      16,
+      17,
+      18,
+      19
+     ]
+    },
+    {
+     "text": "The sound filled the whole house.",
+     "indices": [
+      11,
+      12,
+      13,
+      14,
+      15
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "3"
+   ],
+   "scripture": "They saw tongues like flames of fire that separated and came to rest on each of them.",
+   "lines": [
+    {
+     "text": "The believers saw what looked like tongues of fire.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "text": "The tongues of fire separated.",
+     "indices": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "A tongue of fire came to rest on each of the believers.",
+     "indices": [
+      2,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "4"
+   ],
+   "scripture": "And they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them.",
+   "lines": [
+    {
+     "text": "All the believers were filled with the Holy Spirit.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "text": "The word that means “tongue” can also mean “language.”",
+     "indices": [
+      15
+     ]
+    },
+    {
+     "text": "The believers began to speak in other languages.",
+     "indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+     ]
+    },
+    {
+     "text": "The Holy Spirit gave the believers the ability to speak these languages.",
+     "indices": [
+      16,
+      17,
+      18,
+      19,
+      20
+     ]
+    }
+   ]
+  }
+ ]
+}
