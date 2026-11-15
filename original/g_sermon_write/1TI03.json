@@ -560,6 +560,51 @@
      ]
     }
    ]
+  },
+  {
+   "verse_numbers": [
+    "10"
+   ],
+   "scripture": "Additionally, they must first be tested. Then, if they are above reproach, let them serve as deacons.",
+   "lines": [
+    {
+     "text": "Deacons must also first be tested — their lives must be examined to see if they are fit to serve.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "Deacons must be above reproach — no one can rightly accuse them of doing wrong.",
+     "indices": [
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "text": "Then, if those being tested are above reproach, they may serve as deacons.",
+     "indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+     ]
+    }
+   ]
   }
  ]
 }

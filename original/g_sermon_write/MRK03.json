@@ -83,6 +83,114 @@
      ]
     }
    ]
+  },
+  {
+   "verse_numbers": [
+    "3"
+   ],
+   "scripture": "Then Jesus said to the man with the withered hand, “Stand up among us.”",
+   "lines": [
+    {
+     "text": "Jesus said to the man with the withered hand, “Get up and stand in the middle.”",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "So the man would stand in the middle of the synagogue, where everyone could see him.",
+     "indices": [
+      10,
+      11,
+      12,
+      13
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "4"
+   ],
+   "scripture": "And He asked them, “Which is lawful on the Sabbath: to do good or to do evil, to save life or to destroy it?” But they were silent.",
+   "lines": [
+    {
+     "text": "Jesus asked the people watching Him a question.",
+     "indices": [
+      0,
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "text": "Jesus said, “Is it lawful on the Sabbath to do good, or to do evil?”",
+     "indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+     ]
+    },
+    {
+     "text": "Jesus said, “Is it lawful on the Sabbath to save a life, or to destroy a life?”",
+     "indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+     ]
+    },
+    {
+     "text": "If doing good is lawful on the Sabbath, then healing the man is lawful on the Sabbath.",
+     "indices": [
+      5,
+      6,
+      9,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "But the people watching Jesus kept silent — the people watching Jesus would not answer.",
+     "indices": [
+      24,
+      25,
+      26,
+      27
+     ]
+    }
+   ]
   }
  ]
 }
