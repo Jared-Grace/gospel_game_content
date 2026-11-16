@@ -57,7 +57,7 @@
      ]
     },
     {
-     "text": "The sound was like a strong, rushing wind.",
+     "text": "The sound was like a mighty, rushing wind.",
      "indices": [
       1,
       2,
@@ -192,7 +192,7 @@
    "scripture": "Now there were dwelling in Jerusalem God-fearing Jews from every nation under heaven.",
    "lines": [
     {
-     "text": "To be God-fearing is to deeply respect God, knowing that God punishes sin, and so to carefully avoid sin.",
+     "text": "Here “God-fearing” means devoting your life to God.",
      "indices": [
       6,
       7
@@ -219,6 +219,108 @@
       9,
       10,
       11,
+      12,
+      13
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "6"
+   ],
+   "scripture": "And when this sound rang out, a crowd came together in bewilderment, because each one heard them speaking his own language.",
+   "lines": [
+    {
+     "text": "When this sound — like a mighty, rushing wind — rang out, a crowd came together.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "text": "Each person in the crowd heard the believers speaking his own language.",
+     "indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+     ]
+    },
+    {
+     "text": "To be bewildered is to be confused and unable to understand what is happening.",
+     "indices": [
+      11
+     ]
+    },
+    {
+     "text": "So the crowd was bewildered.",
+     "indices": [
+      10,
+      11,
+      12
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "7"
+   ],
+   "scripture": "Astounded and amazed, they asked, “Are not all these men who are speaking Galileans?",
+   "lines": [
+    {
+     "text": "To be astounded is to be so surprised that you can hardly believe what is happening.",
+     "indices": [
+      0
+     ]
+    },
+    {
+     "text": "The crowd was astounded and amazed.",
+     "indices": [
+      0,
+      1,
+      2
+     ]
+    },
+    {
+     "text": "Galileans are people from Galilee, in northern Israel.",
+     "indices": [
+      13
+     ]
+    },
+    {
+     "text": "The crowd asked, “Are not all these men who are speaking Galileans?”",
+     "indices": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "Men from Galilee were not expected to speak the languages of so many nations.",
+     "indices": [
+      9,
       12,
       13
      ]

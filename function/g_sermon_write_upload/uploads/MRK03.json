@@ -182,12 +182,101 @@
      ]
     },
     {
-     "text": "But the people watching Jesus kept silent — the people watching Jesus would not answer.",
+     "text": "But the people watching Jesus kept silent — the people watching Jesus would not answer what Jesus asked.",
      "indices": [
       24,
       25,
       26,
       27
+     ]
+    }
+   ]
+  },
+  {
+   "verse_numbers": [
+    "5"
+   ],
+   "scripture": "Jesus looked around at them with anger and sorrow at their hardness of heart. Then He said to the man, “Stretch out your hand.” So he stretched it out, and it was restored.",
+   "lines": [
+    {
+     "text": "Jesus looked around at the people watching Him.",
+     "indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "Hardness of heart is a stubborn refusal to accept the truth — even after seeing it.",
+     "indices": [
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "Jesus felt anger and sorrow at the hardness of heart of the people watching Him.",
+     "indices": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "text": "Then Jesus said to the man, “Stretch out your hand.”",
+     "indices": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+     ]
+    },
+    {
+     "text": "So the man stretched out his hand.",
+     "indices": [
+      24,
+      25,
+      26,
+      27,
+      28
+     ]
+    },
+    {
+     "text": "To be restored is to be made healthy again, as it was before.",
+     "indices": [
+      32
+     ]
+    },
+    {
+     "text": "The hand of the man was restored.",
+     "indices": [
+      29,
+      30,
+      31,
+      32
+     ]
+    },
+    {
+     "text": "So Jesus healed the man on the Sabbath, in front of the people watching Him.",
+     "indices": [
+      29,
+      30,
+      31,
+      32
      ]
     }
    ]
